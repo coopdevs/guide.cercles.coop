@@ -1,0 +1,2 @@
+# Resultats de les votacions
+
