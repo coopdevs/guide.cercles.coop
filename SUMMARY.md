@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Toolkit Assemblees virtuals](README.md)
+* [Toolkit: Assemblees virtuals](README.md)
+* [Posada en marxa d'una assemblea virtual](posada-en-marxa.md)
 
 ## Votacions
 
