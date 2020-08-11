@@ -1,6 +1,6 @@
 # Videconferència
 
-çPer valorar l'eina de videoconferència hem de decidir si la reunió serà: 
+Per valorar l'eina de videoconferència hem de decidir si la reunió serà: 
 
 * Privada: Només hi poden accedir les sòcies de ple dret de la cooperativa. 
 * Oberta al públic: qualsevol persona interessada pot seguir la reunió
