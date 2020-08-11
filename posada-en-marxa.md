@@ -1,4 +1,4 @@
-# Posada en marxa d'una assemblea virtual
+# 2. Posada en marxa d'una assemblea virtual
 
 ### Necessitem instal·lar alguna cosa?
 
