@@ -4,7 +4,7 @@
 * [1. Necessitats tècniques per organitzar i celebrar reunions virtuals](1.-necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md)
 * [2. Manual per crear una reunió societària virtual](posada-en-marxa.md)
 
-## Video de la assemblea
+## Emissió de vídeo en directe <a id="video-de-la-assemblea"></a>
 
 * [Videconferència](video-de-la-assemblea/videconferencia/README.md)
   * [Mode webinar](video-de-la-assemblea/videconferencia/mode-webinar.md)

@@ -1,9 +1,5 @@
 # Videconferència
 
-### ¿Per què necessitem un sistema de videoconferència?
-
-En la assemblea virtual volem aproximar-nos al màxim a la celebració d'una assemblea presencial, el sistema de videoconferència ens servirà per transmetre el vídeo i àudio de les persones que hagin de exposar punts de l'ordre del dia. 
-
 Per valorar l'eina de videoconferència hem de decidir si l'assemblea general serà: 
 
 * Oberta al públic: qualsevol persona interessada pot seguir l'assemblea
