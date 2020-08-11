@@ -12,8 +12,8 @@
 
 ## Votacions
 
-* [Introducció Decidim](votacions/introduccio-decidim.md)
-* [Cens i verificació de les sòcies participants de l'assemblea](votacions/cens-i-verificacio-de-les-socies-participants-de-lassemblea.md)
-* [Delegació de vot](votacions/delegacio-de-vot.md)
-* [Resultats de les votacions](votacions/resultats-de-les-votacions.md)
+* [Decidim](votacions/introduccio-decidim/README.md)
+  * [Cens i verificació de les sòcies](votacions/introduccio-decidim/cens-i-verificacio-de-les-socies-participants-de-lassemblea.md)
+  * [Delegació de vot](votacions/introduccio-decidim/delegacio-de-vot.md)
+  * [Resultats de les votacions](votacions/introduccio-decidim/resultats-de-les-votacions.md)
 
