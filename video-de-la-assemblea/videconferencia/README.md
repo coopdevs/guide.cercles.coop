@@ -1,6 +1,6 @@
 # Videconferència
 
-Per valorar l'eina de videoconferència hem de decidir si la reunió serà: 
+çPer valorar l'eina de videoconferència hem de decidir si la reunió serà: 
 
 * Privada: Només hi poden accedir les sòcies de ple dret de la cooperativa. 
 * Oberta al públic: qualsevol persona interessada pot seguir la reunió
@@ -34,7 +34,9 @@ Un altre aspecte tenir molt en compte per seleccionar l'eina més adient és el 
 
 #### Més de 10 participants
 
-Quan volem realitzar una reunió privada de més de 10 participants recomanem fer-ho en mode 
+Quan volem realitzar una reunió privada de més de 10 participants recomanem fer-ho en mode Webinar:
+
+{% page-ref page="mode-webinar.md" %}
 
 ### Reunió oberta a públic
 
@@ -42,11 +44,11 @@ Quan volem realitzar una reunió privada de més de 10 participants recomanem fe
 
 Al ser una reunió oberta al públic podem esperar un nombre de indeterminat de persones i per tant l'ideal és preparar la reunió per més de 10 participants
 
-Hem de preveure un sistema de broadcasting del video accessible per qualsevol persona interesada. Proposem fer-ho amb youtube ja que és un dels sistemes més extesos i que s'ofereix de manera gratuïta. 
+Recomanem fer-ho amb sistema de webinar o broadcasting del video accessible per qualsevol persona interesada.
 
-* Jitsi + youtube [llegeix aquest article que explica com fer-ho](https://radioslibres.net/videoconferencias-en-cuatro-pasos/)
-* Zoom + youtube
-* Google meet + youtube
+{% page-ref page="mode-broadcasting.md" %}
+
+
 
 
 
