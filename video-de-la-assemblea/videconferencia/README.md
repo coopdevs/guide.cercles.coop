@@ -1,20 +1,22 @@
 # Videconferència
 
-Per valorar l'eina de videoconferència hem de decidir si l'assemblea general serà: 
+Per valorar l'eina de videoconferència hem de decidir si la reunió serà: 
 
-* Oberta al públic: qualsevol persona interessada pot seguir l'assemblea
+* Oberta al públic: qualsevol persona interessada pot seguir la reunió
 * Privada: Només hi poden accedir les sòcies de ple dret de la cooperativa. 
 
-### Assemblea oberta a públic
+Un altre aspecte tenir molt en compte per seleccionar l'eina més adient és el nombre de sòcies que participaran de la reunió
+
+### Reunió oberta a públic
 
 Si volem realitzar una assemblea oberta al públic i som una cooperativa petita de menys de 10 sòcies i no esperem que molta més gent participi podem realitzar amb certes garanties l'assemblea mitjançant sistemes de videoconferència força estesos com ara: 
 
-* Jistsi
+* Jitsi
 * Zoom
 * Skype
 * Google meet
 * 
 
 
-### Assemblea privada
+### Reunió privada
 
