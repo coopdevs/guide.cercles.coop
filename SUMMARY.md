@@ -2,7 +2,7 @@
 
 * [Toolkit: Reunions societàries virtuals](README.md)
 * [1. Necessitats tècniques per organitzar i celebrar reunions virtuals](1.-necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md)
-* [2. Posada en marxa d'una assemblea virtual](posada-en-marxa.md)
+* [2. Manual per crear una reunió societària virtual](posada-en-marxa.md)
 
 ## Video de la assemblea
 
