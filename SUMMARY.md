@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Toolkit: Assemblees virtuals](README.md)
+* [Toolkit: Reunions societàries virtuals](README.md)
 * [Posada en marxa d'una assemblea virtual](posada-en-marxa.md)
 
 ## Video de la assemblea
