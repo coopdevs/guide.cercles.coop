@@ -6,9 +6,9 @@
 
 ## Video de la assemblea
 
-* [Videconferència](video-de-la-assemblea/videconferencia.md)
-* [Mode webinar](video-de-la-assemblea/mode-webinar.md)
-* [Mode broadcasting](video-de-la-assemblea/mode-broadcasting.md)
+* [Videconferència](video-de-la-assemblea/videconferencia/README.md)
+  * [Mode webinar](video-de-la-assemblea/videconferencia/mode-webinar.md)
+  * [Mode broadcasting](video-de-la-assemblea/videconferencia/mode-broadcasting.md)
 
 ## Votacions
 
