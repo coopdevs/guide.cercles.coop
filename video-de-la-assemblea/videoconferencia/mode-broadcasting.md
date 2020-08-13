@@ -20,23 +20,41 @@ Cal comptar amb compte de Google \(com per exemple un compte de gmail\) i [compl
 
 ![](../../.gitbook/assets/screenshot_2020-08-13-reproduccio-en-directe-youtube-studio-3-.png)
 
-![](../../.gitbook/assets/screenshot_2020-08-13-reproduccio-en-directe-youtube-studio-4-.png)
+![](../../.gitbook/assets/screenshot_2020-08-13-reproduccio-en-directe-youtube-studio-4-%20%281%29.png)
 
-**Quan sigui l'hora d'iniciar la reproducció en directe necessitarem disposar de la clau de reproducció, que podem copiar fen clic al botó tan com mostra la imatge.** 
+**Quan sigui l'hora d'iniciar la reproducció en directe necessitarem disposar de la "clau de reproducció", que podem copiar fen clic al botó tan com mostra la imatge.** 
 
 ### Opcions per connectar sistemes de videoconferència a la emissió en directe de youtube
+
+Sistemes de videoconeferència amb connector directe a youtube:
+
+#### Zoom
+
+En la[ següent guia trobareu l'explicació de com fer-ho](https://support.zoom.us/hc/es/articles/360028478292-Transmisi%C3%B3n-de-una-reuni%C3%B3n-o-seminario-web-en-YouTube-Live)
+
+#### Jitsi 
+
+Quan estiguem a la sala de videoconferència, fent clic als tres punts verticals que trobareu abaix a la dreta i **start live creen** i enganxar la **clau de reproducció** que em obtingut a youtube [tal com hem explicat](mode-broadcasting.md#2-planificar-un-video-en-directe)
+
+![](../../.gitbook/assets/screenshot_2020-08-13-jitsi-meet.png)
+
+Altres opcions: 
+
+Utilitzar el programari lliure [OBS](https://obsproject.com/) per capturar qualsevol vídeo de qualsevol sistema de videotrucades i emetre'l a través de youtube, per exemple amb [Skype](https://www.hackdiary.com/2019/01/22/stream-to-youtube-live-from-a-skype-call/)
+
+OBS permet a més editar vídeo en directe, per exemple per afegir caràtules que descriguin quí està parlant o introduint diferents fases de la reunió. 
 
 ### Compartir el vídeo de youtube
 
 ![](../../.gitbook/assets/screenshot_2020-08-13-reproduccio-en-directe-youtube-studio-5-.png)
 
-Fent clic a dalt a la dreta podeu compartir el link de youtube que permetrà als espectadors veure el video i participar al xat serà del tipus [https://youtu.be/32-QIj468\_s](https://youtu.be/32-QIj468_s)
+Fent clic a dalt a la dreta podeu compartir el link de youtube que permetrà als espectadors veure el vídeo i participar al xat serà del tipus [https://youtu.be/32-QIj468\_s](https://youtu.be/32-QIj468_s)
 
 ### Mostrar el vídeo de youtube a Decidim
 
 Per més comoditat podem mostrar el vídeo a Decidim**,** a la pàgina de les votacions. Ho podem fer entrant a la administració del nostre Decidim **Consultes &gt; Consulta en qüestió** editem els següents camps: 
 
-* Descripció: En la propia descripció podem afegir el link a youtube que hem obtingut abans
+* Descripció: En la pròpia descripció podem afegir el link a youtube que hem obtingut abans
 * URL de vídeo introductori: En aquest cas hem de variar la URL, si la URL que vam obtenir era  [https://youtu.be/32-QIj468\_s](https://youtu.be/32-QIj468_s) hem de introduir [https://www.youtube.com/embed/32-QIj468\_s](https://www.youtube.com/embed/32-QIj468_s) és a dir substituir **https://youtu.be/** per **https://www.youtube.com/embed/**
 
 El resultat a la pàgina de votacions serà similar a: 
