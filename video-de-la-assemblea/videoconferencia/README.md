@@ -1,4 +1,4 @@
-# Videconferència
+# Videoconferència
 
 Per valorar l'eina de videoconferència hem de decidir si la reunió serà: 
 

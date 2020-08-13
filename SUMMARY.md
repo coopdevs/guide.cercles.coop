@@ -6,9 +6,9 @@
 
 ## Emissió de vídeo en directe <a id="video-de-la-assemblea"></a>
 
-* [Videconferència](video-de-la-assemblea/videconferencia/README.md)
-  * [Mode webinar](video-de-la-assemblea/videconferencia/mode-webinar.md)
-  * [Mode broadcasting](video-de-la-assemblea/videconferencia/mode-broadcasting.md)
+* [Videoconferència](video-de-la-assemblea/videoconferencia/README.md)
+  * [Mode webinar](video-de-la-assemblea/videoconferencia/mode-webinar.md)
+  * [Mode broadcasting](video-de-la-assemblea/videoconferencia/mode-broadcasting.md)
 
 ## Votacions
 
