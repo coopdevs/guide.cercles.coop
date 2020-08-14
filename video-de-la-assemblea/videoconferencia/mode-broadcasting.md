@@ -2,9 +2,11 @@
 
 ### Emetre la videoconferència en directe a través de youtube 
 
-Youtube és el servei més extensament utilitzat per emetre vídeo en directe, alguns dels sistemes de videoconferència compten amb opcions per emetre el vídeo de la videoconferència a través de un vídeo de youtube. 
+Youtube és el servei més extensament utilitzat per emetre vídeo en directe, alguns dels sistemes de videoconferència ja compten amb opcions per emetre el vídeo de la videoconferència a través de un vídeo de youtube. 
 
-Per no complicar aquesta guía ens centrarem sols en aquest sistena de broadcasting. El que volem fer és realitzar la videoconferència amb les conductores de la reunió a través de alguna de les eines esmentades a [videoconferència](./) i en temps real emetre aquesta videconferencia a través de youtube perquè qualsevol persona que tingui l'enllaç la pugui seguir. 
+Per no complicar aquesta guia ens centrarem sols en aquest sistena de broadcasting. El que volem fer és realitzar la videoconferència amb les conductores de la reunió a través de alguna de les eines esmentades a [videoconferència](./) i en temps real emetre aquesta videoconferència a través de youtube perquè qualsevol persona que tingui l'enllaç la pugui seguir. 
+
+No podem esperar realitzar una reunió privada emetent per youtube, tot i que youtube permet configurar una emissió en directe com "Privada" això sols significa que no apareixerà als resultats de les cerques a youtube, però qualsevol persona amb l'enllaç podrà veure la emissió. Si necessitem privadeça necessitarem un sistema de [Webinar](mode-webinar.md) \(o si som pocs un sistema de videoconferència\)
 
 #### 1. Configurar canal de youtube
 

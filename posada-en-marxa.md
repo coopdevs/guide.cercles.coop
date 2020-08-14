@@ -4,7 +4,7 @@
 Assumint que ja s'ha seleccionat el[ mode de funcionament](./#com-puc-utilitzar-xxxxx) i ja teniu disponible una [instància de Decidim i un sistema de emissió de vídeo seleccionat](1.-necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md). 
 {% endhint %}
 
-Si has solicitat la creació de un Decidim i ets el primer administrador has de recordar la contrasenya per crear-la per primera vegada i poder accedir. 
+Si has solicitat la creació de un Decidim i ets el primer administrador has de recordar la contrasenya per crearla per primera vegada i poder accedir. 
 
 \[screenshot\]
 
