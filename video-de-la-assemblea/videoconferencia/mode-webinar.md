@@ -17,6 +17,8 @@ Un dels sistemes més extensament utilitzat és Zoom però existeixen altres alt
   * Fins a 6 persones en videoconferència alhora
 
 {% hint style="info" %}
-La majoria de plataformes es poden contractar mensualment, recomanem contractar el servei amb temps i fer provés del seu ús abans de realitzar una reunió societaria rellevant
+La majoria de plataformes es poden contractar mensualment, recomanem contractar el servei amb temps i fer proves del seu ús abans de realitzar una reunió societària rellevant
 {% endhint %}
+
+
 
