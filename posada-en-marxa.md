@@ -45,7 +45,7 @@ El mòdul de consultes és el que farem servir per organitzar les votacions a un
 
 ![](.gitbook/assets/screenshot_2020-08-18-prova-assemblea.png)
 
-
+Si emetem el video a través d'un sistema de broadcasting, com youtube, el podem afegir al camp **URL de vídeo introductori** [tal com s'explica aquí](video-de-la-assemblea/videoconferencia/mode-broadcasting.md#mostrar-el-video-de-youtube-a-decidim).
 
 #### Importació de les participants
 
