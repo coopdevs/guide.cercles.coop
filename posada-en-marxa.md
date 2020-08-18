@@ -30,7 +30,7 @@ En la administració en la secció **Pàgines** podem editar els continguts de l
 * Termes i condicions **pages/terms-and-conditions**
 * Accessibilitat **pages/accessibility**
 
-#### **Àmbit**
+#### **Àmbits**
 
 Abans de crear una consulta necessitem crear un àmbit, si no esperem tenir diversitat d'àmbits en que és realitzen les consultes podem crear sols un anomenat "reunió societària" 
 
