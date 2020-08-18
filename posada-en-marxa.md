@@ -8,7 +8,7 @@ Assumint que ja s'ha seleccionat el[ mode de funcionament](./#com-puc-utilitzar-
 Pots consultar documentació més amplia de Decidim a [https://docs.decidim.org](https://docs.decidim.org)
 {% endhint %}
 
-Si has sol·licitat la creació de un Decidim i ets el primer administrador has de recordar la contrasenya per crearla per primera vegada i poder accedir. Fent clic al enllaç de dalt a la dreta **Entra**
+Si has sol·licitat la creació d'un Decidim i ets el primer administrador has de recordar la contrasenya per crearà per primera vegada i poder accedir. Fent clic a l'enllaç de dalt a la dreta **Entra**
 
 ![](.gitbook/assets/screenshot_2020-08-17-iniciar-sessio-prova-assemblea.png)
 
@@ -24,7 +24,28 @@ Un cop fet ja podem accedir al panell d'administració, al menú de dalt a la dr
 
 #### Pàgines informatives
 
-#### Consulta
+En la administració en la secció **Pàgines** podem editar els continguts de les pàgines, podem crear/editar/suprimir diversos Temes i Pàgines explicatives, però obligatoriament hem de tenir les següents pàgines: 
+
+* FAQ \(preguntes freqüents\) **pages/faq**
+* Termes i condicions **pages/terms-and-conditions**
+* Accessibilitat **pages/accessibility**
+
+#### **Àmbit**
+
+Abans de crear una consulta necessitem crear un àmbit, si no esperem tenir diversitat d'àmbits en que és realitzen les consultes podem crear sols un anomenat "reunió societària" 
+
+A la administració, secció **Configuració &gt; Àmbits** fem clic a dalt a la dreta **Afegir**
+
+* **Nom:** reunió societària
+* **Codi:** reunio-societaria
+
+#### Consultes
+
+El mòdul de consultes és el que farem servir per organitzar les votacions a una determinada reunió, si anem a la secció **Consultes** en el menú de administració podrem crear una nova consulta fent clic al botó de dalt a la dreta **Nova consulta**
+
+![](.gitbook/assets/screenshot_2020-08-18-prova-assemblea.png)
+
+
 
 #### Importació de les participants
 
