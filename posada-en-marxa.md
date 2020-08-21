@@ -47,6 +47,12 @@ El mòdul de consultes és el que farem servir per organitzar les votacions a un
 
 Si emetem el video a través d'un sistema de broadcasting, com youtube, el podem afegir al camp **URL de vídeo introductori** [tal com s'explica aquí](video-de-la-assemblea/videoconferencia/mode-broadcasting.md#mostrar-el-video-de-youtube-a-decidim).
 
+Nota: fins que no fem clic a **Publicar** la consulta no serà visible pels visitants.
+
+#### Preguntes de la consulta
+
+Dins de la Consulta creada podrem crear 
+
 #### Importació de les participants
 
 ### Reunió
