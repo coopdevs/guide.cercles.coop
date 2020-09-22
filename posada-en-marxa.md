@@ -53,6 +53,8 @@ Nota: fins que no fem clic a **Publicar** la consulta no serà visible pels visi
 
 Dins de la Consulta creada podrem crear 
 
+\(per poder publicar cal que es crein les respostes\)
+
 #### Importació de les participants
 
 ### Reunió
