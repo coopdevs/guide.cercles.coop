@@ -86,7 +86,7 @@ Per a aquelles cooperatives que facin ús de la delegació de vot, es recomana a
 {% endhint %}
 
 
-### 2. ASSISTÈNCIA
+### 2.2 ASSISTÈNCIA
  
 A)	En cas de celebrar l’Assemblea per videoconferència:
 * Per facilitar la tasca de preparació tècnica, caldrà que el soci i sòcia que assisteixin a l'Assemblea, prèviament s'enregistrin a través d'un formulari web que consideri un procés d'autentificació. S'hauria d’establir un sistema de contrasenya personal per a la persona sòcia per poder accedir a l'Assemblea.
@@ -107,7 +107,7 @@ Atesa la variabilitat que s’està donant pel que fa a les afectacions de la CO
 {% endhint %}
 
 
-### 3. ACTA DE LA REUNIÓ
+### 2.3. ACTA DE LA REUNIÓ
 
 S’haurà de fer constar que l’assemblea s’ha celebrat telemàticament a l’empara del Decret Llei 19/2020, en els termes següents:
 
@@ -132,7 +132,7 @@ Si s'escau, també posar:
 En el cas que no es procedeixi a aprovar l’acta abans de finalitzar la sessió, aquesta s’enviarà de forma immediata, i com a màxim en els tres dies següents a la reunió, a cadascuna de les persones assistents, bé a les adreces de correu electrònic o a través d’altres mitjans telemàtics emprats.
 
 
-## ALTRES REUNIONS SOCIETÀRIES
+## 3. ALTRES REUNIONS SOCIETÀRIES
 
 Per preparar, convocar i celebrar altres reunions societàries es poden seguir els mateixos mecanismes establerts per a les Assemblees Generals, només s’haurà d’adaptar la literatura de les fórmules proposades i la metodologia al tipus de reunió que se celebri, ja sigui de Consell Rector, de Comissions o altres òrgans societaris que tingui definits per estatuts la cooperativa.
 
@@ -141,13 +141,13 @@ Per preparar, convocar i celebrar altres reunions societàries es poden seguir e
 {% endhint %}
 
 
-## CERTIFICATS
+## 4. CERTIFICATS
 
 Els certificats d’assemblea o de consell rector s’elaboraran amb els mateixos criteris i aplicant els mateixos requeriments previstos a la Llei 12/2015, tanmateix es recomana afegir un punt en el certificat que faci referència al Decret Llei 10/2020 en els termes següents:
 
 > “Que segons figura al Llibre d'Actes de `l'Assemblea General` es deixa constància del procediment efectuat per convocar i dur a terme l'esmentada Assemblea General `Ordinària/Extraordinària`, la qual es realitza per videoconferència a l'empara del que recull l'article 3, sobre mesures relatives a la convocatòria i celebració de les assemblees generals del Decret Llei 19/2020, de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.”
 
-## RECOMANACIÓ GENERAL
+## 5. RECOMANACIÓ GENERAL
 
 De forma excepcional i en virtut del regulat al Decret Llei 19/2020 les cooperatives, encara que llurs estatuts no ho prevegin, poden celebrar reunions dels òrgans socials per videoconferència.
 Així mateix, la Llei 12/2015 de cooperatives permet recollir en els estatuts socials l’opció de realitzar assemblees generals i reunions de consell rector, així com d’altres òrgans socials a través de videoconferència.
