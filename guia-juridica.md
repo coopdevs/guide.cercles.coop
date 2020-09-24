@@ -3,6 +3,7 @@
 
 ## 1. INTRODUCCIÓ
 Arran de la crisi provocada per la COVID-19 moltes cooperatives es veuen obligades a realitzar les seves reunions societàries (assembles generals, consells rectors, reunions de comissions... ) per mitjans virtuals, per aquest motiu CoopCat ofereix una guia adaptada a les necessitats del moment.
+
 Aquesta guia inclou orientacions i recomanacions per organitzar, convocar i celebrar reunions dels òrgans socials de les cooperatives d’acord amb la Llei de cooperatives 12/2015, els propis estatuts societaris i, excepcionalment, el que estableix el [Decret Llei 19/2020](https://portaljuridic.gencat.cat/ca?documentId=873600&action=fitxa), de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.
 
 
@@ -62,6 +63,7 @@ Exemple 2:
 
 ##### 2.	Vot social
 En relació amb el vot de cada sòcia (vot individual o vot ponderat), cal comunicar, a la convocatòria, els vots individuals o ponderats que corresponguin a cada persona sòcia segons estatuts.
+
 Així mateix, per l’excepcionalitat de la situació, es pot informar dels vots socials a través d’altres mitjans, com ara: informació penjada al web, tramesa personalitzada per email, per sms, per whatsapp o altres canals específics de comunicació generats per la cooperativa a fi de vetllar per la informació cap als socis i sòcies. En tot cas, si s’empren aquestes mitjans, cal advertir que el Consell Rector és qui assumeix la responsabilitat de que la informació arriba a les sòcies, mesura que es pren de manera proporcional amb les mesures proposades per a la protecció de la salut de les persones. 
 
 {% hint style="info" %}
@@ -79,6 +81,7 @@ Si no se celebren assemblees preparatòries, s’haurà d’especificar expressa
 
 ##### 6.	Delegació de vot
 De forma excepcional i fins a 31 de desembre de 2020, encara que llurs estatuts no ho prevegin, les cooperatives poden determinar representacions a través del vot delegat on cada persona sòcia pot representar com a màxim altres 5 vots a banda del seu propi.
+
 Per a aquelles cooperatives que facin ús de la delegació de vot, es recomana adjuntar a la convocatòria el formulari de delegació amb el sentit del vot. També recomanem que s’inclogui, al formulari de delegació, un espai per si la persona sòcia vol que qui la representi faci en nom seu algun comentari perquè consti a l’acta de la reunió, si així ho determina la sòcia.
 
 {% hint style="info" %}
@@ -159,6 +162,7 @@ Per ara, hi ha una norma que ho permet, encara que els estatuts no ho prevegin, 
 A continuació exposem una orientació de redactat que s’haurà d’adaptar en funció dels estatuts socials de la cooperativa:
 
 > X. L'Assemblea general i el Consell Rector `AFEGIR, SI S’ESCAU, ALTRES ÒRGANS SOCIALS RECOLLITS EN ELS ESTATUTS SOCIALS`, òrgans socials de la COOPERATIVA,  poden tenir lloc mitjançant videoconferència o un altre mitjà de comunicació. En qualsevol cas, ha de quedar garantida la identificació de les persones assistents, la continuïtat de la comunicació, la possibilitat d'intervenir en les deliberacions i l'emissió de vot. S'entén que la reunió es duu a terme en el lloc on es troba la persona que la presideix.
+
 Y. En els òrgans socials de la COOPERATIVA s'ha de poder emetre el vot de forma telemàtica. El Consell Rector ha de garantir la seguretat i el secret del vot, quan aquesta possibilitat se sol·liciti, especialment davant tercers que no siguin membres de l'Assemblea General o del Consell Rector. Igualment, s'ha de poder acreditar de forma fefaent l'emissió del vot i la recepció del mateix per part de la presidència de la reunió.
 A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de la persona que la presideix.
 
