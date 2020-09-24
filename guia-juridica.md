@@ -12,7 +12,8 @@ La cooperativa ha de fer la convocatòria segons ho faci habitualment d’acord 
 Així doncs, per a la convocatòria telemàtica, la cooperativa ha de disposar de les dades de les sòcies (email, telèfon mòbil...).
 
 {% hint style="info" %}
-RECOMANACIÓ: Per a convocatòries telemàtiques, recomanem emprar una empresa certificadora que permeti disposar d’un registre, amb validesa legal, de l’enviament, de la recepció, la data de la comunicació i el seu contingut.
+RECOMANACIÓ: 
+Per a convocatòries telemàtiques, recomanem emprar una empresa certificadora que permeti disposar d’un registre, amb validesa legal, de l’enviament, de la recepció, la data de la comunicació i el seu contingut.
 {% endhint %}
 
 #### 1.1 Termini
@@ -20,11 +21,12 @@ La convocatòria, en el cas de les assemblees ordinàries, s’ha d’enviar amb
 Excepcionalment, fins a 31 de desembre de 2020, les assemblees extraordinàries es poden convocar amb l’antelació mínima i màxima que el Consell Rector consideri pertinent, tenint en compte la urgència de l’acord que cal adoptar.
 
 {% hint style="warning" %}
-ADVERTÈNCIA: És responsabilitat del Consell Rector adoptar les mesures, segons les circumstàncies concretes, per tal que els socis i sòcies puguin rebre la convocatòria i concórrer a la sessió de l'assemblea amb les garanties pertinents.
+ADVERTÈNCIA: 
+És responsabilitat del Consell Rector adoptar les mesures, segons les circumstàncies concretes, per tal que els socis i sòcies puguin rebre la convocatòria i concórrer a la sessió de l'assemblea amb les garanties pertinents.
 {% endhint %}
 
 {% hint style="note" %}
-RECORDATORI
+RECORDATORI:
 Recordem que excepcionalment, fins a 31 de desembre de 2020, quan no sigui possible reunir a l’assemblea general per prendre acords en matèria d’ERTOs, el Consell Rector pot adoptar l’acord pertinent.
 {% endhint %}
 
