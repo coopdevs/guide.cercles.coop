@@ -1,28 +1,26 @@
 # 3. GUIA I RECOMANACIONS PER PREPARAR, CONVOCAR I CELEBRAR ASSEMBLEES I ALTRES REUNIONS DELS ÒRGANS SOCIALS A LES COOPERATIVES PER MITJANS VIRTUALS
 
-### INTRODUCCIÓ
+## INTRODUCCIÓ
 
 Arran de la crisi provocada per la COVID-19 moltes cooperatives es veuen obligades a realitzar les seves reunions societàries (assembles generals, consells rectors, reunions de comissions... ) per mitjans virtuals, per aquest motiu CoopCat ofereix una guia adaptada a les necessitats del moment.
 Aquesta guia inclou orientacions i recomanacions per organitzar, convocar i celebrar reunions dels òrgans socials de les cooperatives d’acord amb la Llei de cooperatives 12/2015, els propis estatuts societaris i, excepcionalment, el que estableix el [Decret Llei 19/2020](https://portaljuridic.gencat.cat/ca?documentId=873600&action=fitxa), de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.
 
 
-### ASSEMBLEA GENERAL
-#### 1. CONVOCATÒRIA
+## ASSEMBLEA GENERAL
+### 1. CONVOCATÒRIA
 La cooperativa ha de fer la convocatòria segons ho faci habitualment d’acord amb els estatuts socials. Cal tenir en compte que, fins a 31 de desembre de 2020 i de manera excepcional, també es pot convocar emprant mitjans telemàtics, encara que els estatuts socials no ho prevegin.
 Així doncs, per a la convocatòria telemàtica, la cooperativa ha de disposar de les dades de les sòcies (email, telèfon mòbil...).
 
 {% hint style="info" %}
-RECOMANACIÓ
-Per a convocatòries telemàtiques, recomanem emprar una empresa certificadora que permeti disposar d’un registre, amb validesa legal, de l’enviament, de la recepció, la data de la comunicació i el seu contingut.
+RECOMANACIÓ: Per a convocatòries telemàtiques, recomanem emprar una empresa certificadora que permeti disposar d’un registre, amb validesa legal, de l’enviament, de la recepció, la data de la comunicació i el seu contingut.
 {% endhint %}
 
-##### Termini
+#### Termini
 La convocatòria, en el cas de les assemblees ordinàries, s’ha d’enviar amb una antelació mínima de 15 dies i màxima de 30 dies.
 Excepcionalment, fins a 31 de desembre de 2020, les assemblees extraordinàries es poden convocar amb l’antelació mínima i màxima que el Consell Rector consideri pertinent, tenint en compte la urgència de l’acord que cal adoptar.
 
 {% hint style="warning" %}
-ADVERTÈNCIA
-És responsabilitat del Consell Rector adoptar les mesures, segons les circumstàncies concretes, per tal que els socis i sòcies puguin rebre la convocatòria i concórrer a la sessió de l'assemblea amb les garanties pertinents.
+ADVERTÈNCIA: És responsabilitat del Consell Rector adoptar les mesures, segons les circumstàncies concretes, per tal que els socis i sòcies puguin rebre la convocatòria i concórrer a la sessió de l'assemblea amb les garanties pertinents.
 {% endhint %}
 
 {% hint style="note" %}
@@ -30,7 +28,7 @@ RECORDATORI
 Recordem que excepcionalment, fins a 31 de desembre de 2020, quan no sigui possible reunir a l’assemblea general per prendre acords en matèria d’ERTOs, el Consell Rector pot adoptar l’acord pertinent.
 {% endhint %}
 
-##### Formes de comunicació
+#### Formes de comunicació
 Així doncs, la convocatòria s’ha de fer arribar a les sòcies segons prevegin els estatuts:
 
 * De manera individual, on es poden emprar mitjans telemàtics, encara que els estatuts no ho prevegin i de manera excepcional fins a 31 de desembre de 2020.
@@ -45,10 +43,10 @@ RECOMANACIÓ
 Es recomana convocar a les sòcies registrades a la cooperativa per tramesa individual, ja sigui per correu electrònic (els que en tinguin) o postal. Es recomana també publicitar-ho al web corporatiu o al web, encara que no estigui inscrit com a tal, i a tots els establiments o centres de treball de la cooperativa, com a publicitat addicional.
 {% endhint %}
 
-##### Contingut
+#### Contingut
 A la convocatòria, en tot cas, s’hi ha de fer constar el contingut següent:
 
-###### 1.	Fer referència al Decret Llei 19/2020
+##### 1.	Fer referència al Decret Llei 19/2020
 En el text de la convocatòria s’ha de fer referència al Decret Llei 19/2020 en els termes següents:
 
 “Per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de les persones sòcies, el Consell Rector de la `NOM DE LA COOPERATIVA`, reunit el passat `POSAR LA DATA`, va convocar l'Assemblea General `Ordinària/Extraordinària` i va acordar dur-la a terme per videoconferència i, per tant, els acords s'adoptaran virtualment. Aquesta mesura es pren a l'empara del que recull l'article 3, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 19/2020, de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.”
@@ -61,7 +59,7 @@ Exemple 1: Així doncs, em plau fer arribar, a tots els socis i sòcies, la pres
 
 Exemple 2: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb l'enllaç web que condueix a la documentació associada a cada un dels punts de l'ordre del dia.
 
-###### 2.	Vot social
+##### 2.	Vot social
 En relació amb el vot de cada sòcia (vot individual o vot ponderat), cal comunicar, a la convocatòria, els vots individuals o ponderats que corresponguin a cada persona sòcia segons estatuts.
 Així mateix, per l’excepcionalitat de la situació, es pot informar dels vots socials a través d’altres mitjans, com ara: informació penjada al web, tramesa personalitzada per email, per sms, per whatsapp o altres canals específics de comunicació generats per la cooperativa a fi de vetllar per la informació cap als socis i sòcies. En tot cas, si s’empren aquestes mitjans, cal advertir que el Consell Rector és qui assumeix la responsabilitat de que la informació arriba a les sòcies, mesura que es pren de manera proporcional amb les mesures proposades per a la protecció de la salut de les persones. 
 
@@ -70,16 +68,16 @@ RECOMANACIÓ
 Recomanem que s’adjunti a la convocatòria el nombre de vots individuals o ponderats que corresponen a cada sòcia, sempre que sigui possible, físicament si aquesta s’emet per correu postal o a través d’arxiu en cas que s’enviï per correu electrònic o altres mitjans telemàtics.
 {% endhint %}
 
-###### 3.	Convocatòria
+##### 3.	Convocatòria
 A banda de fer constar les raons excepcionals per les quals s’ha decidit fer l’Assemblea per mitjans virtuals, el Consell Rector ha d’especificar de forma detallada com es durà a terme en primera i en segona convocatòria, essent responsabilitat del Consell Rector adoptar les mesures pertinents, per tal que les persones sòcies rebin la convocatòria i puguin participar a l’assemblea.
 
-###### 4.	Documentació relacionada amb els punts de l’ordre del dia 
+##### 4.	Documentació relacionada amb els punts de l’ordre del dia 
 A la convocatòria s’ha de fer possible l’accés, d’ençà del moment en què aquesta s’emeti o es formalitzi, als documents relatius als acords que se sotmetin a l’assemblea i a tota la documentació relacionada amb els punts de l’ordre del dia. Per tant, cal que les sòcies pugui obtenir els documents virtualment, tret que se li hagin tramès junt amb la convocatòria, ja siguin físicament o virtualment.
 
-###### 5.	Assemblees preparatòries
+##### 5.	Assemblees preparatòries
 Si no se celebren assemblees preparatòries, s’haurà d’especificar expressament i exposar els motius de no fer-les. Aquests motius no són altres que vetllar per la protecció de la salut de les persones sòcies i caldrà fer referència a l’excepcionalitat permesa a l’empara del Decret Llei 19/2020 (article 3.10).
 
-###### 6.	Delegació de vot
+##### 6.	Delegació de vot
 De forma excepcional i fins a 31 de desembre de 2020, encara que llurs estatuts no ho prevegin, les cooperatives poden determinar representacions a través del vot delegat on cada persona sòcia pot representar com a màxim altres 5 vots a banda del seu propi.
 Per a aquelles cooperatives que facin ús de la delegació de vot, es recomana adjuntar a la convocatòria el formulari de delegació amb el sentit del vot. També recomanem que s’inclogui, al formulari de delegació, un espai per si la persona sòcia vol que qui la representi faci en nom seu algun comentari perquè consti a l’acta de la reunió, si així ho determina la sòcia.
 
@@ -88,7 +86,7 @@ RECOMANACIÓ
 Es recomana determinar un termini màxim de recepció de vots delegats, per part de la cooperativa.
 {% endhint %}
 
-#### ASSISTÈNCIA
+### ASSISTÈNCIA
  
 A)	En cas de celebrar l’Assemblea per videoconferència:
 * Per facilitar la tasca de preparació tècnica, caldrà que el soci i sòcia que assisteixin a l'Assemblea, prèviament s'enregistrin a través d'un formulari web que consideri un procés d'autentificació. S'hauria d’establir un sistema de contrasenya personal per a la persona sòcia per poder accedir a l'Assemblea.
@@ -108,7 +106,7 @@ Es recomana que cada sòcia faci arribar a la cooperativa una declaració respon
 Atesa la variabilitat que s’està donant pel que fa a les afectacions de la COVID-19 arreu del territori, la importància de pal·liar els seus efectes i la importància de vetllar per la salut de les persones sòcies, recomanem a les cooperatives no celebrar assemblees presencials, llevat que les sòcies es puguin considerar grups de convivència o unitats familiars, tal i com estableixen els protocols sanitaris vigents i respectant les mesures concretes a tal efecte.
 {% endhint %}
 
-#### ACTA DE LA REUNIÓ
+### ACTA DE LA REUNIÓ
 
 S’haurà de fer constar que l’assemblea s’ha celebrat telemàticament a l’empara del Decret Llei 19/2020, en els termes següents:
 
@@ -131,6 +129,29 @@ Si s'escau, també posar:
 En el cas que no es procedeixi a aprovar l’acta abans de finalitzar la sessió, aquesta s’enviarà de forma immediata, i com a màxim en els tres dies següents a la reunió, a cadascuna de les persones assistents, bé a les adreces de correu electrònic o a través d’altres mitjans telemàtics emprats.
 
 
-ALTRES REUNIONS SOCIETÀRIES
+## ALTRES REUNIONS SOCIETÀRIES
 
 Per preparar, convocar i celebrar altres reunions societàries es poden seguir els mateixos mecanismes establerts per a les Assemblees Generals, només s’haurà d’adaptar la literatura de les fórmules proposades i la metodologia al tipus de reunió que se celebri, ja sigui de Consell Rector, de Comissions o altres òrgans societaris que tingui definits per estatuts la cooperativa.
+
+RECORDATORI
+Cal tenir en compte que, excepcionalment, fins a 31 de desembre de 2020, el Consell Rector i les Comissions poden adoptar acords sense sessió, encara que els estatuts de la societat cooperativa no ho prevegin, sempre que ho decideixi la persona que els presideix o ho sol·licitin almenys dos membres.
+
+
+## CERTIFICATS
+
+Els certificats d’assemblea o de consell rector s’elaboraran amb els mateixos criteris i aplicant els mateixos requeriments previstos a la Llei 12/2015, tanmateix es recomana afegir un punt en el certificat que faci referència al Decret Llei 10/2020 en els termes següents:
+“Que segons figura al Llibre d'Actes de l'Assemblea General es deixa constància del procediment efectuat per convocar i dur a terme l'esmentada Assemblea General Ordinària/Extraordinària, la qual es realitza per videoconferència a l'empara del que recull l'article 3, sobre mesures relatives a la convocatòria i celebració de les assemblees generals del Decret Llei 19/2020, de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.”
+
+## RECOMANACIÓ GENERAL
+
+De forma excepcional i en virtut del regulat al Decret Llei 19/2020 les cooperatives, encara que llurs estatuts no ho prevegin, poden celebrar reunions dels òrgans socials per videoconferència.
+Així mateix, la Llei 12/2015 de cooperatives permet recollir en els estatuts socials l’opció de realitzar assemblees generals i reunions de consell rector, així com d’altres òrgans socials a través de videoconferència.
+Atès que la incertesa actual ens pot portar a pensar que conviurem durant bastant temps amb les conseqüències de la COVID-19, recomanem a les cooperatives que modifiquin els estatuts socials per permetre la realització de reunions societàries per mitjans virtuals. 
+Per ara, hi ha una norma que ho permet, encara que els estatuts no ho prevegin, però ens podem trobar que l’excepcionalitat es torni normalitat i necessitem durant un temps indefinit celebrar reunions amb aquestes condicions.
+A continuació exposem una orientació de redactat que s’haurà d’adaptar en funció dels estatuts socials de la cooperativa:
+
+X. L'Assemblea general i el Consell Rector AFEGIR, SI S’ESCAU, ALTRES ÒRGANS SOCIALS RECOLLITS EN ELS ESTATUTS SOCIALS, òrgans socials de la COOPERATIVA,  poden tenir lloc mitjançant videoconferència o un altre mitjà de comunicació. En qualsevol cas, ha de quedar garantida la identificació de les persones assistents, la continuïtat de la comunicació, la possibilitat d'intervenir en les deliberacions i l'emissió de vot. S'entén que la reunió es duu a terme en el lloc on es troba la persona que la presideix.
+Y. En els òrgans socials de la COOPERATIVA s'ha de poder emetre el vot de forma telemàtica. El Consell Rector ha de garantir la seguretat i el secret del vot, quan aquesta possibilitat se sol·liciti, especialment davant tercers que no siguin membres de l'Assemblea General o del Consell Rector. Igualment, s'ha de poder acreditar de forma fefaent l'emissió del vot i la recepció del mateix per part de la presidència de la reunió.
+A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de la persona que la presideix.
+
+ 
