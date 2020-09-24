@@ -1,15 +1,15 @@
 # Videoconferència
 
-Per valorar l'eina de videoconferència hem de decidir si la reunió serà: 
+Per a les videoconferències s’utilitza serveis de tercers atès que els productes actuals que ofereix el mercat suporten perfectament diverses connexions simultànies. Tanmateix, per valorar l'eina de videoconferència hem de decidir si la reunió serà: 
 
 * Privada: Només hi poden accedir les sòcies de ple dret de la cooperativa. 
-* Oberta al públic: qualsevol persona interessada pot seguir la reunió
+* Oberta al públic: qualsevol persona interessada pot observar la reunió.
 
-Un altre aspecte tenir molt en compte per seleccionar l'eina més adient és el nombre de sòcies que participaran de la reunió
+Un altre aspecte tenir molt en compte per seleccionar l'eina més adient és el nombre de sòcies que participaran de la reunió.
 
 ### Reunió privada
 
-#### Menys de 10 participants
+Orientacions de sistemes de videoconferència disponibles al mercat i característiques principals:
 
 * [Skype](https://www.skype.com/es/) 
   * Totes les persones han de tenir compte a Skype \(Microsoft\)
@@ -27,10 +27,13 @@ Un altre aspecte tenir molt en compte per seleccionar l'eina més adient és el 
   * [Amb funcionalitats de moderació](https://support.zoom.us/hc/es/articles/201362603-Host-and-Co-Host-Controls-in-a-Meeting)
   * Software propietari
 * [Jitsi](https://meet.jit.si/)
-  * Qualsevol persona amb l'enllaç és pot connectar, es pot [afegir una contrasenya per restringir l'accés](https://jitsi.github.io/handbook/docs/faq#_3-add-a-password-to-the-room_)
+  * Qualsevol persona que disposi de l'enllaç es pot connectar i també es pot [afegir una contrasenya per restringir l'accés](https://jitsi.github.io/handbook/docs/faq#_3-add-a-password-to-the-room_)
   * Gratuït
   * Sense funcionalitats de moderació
   * Software lliure
+
+#### Menys de 10 participants
+Qualsevol dels sistemes anteriors són són òptims per a reunions societàries de 10 o menys persones, on totes les persones sòcies participen amb les opcions de vídeo i veu habilitades.
 
 #### Més de 10 participants
 
@@ -42,9 +45,8 @@ Quan volem realitzar una reunió privada de més de 10 participants recomanem fe
 
 #### Nombre de participants elevat
 
-Al ser una reunió oberta al públic podem esperar un nombre de indeterminat de persones i per tant l'ideal és preparar la reunió per més de 10 participants
+Si es vol celebrar una reunió oberta al públic podem esperar, a banda dels socis, un nombre indeterminat més de persones, aleshores es recomana seguir les recomanacions per a reunions de més de 10 participants, webinar o broadcasting, però en aquest cas habilitant la videoconferència en obert a tot el públic.
 
-Recomanem fer-ho amb sistema de webinar o broadcasting del video accessible per qualsevol persona interesada.
 
 {% page-ref page="mode-broadcasting.md" %}
 
