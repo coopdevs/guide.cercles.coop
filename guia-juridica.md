@@ -179,7 +179,7 @@ A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de l
 
 > *Versió revisada el setembre de 2020*
 
-Aquesta guia ha estat elaborada per [Confederació de Cooperatives de Catalunya](https://www.cooperativescatalunya.coop/) \(CoopCat\) i és pot compartir sota llicència [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) 
+`Aquesta guia ha estat elaborada per [Confederació de Cooperatives de Catalunya](https://www.cooperativescatalunya.coop/) \(CoopCat\) i és pot compartir sota llicència [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) `
  
 ![](.gitbook/assets/ccoopcat.jpg)
 
