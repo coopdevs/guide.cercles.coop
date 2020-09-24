@@ -86,7 +86,7 @@ Per a aquelles cooperatives que facin ús de la delegació de vot, es recomana a
 {% endhint %}
 
 
-### ASSISTÈNCIA
+### 2. ASSISTÈNCIA
  
 A)	En cas de celebrar l’Assemblea per videoconferència:
 * Per facilitar la tasca de preparació tècnica, caldrà que el soci i sòcia que assisteixin a l'Assemblea, prèviament s'enregistrin a través d'un formulari web que consideri un procés d'autentificació. S'hauria d’establir un sistema de contrasenya personal per a la persona sòcia per poder accedir a l'Assemblea.
@@ -107,7 +107,7 @@ Atesa la variabilitat que s’està donant pel que fa a les afectacions de la CO
 {% endhint %}
 
 
-### ACTA DE LA REUNIÓ
+### 3. ACTA DE LA REUNIÓ
 
 S’haurà de fer constar que l’assemblea s’ha celebrat telemàticament a l’empara del Decret Llei 19/2020, en els termes següents:
 
