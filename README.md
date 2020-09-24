@@ -24,7 +24,7 @@ Amb Decidim es poden configurar espais de participació \(iniciatives, assemblee
 
 ### Com puc utilitzar **Cercles Coop**?
 
-CoopCat ofereix aquest servei adreçat a cooperatives que no vulguin mantenir la plataforma en un servidor propi i assumir integralment els costos que això suposa. Mancomunem el cost de manteniment en una plataforma gestionada per CoopCat i les Federacions de cooperatives. [**Sol·licita-ho aquí**](mailto:ccc@cooperativescatalunya.coop%20%20%20)\*\*\*\*
+CoopCat ofereix aquest servei a través del qual mancomunem el cost de manteniment en una plataforma gestionada per CoopCat i les Federacions de cooperatives. [**Sol·licita-ho aquí**](mailto:ccc@cooperativescatalunya.coop%20%20%20)\*\*\*\*
 
 
 Els recursos de CerclesCoop han estat elaborats per [Confederació de Cooperatives de Catalunya](https://www.cooperativescatalunya.coop/) \(CoopCat\) i estan subjectes a una llicència de Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons.
