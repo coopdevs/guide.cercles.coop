@@ -54,11 +54,11 @@ La convocatòria es tancarà amb la fórmula que millor s’escaigui, segons el 
 
 Vegeu els exemples:
 
-{% hint style="quote" %}
-Exemple 1: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb la documentació associada a cada un dels punts de l'ordre del dia.
-{% endhint %}
+Exemple 1: 
+> Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb la documentació associada a cada un dels punts de l'ordre del dia.
 
-> Exemple 2: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb l'enllaç web que condueix a la documentació associada a cada un dels punts de l'ordre del dia.
+Exemple 2: 
+> Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb l'enllaç web que condueix a la documentació associada a cada un dels punts de l'ordre del dia.
 
 ##### 2.	Vot social
 En relació amb el vot de cada sòcia (vot individual o vot ponderat), cal comunicar, a la convocatòria, els vots individuals o ponderats que corresponguin a cada persona sòcia segons estatuts.
