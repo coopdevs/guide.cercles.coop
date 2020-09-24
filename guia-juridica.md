@@ -1,5 +1,5 @@
-# 3. Guia i recomanacions per preparar, convocar i celebrar reunions societàries virtuals a les cooperatives
-
+# 3. Guia i recomanacions per a les reunions societàries virtuals a les cooperatives
+# Preparar, convocar i celebrar reunions societàries
 
 ## 1. INTRODUCCIÓ
 Arran de la crisi provocada per la COVID-19 moltes cooperatives es veuen obligades a realitzar les seves reunions societàries (assembles generals, consells rectors, reunions de comissions... ) per mitjans virtuals, per aquest motiu CoopCat ofereix una guia adaptada a les necessitats del moment.
