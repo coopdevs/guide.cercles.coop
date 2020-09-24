@@ -1,4 +1,4 @@
-# Table of contents
+
 
 ## Índex de continguts de Cercles Coop
 
