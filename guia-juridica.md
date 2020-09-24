@@ -173,17 +173,7 @@ A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de l
 {% file src=".gitbook/assets/guia\_reunionssocietaries.pdf" %}
 
 
-* * *
-
 ***
-
-*****
-
-- - -
-
----------------------------------------
-
-
 
 > *Versió revisada el setembre de 2020*
 
