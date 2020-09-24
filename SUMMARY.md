@@ -1,6 +1,6 @@
-
-
 ## Índex de continguts de Cercles Coop
+
+# Table of contents
 
 * [Cercles Coop](README.md)
 * [1. Necessitats tècniques per organitzar i celebrar reunions virtuals](1.-necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md)
