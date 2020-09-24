@@ -161,9 +161,9 @@ Per ara, hi ha una norma que ho permet, encara que els estatuts no ho prevegin, 
 
 A continuació exposem una orientació de redactat que s’haurà d’adaptar en funció dels estatuts socials de la cooperativa:
 
-> X. L'Assemblea general i el Consell Rector`AFEGIR, SI S’ESCAU, ALTRES ÒRGANS SOCIALS RECOLLITS EN ELS ESTATUTS SOCIALS`, òrgans socials de la COOPERATIVA,  poden tenir lloc mitjançant videoconferència o un altre mitjà de comunicació. En qualsevol cas, ha de quedar garantida la identificació de les persones assistents, la continuïtat de la comunicació, la possibilitat d'intervenir en les deliberacions i l'emissió de vot. S'entén que la reunió es duu a terme en el lloc on es troba la persona que la presideix.
+> L'Assemblea general i el Consell Rector`AFEGIR, SI S’ESCAU, ALTRES ÒRGANS SOCIALS RECOLLITS EN ELS ESTATUTS SOCIALS`, òrgans socials de la COOPERATIVA,  poden tenir lloc mitjançant videoconferència o un altre mitjà de comunicació. En qualsevol cas, ha de quedar garantida la identificació de les persones assistents, la continuïtat de la comunicació, la possibilitat d'intervenir en les deliberacions i l'emissió de vot. S'entén que la reunió es duu a terme en el lloc on es troba la persona que la presideix.
 
-Y. En els òrgans socials de la COOPERATIVA s'ha de poder emetre el vot de forma telemàtica. El Consell Rector ha de garantir la seguretat i el secret del vot, quan aquesta possibilitat se sol·liciti, especialment davant tercers que no siguin membres de l'Assemblea General o del Consell Rector. Igualment, s'ha de poder acreditar de forma fefaent l'emissió del vot i la recepció del mateix per part de la presidència de la reunió.
+> En els òrgans socials de la COOPERATIVA s'ha de poder emetre el vot de forma telemàtica. El Consell Rector ha de garantir la seguretat i el secret del vot, quan aquesta possibilitat se sol·liciti, especialment davant tercers que no siguin membres de l'Assemblea General o del Consell Rector. Igualment, s'ha de poder acreditar de forma fefaent l'emissió del vot i la recepció del mateix per part de la presidència de la reunió.
 A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de la persona que la presideix.
 
 
