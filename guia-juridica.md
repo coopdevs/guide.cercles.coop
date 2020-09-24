@@ -16,8 +16,8 @@ Així doncs, per a la convocatòria telemàtica, la cooperativa ha de disposar d
 {% endhint %}
 
 #### 1.1 Termini
-La convocatòria, en el cas de les assemblees ordinàries, s’ha d’enviar amb una antelació mínima de 15 dies i màxima de 30 dies.
-Excepcionalment, fins a 31 de desembre de 2020, les assemblees extraordinàries es poden convocar amb l’antelació mínima i màxima que el Consell Rector consideri pertinent, tenint en compte la urgència de l’acord que cal adoptar.
+La convocatòria, en el cas de les **assemblees ordinàries**, s’ha d’enviar amb una antelació mínima de 15 dies i màxima de 30 dies.
+Excepcionalment, fins a 31 de desembre de 2020, les **assemblees extraordinàries** es poden convocar amb l’antelació mínima i màxima que el Consell Rector consideri pertinent, tenint en compte la urgència de l’acord que cal adoptar.
 
 {% hint style="warning" %}
 **ADVERTÈNCIA:** És responsabilitat del Consell Rector adoptar les mesures, segons les circumstàncies concretes, per tal que els socis i sòcies puguin rebre la convocatòria i concórrer a la sessió de l'assemblea amb les garanties pertinents.
@@ -35,18 +35,18 @@ Així doncs, la convocatòria s’ha de fer arribar a les sòcies segons prevegi
 * Si no es disposa de web corporatiu, els estatuts poden disposar, quan la convocatòria afecti a cooperatives de més de cinc-cents socis, que la notificació individualitzada pugui ésser substituïda per la publicació en un mitjà de màxima difusió en l'àmbit d'actuació de la cooperativa.
 
 En tot cas, s'ha de publicar un anunci en el domicili social.
+
 Els estatuts poden establir mecanismes de publicitat addicionals als que disposa la Llei i obligar la societat cooperativa a gestionar telemàticament un sistema d'alerta als socis en relació als anuncis de convocatòria inserits en el web corporatiu. 
 
 {% hint style="info" %}
-RECOMANACIÓ
-Es recomana convocar a les sòcies registrades a la cooperativa per tramesa individual, ja sigui per correu electrònic (els que en tinguin) o postal. Es recomana també publicitar-ho al web corporatiu o al web, encara que no estigui inscrit com a tal, i a tots els establiments o centres de treball de la cooperativa, com a publicitat addicional.
+**RECOMANACIÓ:** Es recomana convocar a les sòcies registrades a la cooperativa per tramesa individual, ja sigui per correu electrònic (els que en tinguin) o postal. Es recomana també publicitar-ho al web corporatiu o al web, encara que no estigui inscrit com a tal, i a tots els establiments o centres de treball de la cooperativa, com a publicitat addicional.
 {% endhint %}
 
 #### 1.3 Contingut
 A la convocatòria, en tot cas, s’hi ha de fer constar el contingut següent:
 
 ##### 1.3.1 Fer referència al Decret Llei 19/2020
-En el text de la convocatòria s’ha de fer referència al Decret Llei 19/2020 en els termes següents:
+En el text de la convocatòria s’ha de fer referència al [Decret Llei 19/2020] (https://portaljuridic.gencat.cat/ca?documentId=873600&action=fitxa) en els termes següents:
 
 > “Per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de les persones sòcies, el Consell Rector de la `NOM DE LA COOPERATIVA`, reunit el passat `POSAR LA DATA`, va convocar l'Assemblea General `Ordinària/Extraordinària` i va acordar dur-la a terme per videoconferència i, per tant, els acords s'adoptaran virtualment. Aquesta mesura es pren a l'empara del que recull l'article 3, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 19/2020, de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.”
 La convocatòria es tancarà amb la fórmula que millor s’escaigui, segons el procediment que efectuï cada cooperativa. El requisit bàsic que ha de considerar el text de tancament és fer referència a la metodologia emprada per fer arribar a les sòcies la convocatòria i la documentació associada. 
@@ -54,7 +54,9 @@ La convocatòria es tancarà amb la fórmula que millor s’escaigui, segons el 
 
 Vegeu els exemples:
 
-> Exemple 1: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb la documentació associada a cada un dels punts de l'ordre del dia.
+{% hint style="quote" %}
+Exemple 1: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb la documentació associada a cada un dels punts de l'ordre del dia.
+{% endhint %}
 
 > Exemple 2: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb l'enllaç web que condueix a la documentació associada a cada un dels punts de l'ordre del dia.
 
