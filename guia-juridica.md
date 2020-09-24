@@ -33,9 +33,9 @@ Recordem que excepcionalment, fins a 31 de desembre de 2020, quan no sigui possi
 #### 3. Formes de comunicació
 Així doncs, la convocatòria s’ha de fer arribar a les sòcies segons prevegin els estatuts:
 
-•	De manera individual, on es poden emprar mitjans telemàtics, encara que els estatuts no ho prevegin i de manera excepcional fins a 31 de desembre de 2020.
-•	Els estatuts poden establir que l’assemblea pugui ésser convocada mitjançant anunci publicat al web corporatiu, sempre que aquest web hagi estat inscrit i publicat en els termes establerts a la Llei 12/2015. 
-•	Si no es disposa de web corporatiu, els estatuts poden disposar, quan la convocatòria afecti a cooperatives de més de cinc-cents socis, que la notificació individualitzada pugui ésser substituïda per la publicació en un mitjà de màxima difusió en l'àmbit d'actuació de la cooperativa.
+1. De manera individual, on es poden emprar mitjans telemàtics, encara que els estatuts no ho prevegin i de manera excepcional fins a 31 de desembre de 2020.
+2. Els estatuts poden establir que l’assemblea pugui ésser convocada mitjançant anunci publicat al web corporatiu, sempre que aquest web hagi estat inscrit i publicat en els termes establerts a la Llei 12/2015. 
+3. Si no es disposa de web corporatiu, els estatuts poden disposar, quan la convocatòria afecti a cooperatives de més de cinc-cents socis, que la notificació individualitzada pugui ésser substituïda per la publicació en un mitjà de màxima difusió en l'àmbit d'actuació de la cooperativa.
 
 En tot cas, s'ha de publicar un anunci en el domicili social.
 Els estatuts poden establir mecanismes de publicitat addicionals als que disposa la Llei i obligar la societat cooperativa a gestionar telemàticament un sistema d'alerta als socis en relació als anuncis de convocatòria inserits en el web corporatiu. 
