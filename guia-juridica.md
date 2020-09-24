@@ -178,4 +178,5 @@ C. Premià, 15, 2a planta
 08014 - Barcelona 
 93 332 36 82 
 ccc@cooperativescatalunya.coop (www.cooperativescatalunya.coop)
+`;
 ```
