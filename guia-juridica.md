@@ -173,7 +173,15 @@ A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de l
 {% file src=".gitbook/assets/guia\_reunionssocietaries.pdf" %}
 
 
+* * *
 
+***
+
+*****
+
+- - -
+
+---------------------------------------
 
 
 
@@ -181,10 +189,3 @@ A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de l
 
 > Aquesta guia està subjecta a una llicència de Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons i ha estat elaborada per la Confederació de Cooperatives de Catalunya, l’àrea de coordinació jurídica i les Federacions de Cooperatives.
  
-![](.gitbook/assets/ccoopcat.jpg)
-
-Confederació de Cooperatives de Catalunya 
-C. Premià, 15, 2a planta 
-08014 - Barcelona 
-93 332 36 82 
-ccc@cooperativescatalunya.coop (www.cooperativescatalunya.coop)
