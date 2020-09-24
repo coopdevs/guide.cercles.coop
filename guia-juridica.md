@@ -167,12 +167,22 @@ A continuació exposem una orientació de redactat que s’haurà d’adaptar en
 A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de la persona que la presideix.
 
 
+
+**Descarrega't la guia:**
+
+{% file src=".gitbook/assets/guia\_reunionssocietaries.pdf" %}
+
+
+
+
+
+
 `
 *Versió revisada el setembre de 2020*
 
-**Aquesta guia està subjecta a una llicència de Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons i ha estat elaborada per la Confederació de Cooperatives de Catalunya, l’àrea de coordinació jurídica i les Federacions de Cooperatives.**
+Aquesta guia ha estat elaborada per [Confederació de Cooperatives de Catalunya](https://www.cooperativescatalunya.coop/) \(CoopCat\) i és pot compartir sota llicència [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) 
  
-
+![](.gitbook/assets/ccoopcat.jpg)
 Confederació de Cooperatives de Catalunya 
 C. Premià, 15, 2a planta 
 08014 - Barcelona 
