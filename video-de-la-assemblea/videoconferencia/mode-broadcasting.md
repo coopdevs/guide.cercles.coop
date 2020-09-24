@@ -6,7 +6,7 @@ Youtube és el servei més extensament utilitzat per emetre vídeo en directe. A
 
 L’objectiu d’aquest sistema de broadcasting és realitzar la videoconferència amb les conductores de la reunió a través de alguna de les eines esmentades a [videoconferència](./) i, en temps real, emetre aquesta videoconferència a través de youtube perquè qualsevol persona que tingui l'enllaç la pugui seguir.
 
-No podem esperar realitzar una reunió estrictament privada emetent per youtube. Tot i que youtube permet configurar una emissió en directe com "Privada" això només significa que no apareixerà als resultats de les cerques a youtube, però qualsevol persona amb l'enllaç podrà veure la emissió, ja que no hi ha un sistema de verificació d’accés d’usuari únic identificable. Si necessitem privadesa necessitarem un sistema de [Webinar](mode-webinar.md) \en el cas de més de 10 socis, o un sistema simple de videoconferència, en el cas de 10 o menys socis.
+No podem esperar realitzar una reunió estrictament privada emetent per youtube. Tot i que youtube permet configurar una emissió en directe com "Privada" això només significa que no apareixerà als resultats de les cerques a youtube, però qualsevol persona amb l'enllaç podrà veure la emissió, ja que no hi ha un sistema de verificació d’accés d’usuari únic identificable. Si necessitem privadesa necessitarem un sistema de [Webinar](mode-webinar.md), en el cas de més de 10 socis, o un sistema simple de videoconferència, en el cas de 10 o menys socis.
 
 #### 1. Configurar canal de youtube
 
@@ -24,7 +24,9 @@ Cal tenir un compte de Google \(com per exemple un compte de gmail\) i [complir 
 
 ![](../../.gitbook/assets/screenshot_2020-08-13-reproduccio-en-directe-youtube-studio-4-%20%281%29.png)
 
-**En el moment d'iniciar la reproducció en directe, necessitarem disposar de la "clau de reproducció", que podem copiar fen clic al botó tal i com es mostra a la imatge.** 
+{% hint style='warning' %}
+En el moment d'iniciar la reproducció en directe, necessitarem disposar de la **clau de reproducció**, que podem copiar fen clic al botó tal i com es mostra a la imatge anterior.
+{% endhint %}
 
 ### Opcions per connectar sistemes de videoconferència a l'emissió en directe de youtube
 
