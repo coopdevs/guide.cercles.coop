@@ -3,9 +3,16 @@
 * [Què és Cercles Coop?](README.md)
 
 ## Índex de continguts de Cercles Coop
-* [1. Necessitats tècniques per organitzar i celebrar reunions virtuals](1.-necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md)
-* [2. Manual per crear una reunió societària virtual](posada-en-marxa.md)
-* [3. Guia jurídica per a les reunions societàries virtuals a les cooperatives](guia-juridica.md)
+* [1. Guia jurídica per a les reunions societàries virtuals a les cooperatives](guia-juridica.md)
+  * [Introducció](guia-juridica.md#1-introduccio)
+  * [Assemblea General](guia-juridica.md)
+  * [Altres reunions societàries](guia-juridica.md)
+  * [Certificats](guia-juridica.md)
+  * [Recomanacions Generals](guia-juridica.md)
+  
+* [2. Necessitats tècniques per organitzar i celebrar reunions virtuals](1.-necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md)
+* [3. Manual per crear una reunió societària virtual](posada-en-marxa.md)
+
 
 ## Emissió de vídeo en directe <a id="video-de-la-assemblea"></a>
 
