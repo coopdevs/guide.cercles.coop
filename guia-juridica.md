@@ -167,7 +167,26 @@ A continuació exposem una orientació de redactat que s’haurà d’adaptar en
 A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de la persona que la presideix.
 
 
- 
+
+ // Create a Title component that'll render an <h1> tag with some styles
+const Title = styled.h1`
+  font-size: 1.5em;
+  text-align: center;
+  color: palevioletred;
+`;
+// Create a Wrapper component that'll render a <section> tag with some styles
+const Wrapper = styled.section`
+  padding: 4em;
+  background: papayawhip;
+`;
+// Use Title and Wrapper like any other React component – except they're styled!
+render(
+  <Wrapper>
+    <Title>
+      Hello World!
+    </Title>
+  </Wrapper>
+);
 
 
 *Versió revisada el setembre de 2020*
