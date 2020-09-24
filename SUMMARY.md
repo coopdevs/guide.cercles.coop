@@ -1,8 +1,8 @@
-## Índex de continguts de Cercles Coop
-
 # Table of contents
 
-* [Cercles Coop](README.md)
+* [Què és Cercles Coop?](README.md)
+
+## Índex de continguts de Cercles Coop
 * [1. Necessitats tècniques per organitzar i celebrar reunions virtuals](1.-necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md)
 * [2. Manual per crear una reunió societària virtual](posada-en-marxa.md)
 * [3. Guia jurídica per a les reunions societàries virtuals a les cooperatives](guia-juridica.md)
