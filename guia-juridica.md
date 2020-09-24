@@ -49,15 +49,15 @@ A la convocatòria, en tot cas, s’hi ha de fer constar el contingut següent:
 ##### 1.3.1 Fer referència al Decret Llei 19/2020
 En el text de la convocatòria s’ha de fer referència al Decret Llei 19/2020 en els termes següents:
 
-    “Per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de les persones sòcies, el Consell Rector de la `NOM DE LA COOPERATIVA`, reunit el passat `POSAR LA DATA`, va convocar l'Assemblea General `Ordinària/Extraordinària` i va acordar dur-la a terme per videoconferència i, per tant, els acords s'adoptaran virtualment. Aquesta mesura es pren a l'empara del que recull l'article 3, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 19/2020, de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.”
+> “Per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de les persones sòcies, el Consell Rector de la `NOM DE LA COOPERATIVA`, reunit el passat `POSAR LA DATA`, va convocar l'Assemblea General `Ordinària/Extraordinària` i va acordar dur-la a terme per videoconferència i, per tant, els acords s'adoptaran virtualment. Aquesta mesura es pren a l'empara del que recull l'article 3, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 19/2020, de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.”
 La convocatòria es tancarà amb la fórmula que millor s’escaigui, segons el procediment que efectuï cada cooperativa. El requisit bàsic que ha de considerar el text de tancament és fer referència a la metodologia emprada per fer arribar a les sòcies la convocatòria i la documentació associada. 
 
 
 Vegeu els exemples:
 
-    Exemple 1: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb la documentació associada a cada un dels punts de l'ordre del dia.
+> Exemple 1: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb la documentació associada a cada un dels punts de l'ordre del dia.
 
-    Exemple 2: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb l'enllaç web que condueix a la documentació associada a cada un dels punts de l'ordre del dia.
+> Exemple 2: Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb l'enllaç web que condueix a la documentació associada a cada un dels punts de l'ordre del dia.
 
 ##### 2.	Vot social
 En relació amb el vot de cada sòcia (vot individual o vot ponderat), cal comunicar, a la convocatòria, els vots individuals o ponderats que corresponguin a cada persona sòcia segons estatuts.
