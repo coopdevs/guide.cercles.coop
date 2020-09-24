@@ -6,13 +6,11 @@ description: Reunions societàries virtuals
 
 ### Què és Cercles Coop?
 
-És un repositori digital de recursos de codi obert per preparar i celebrar reunions societàries virtuals. Va adreçat a cooperatives i federacions de cooperatives. També a entitats i organitzacions de l’economia social que tinguin incorporats en els seus òrgans processos democràtics de participació.
+És un repositori digital de recursos de codi obert per preparar i celebrar reunions societàries virtuals amb les garanties jurídiques establertes per la normativa vigent. Va adreçat a cooperatives i federacions de cooperatives. També a entitats i organitzacions de l’economia social que tinguin incorporats en els seus òrgans processos democràtics de participació.
 
 Cercles Coop inclou una guia de recomanacions jurídiques, una guia de recomanacions tècniques, la plataforma de votació i la guia d'ús d'aquesta.
 
-La Plataforma de votació Cercles Coop es basa en una adaptació de la Plataforma Decidim, per tal d’incorporar els sistemes de participació i votació de la societats cooperatives d’acord amb el que s’estableix en la pròpia Llei de Cooperatives 12/2015 i el Decret Llei 19/2020.
-
-Així doncs, Cercles Coop inclou un seguit d'eines, i la seva configuració, per tal de poder organitzar i celebrar les reunions dels òrgans socials de les cooperatives amb les garanties jurídiques establertes per la normativa vigent.
+Alhora, la Plataforma de votació Cercles Coop es basa en una adaptació de la Plataforma Decidim, per tal d’incorporar els sistemes de participació i votació de la societats cooperatives d’acord amb el que s’estableix en la pròpia Llei de Cooperatives 12/2015 i el Decret Llei 19/2020.
 
 
 
