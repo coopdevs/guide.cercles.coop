@@ -168,7 +168,7 @@ A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de l
 
 
 
-**Descarrega't la guia:**
+**Descarrega't aquesta guia completa:**
 
 {% file src=".gitbook/assets/guia\_reunionssocietaries.pdf" %}
 
