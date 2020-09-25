@@ -1,7 +1,7 @@
 # 3. Manual per crear una reunió societària virtual
 
 {% hint style="info" %}
-Assumint que ja teniu disponible una [instància de Decidim i un sistema de emissió de vídeo seleccionat](1.-necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md). 
+Assumint que ja teniu disponible una [instància de Decidim i un sistema de emissió de vídeo seleccionat](necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md). 
 {% endhint %}
 
 {% hint style="info" %}
