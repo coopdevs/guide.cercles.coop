@@ -21,3 +21,8 @@
   * [Delegació de vot](votacions/introduccio-decidim/delegacio-de-vot.md)
   * [Resultats de les votacions](votacions/introduccio-decidim/resultats-de-les-votacions.md)
 
+## Referència codi desenvolupat
+
+* [Importació de sòcies i resultats de votació](referencia-codi-desenvolupat/importacio-de-socies-i-resultats-de-votacio.md)
+* [Mòdul de delegació de vots](referencia-codi-desenvolupat/modul-de-delegacio-de-vots.md)
+
