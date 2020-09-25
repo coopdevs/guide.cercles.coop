@@ -24,7 +24,9 @@ Amb [Decidim](https://decidim.org) es poden configurar espais de participació \
 
 CoopCat ofereix aquest servei a través del qual mancomunem el cost de manteniment en una plataforma gestionada per CoopCat i les Federacions de cooperatives. [**Sol·licita-ho aquí**](mailto:ccc@cooperativescatalunya.coop%20%20%20)\*\*\*\*
 
-Els recursos de CerclesCoop han estat elaborats per [Confederació de Cooperatives de Catalunya](https://www.cooperativescatalunya.coop/) \(CoopCat\) i estan subjectes a una llicència de Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons.
-
 ![](.gitbook/assets/ccoopcat.jpg)
+
+Els recursos d'aquesta guia han estat elaborats per [Confederació de Cooperatives de Catalunya](https://www.cooperativescatalunya.coop/) \(CoopCat\) i estan subjectes a una llicència de Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons.
+
+El codi desenvolupat s'ha realitzat sota llicència [AGPL 3.0](http://www.gnu.org/licenses/agpl-3.0.html)
 

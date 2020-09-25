@@ -5,14 +5,12 @@ Assumint que ja teniu disponible una [instància de Decidim](../#com-puc-utilitz
 {% endhint %}
 
 {% hint style="info" %}
-Pots consultar documentació més amplia de Decidim a [https://docs.decidim.org](https://docs.decidim.org)
+Podeu consultar documentació més amplia sobre Decidim a [https://docs.decidim.org](https://docs.decidim.org) No obstant si voleu fer servir les funcionalitats que CooCat ha validat us recomanem seguir únicament aquesta guia. 
 {% endhint %}
 
-Si has sol·licitat la creació d'un Decidim i ets el primer administrador has de recordar la contrasenya per crearà per primera vegada i poder accedir. Fent clic a l'enllaç de dalt a la dreta **Entra**
+Si has sol·licitat la creació d'un Decidim i ets el primer administrador hauràs rebut un correu per registra-te, en cas que aquest correu no t'hagi arribat pots recordar la contrasenya. Fent clic a l'enllaç de dalt a la dreta **Entra**
 
 ![](../.gitbook/assets/screenshot_2020-08-17-iniciar-sessio-prova-assemblea.png)
-
-Rebràs un mail i podràs especificar la teva contransenya.
 
 També la primera vegada que s'accedeix a **/pages/terms-and-conditions** s'han d'acceptar els termes i condicions del servei abans de poder realitzar accions a la administració.
 
