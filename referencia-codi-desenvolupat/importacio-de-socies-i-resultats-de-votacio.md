@@ -1,7 +1,6 @@
 # Importació de sòcies i resultats de votació
 
-Hem millorat el mòdul direct-verifications per permetre:  
-
+Hem millorat el mòdul direct-verifications per permetre:
 
 * Importar sòcies i incloure tipologia de sòcies i ponderació de vot
 * Visualitzar resultats de les votacions incloent tipologies de sòcies i ponderació de vot
