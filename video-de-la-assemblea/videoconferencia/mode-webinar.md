@@ -2,7 +2,7 @@
 
 Els Webinars estan pensats per realitzar presentacions en línia amb uns presentadors i un públic que escolta, el públic pot interactuar fent preguntes, o escrivint al xat. També és possible donar veu a una assistent mitjançant la seva camara web.
 
-El que ens aporta una plataforma de Webinar és poder realitzar la nostra reunió societaria només per persones convidades, és a dir de manera privada. 
+El que ens aporta una plataforma de Webinar és poder realitzar la nostra reunió societaria només per persones convidades, és a dir de manera privada.
 
 Un dels sistemes més extensament utilitzat és Zoom, però existeixen altres alternatives:
 
@@ -19,6 +19,4 @@ Un dels sistemes més extensament utilitzat és Zoom, però existeixen altres al
 {% hint style="info" %}
 La majoria de plataformes es poden contractar mensualment, recomanem contractar el servei amb temps i fer proves del seu ús abans de realitzar una reunió societària rellevant.
 {% endhint %}
-
-
 
