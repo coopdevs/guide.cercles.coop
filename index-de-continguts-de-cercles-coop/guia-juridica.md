@@ -103,7 +103,7 @@ Per a aquelles cooperatives que facin ús de la delegació de vot, es recomana a
 A\) En cas de celebrar l’Assemblea per videoconferència:
 
 * Per facilitar la tasca de preparació tècnica, caldrà que el soci i sòcia que assisteixin a l'Assemblea, prèviament s'enregistrin a través d'un formulari web que consideri un procés d'autentificació. S'hauria d’establir un sistema de contrasenya personal per a la persona sòcia per poder accedir a l'Assemblea.
-* El formulari d'accés hauria d’incloure l'autorització per al tractament de dades _\(Consulta un model: [aquí](../.gitbook/assets/m1-patch-1)\)_.
+* El formulari d'accés hauria d’incloure l'autorització per al tractament de dades _\(Consulta un model: [aquí](../.gitbook/assets/m1_TractamentDeDades_vdef.doc)\)_.
 * Per a aquelles cooperatives en què totes les sòcies apareguin o puguin aparèixer en pantalla, s’hauria de demanar per a cada sòcia l'autorització de cessió d'imatge. _\(Consulta un model: [aquí](../.gitbook/assets/m2_cessioImatge_vdef.doc)\)_.
 
 
