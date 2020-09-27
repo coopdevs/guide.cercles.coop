@@ -105,10 +105,10 @@ A\) En cas de celebrar l’Assemblea per videoconferència:
 * Per facilitar la tasca de preparació tècnica, caldrà que el soci i sòcia que assisteixin a l'Assemblea, prèviament s'enregistrin a través d'un formulari web que consideri un procés d'autentificació. S'hauria d’establir un sistema de contrasenya personal per a la persona sòcia per poder accedir a l'Assemblea.
 * El formulari d'accés hauria d’incloure l'autorització per al tractament de dades _\(s’adjunta model\)_.
 * Per a aquelles cooperatives en què totes les sòcies apareguin o puguin aparèixer en pantalla, s’hauria de demanar per a cada sòcia l'autorització de cessió d'imatge. Consulta un model: 
-{% file src="../.gitbook/assets/guia\_reunionssocietaries.pdf" %}
+{% file src="../.gitbook/assets/m2_cessioImatge_vdef.doc" %}
 
 
-Consulta un model, [aquí]{% file src="../.gitbook/assets/guia\_reunionssocietaries.pdf" %}
+Consulta un model, [aquí](% file src="../.gitbook/assets/m2_cessioImatge_vdef.doc" %)
 
 
 B\) En cas de celebrar l’Assemblea presencialment:
