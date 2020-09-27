@@ -116,7 +116,7 @@ B\) En cas de celebrar l’Assemblea presencialment:
 * En cas de dubtar o no conèixer amb exactitud les mesures específiques en matèria de prevenció de la salut, caldrà consultar a Protecció Civil les mesures específiques del municipi on se celebri l’assemblea.
 
 {% hint style="info" %}
-**RECOMANACIÓ:** Es recomana que cada sòcia faci arribar a la cooperativa una declaració responsable en matèria de salut pública _\(s’adjunta model\)_.
+**RECOMANACIÓ:** Es recomana que cada sòcia faci arribar a la cooperativa una declaració responsable en matèria de salut pública _\(Consulta un model: [aquí](../.gitbook/assets/m4_DeclaraciResponsable_vdef.doc)\)_.
 
 Atesa la variabilitat que s’està donant pel que fa a les afectacions de la COVID-19 arreu del territori, la importància de pal·liar els seus efectes i la importància de vetllar per la salut de les persones sòcies, recomanem a les cooperatives no celebrar assemblees presencials, llevat que les sòcies es puguin considerar grups de convivència o unitats familiars, tal i com estableixen els protocols sanitaris vigents i respectant les mesures concretes a tal efecte.
 {% endhint %}
