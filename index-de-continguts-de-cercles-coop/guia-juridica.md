@@ -66,7 +66,7 @@ Exemple 2:
 
 > Així doncs, em plau fer arribar, a tots els socis i sòcies, la present convocatòria a través de les seves adreces de correu electrònic, juntament amb l'enllaç web que condueix a la documentació associada a cada un dels punts de l'ordre del dia.
 
-**2.    Vot social**
+**2. Vot social**
 
 En relació amb el vot de cada sòcia \(vot individual o vot ponderat\), cal comunicar, a la convocatòria, els vots individuals o ponderats que corresponguin a cada persona sòcia segons estatuts.
 
@@ -76,19 +76,19 @@ Així mateix, per l’excepcionalitat de la situació, es pot informar dels vots
 **RECOMANACIÓ:** Recomanem que s’adjunti a la convocatòria el nombre de vots individuals o ponderats que corresponen a cada sòcia, sempre que sigui possible, físicament si aquesta s’emet per correu postal o a través d’arxiu en cas que s’enviï per correu electrònic o altres mitjans telemàtics.
 {% endhint %}
 
-**3.    Convocatòria**
+**3. Convocatòria**
 
 A banda de fer constar les raons excepcionals per les quals s’ha decidit fer l’Assemblea per mitjans virtuals, el Consell Rector ha d’especificar de forma detallada com es durà a terme en primera i en segona convocatòria, essent responsabilitat del Consell Rector adoptar les mesures pertinents, per tal que les persones sòcies rebin la convocatòria i puguin participar a l’assemblea.
 
-**4.    Documentació relacionada amb els punts de l’ordre del dia**
+**4. Documentació relacionada amb els punts de l’ordre del dia**
 
 A la convocatòria s’ha de fer possible l’accés, d’ençà del moment en què aquesta s’emeti o es formalitzi, als documents relatius als acords que se sotmetin a l’assemblea i a tota la documentació relacionada amb els punts de l’ordre del dia. Per tant, cal que les sòcies pugui obtenir els documents virtualment, tret que se li hagin tramès junt amb la convocatòria, ja siguin físicament o virtualment.
 
-**5.    Assemblees preparatòries**
+**5. Assemblees preparatòries**
 
 Si no se celebren assemblees preparatòries, s’haurà d’especificar expressament i exposar els motius de no fer-les. Aquests motius no són altres que vetllar per la protecció de la salut de les persones sòcies i caldrà fer referència a l’excepcionalitat permesa a l’empara del Decret Llei 19/2020 \(article 3.10\).
 
-**6.    Delegació de vot**
+**6. Delegació de vot**
 
 De forma excepcional i fins a 31 de desembre de 2020, encara que llurs estatuts no ho prevegin, les cooperatives poden determinar representacions a través del vot delegat on cada persona sòcia pot representar com a màxim altres 5 vots a banda del seu propi.
 
@@ -103,9 +103,11 @@ Per a aquelles cooperatives que facin ús de la delegació de vot, es recomana a
 A\) En cas de celebrar l’Assemblea per videoconferència:
 
 * Per facilitar la tasca de preparació tècnica, caldrà que el soci i sòcia que assisteixin a l'Assemblea, prèviament s'enregistrin a través d'un formulari web que consideri un procés d'autentificació. S'hauria d’establir un sistema de contrasenya personal per a la persona sòcia per poder accedir a l'Assemblea.
-* El formulari d'accés hauria d’incloure l'autorització per al tractament de dades _\(Consulta un model: [aquí](../.gitbook/assets/m1_TractamentDeDades_vdef.doc)\)_.
-* Per a aquelles cooperatives en què totes les sòcies apareguin o puguin aparèixer en pantalla, s’hauria de demanar per a cada sòcia l'autorització de cessió d'imatge. _\(Consulta un model: [aquí](../.gitbook/assets/m2_cessioImatge_vdef.doc)\)_.
+* El formulari d'accés hauria d’incloure l'autorització per al tractament de dades _\(Consulta un model:_ [_aquí_](https://github.com/coopdevs/assemblees-virtuals-toolkit/tree/bcb8c899868fd10496a98b3bbc467f915103fa4e/.gitbook/assets/m1_TractamentDeDades_vdef.doc)_\)_.
 
+{% file src="../.gitbook/assets/m1\_tractamentdedades\_vdef.doc" %}
+
+* Per a aquelles cooperatives en què totes les sòcies apareguin o puguin aparèixer en pantalla, s’hauria de demanar per a cada sòcia l'autorització de cessió d'imatge. _\(Consulta un model:_ [_aquí_](https://github.com/coopdevs/assemblees-virtuals-toolkit/tree/bcb8c899868fd10496a98b3bbc467f915103fa4e/.gitbook/assets/m2_cessioImatge_vdef.doc)_\)_.
 
 B\) En cas de celebrar l’Assemblea presencialment:
 
@@ -116,7 +118,7 @@ B\) En cas de celebrar l’Assemblea presencialment:
 * En cas de dubtar o no conèixer amb exactitud les mesures específiques en matèria de prevenció de la salut, caldrà consultar a Protecció Civil les mesures específiques del municipi on se celebri l’assemblea.
 
 {% hint style="info" %}
-**RECOMANACIÓ:** Es recomana que cada sòcia faci arribar a la cooperativa una declaració responsable en matèria de salut pública _\(Consulta un model: [aquí](../.gitbook/assets/m4_DeclaraciResponsable_vdef.doc)\)_.
+**RECOMANACIÓ:** Es recomana que cada sòcia faci arribar a la cooperativa una declaració responsable en matèria de salut pública _\(Consulta un model:_ [_aquí_](https://github.com/coopdevs/assemblees-virtuals-toolkit/tree/bcb8c899868fd10496a98b3bbc467f915103fa4e/.gitbook/assets/m4_DeclaraciResponsable_vdef.doc)_\)_.
 
 Atesa la variabilitat que s’està donant pel que fa a les afectacions de la COVID-19 arreu del territori, la importància de pal·liar els seus efectes i la importància de vetllar per la salut de les persones sòcies, recomanem a les cooperatives no celebrar assemblees presencials, llevat que les sòcies es puguin considerar grups de convivència o unitats familiars, tal i com estableixen els protocols sanitaris vigents i respectant les mesures concretes a tal efecte.
 {% endhint %}
