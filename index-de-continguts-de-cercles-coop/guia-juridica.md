@@ -103,11 +103,10 @@ Per a aquelles cooperatives que facin ús de la delegació de vot, es recomana a
 A\) En cas de celebrar l’Assemblea per videoconferència:
 
 * Per facilitar la tasca de preparació tècnica, caldrà que el soci i sòcia que assisteixin a l'Assemblea, prèviament s'enregistrin a través d'un formulari web que consideri un procés d'autentificació. S'hauria d’establir un sistema de contrasenya personal per a la persona sòcia per poder accedir a l'Assemblea.
-* El formulari d'accés hauria d’incloure l'autorització per al tractament de dades _\(Consulta un model:_ [_aquí_](https://github.com/coopdevs/assemblees-virtuals-toolkit/tree/bcb8c899868fd10496a98b3bbc467f915103fa4e/.gitbook/assets/m1_TractamentDeDades_vdef.doc)_\)_.
-
-{% file src="../.gitbook/assets/m1\_tractamentdedades\_vdef.doc" %}
-
+* El formulari d'accés hauria d’incloure l'autorització per al tractament de dades _\(Consulta un model:_ [_aquí_](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MBsDSLNOQu1wyNrxEz1%2F-MIIivaKUisn83yQg268%2F-MIKCsfWoZDkK2Wn-C-J%2Fm1_TractamentDeDades_vdef.doc?alt=media&token=db234551-6c70-4a2e-8400-865e009f3a51)_\)_.
 * Per a aquelles cooperatives en què totes les sòcies apareguin o puguin aparèixer en pantalla, s’hauria de demanar per a cada sòcia l'autorització de cessió d'imatge. _\(Consulta un model:_ [_aquí_](https://github.com/coopdevs/assemblees-virtuals-toolkit/tree/bcb8c899868fd10496a98b3bbc467f915103fa4e/.gitbook/assets/m2_cessioImatge_vdef.doc)_\)_.
+
+{% file src="../.gitbook/assets/m2\_cessioImatge\_vdef.doc" %}
 
 B\) En cas de celebrar l’Assemblea presencialment:
 
