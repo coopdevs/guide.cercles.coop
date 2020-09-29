@@ -65,5 +65,3 @@ Per a les cooperatives que emprin el sistema de delegació de vot, el component 
 
 En la següent pàgina teniu més informació sobre el sistema de votacions Decidim i les extensions:
 
-{% page-ref page="../votacions/introduccio-decidim/" %}
-

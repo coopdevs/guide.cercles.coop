@@ -1,2 +1,0 @@
-# Delegació de vot
-

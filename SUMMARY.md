@@ -14,13 +14,6 @@
   * [Mode webinar](video-de-la-assemblea/videoconferencia/mode-webinar.md)
   * [Mode broadcasting](video-de-la-assemblea/videoconferencia/mode-broadcasting.md)
 
-## Votacions
-
-* [Decidim](votacions/introduccio-decidim/README.md)
-  * [Cens i verificació de les sòcies](votacions/introduccio-decidim/cens-i-verificacio-de-les-socies-participants-de-lassemblea.md)
-  * [Delegació de vot](votacions/introduccio-decidim/delegacio-de-vot.md)
-  * [Resultats de les votacions](votacions/introduccio-decidim/resultats-de-les-votacions.md)
-
 ## Referència codi desenvolupat
 
 * [Importació de sòcies i resultats de votació](referencia-codi-desenvolupat/importacio-de-socies-i-resultats-de-votacio.md)
