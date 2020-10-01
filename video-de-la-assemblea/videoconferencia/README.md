@@ -11,6 +11,15 @@ Un altre aspecte tenir molt en compte per seleccionar l'eina més adient és el 
 
 Orientacions de sistemes de videoconferència disponibles al mercat i característiques principals:
 
+* [Meet.coop](https://www.org.meet.coop/)
+  * Proposta des del cooperativisme
+  * De pagament
+  * Codi obert \(BigBlueButton\)
+* [Jitsi](https://meet.jit.si/)
+  * Qualsevol persona que disposi de l'enllaç es pot connectar i també es pot [afegir una contrasenya per restringir l'accés](https://jitsi.github.io/handbook/docs/faq#_3-add-a-password-to-the-room_)
+  * Gratuït
+  * Sense funcionalitats de moderació
+  * Software lliure
 * [Skype](https://www.skype.com/es/) 
   * Totes les persones han de tenir compte a Skype \(Microsoft\)
   * Gratuït
@@ -26,11 +35,6 @@ Orientacions de sistemes de videoconferència disponibles al mercat i caracterí
   * [De pagament](https://zoom.us/pricing)
   * [Amb funcionalitats de moderació](https://support.zoom.us/hc/es/articles/201362603-Host-and-Co-Host-Controls-in-a-Meeting)
   * Software propietari
-* [Jitsi](https://meet.jit.si/)
-  * Qualsevol persona que disposi de l'enllaç es pot connectar i també es pot [afegir una contrasenya per restringir l'accés](https://jitsi.github.io/handbook/docs/faq#_3-add-a-password-to-the-room_)
-  * Gratuït
-  * Sense funcionalitats de moderació
-  * Software lliure
 
 ### Menys de 10 participants
 
