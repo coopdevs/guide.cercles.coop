@@ -173,7 +173,8 @@ A continuació exposem una orientació de redactat que s’haurà d’adaptar en
 
 **Descarrega't aquesta guia completa:**
 
-{% file src="../.gitbook/assets/guia\_reunionssocietaries.pdf" %}
+{% file src="../.gitbook/assets/guia\_reunionssocietaries\_vdef.pdf" %}
+
 
 > _Versió revisada el setembre de 2020_
 >
