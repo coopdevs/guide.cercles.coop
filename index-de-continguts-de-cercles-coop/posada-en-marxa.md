@@ -76,7 +76,9 @@ Fins que no fem clic a **Publicar** la consulta no serà visible pels visitants.
 {% endhint %}
 
 {% hint style="info" %}
-Quan vulguem obrir la votació canviarem la data de **Comença la votació** a un dia anterior a avui, quan volguem tancar la votació mourem la data de **La votació finalitza** a un dia anterior a avui.
+Si la votació està tancada per data però pública permetrem que les sòcies entrin a consultar les preguntes i la documentació relativa però sense poder votar. 
+
+Quan vulguem obrir la votació canviarem la data de **Comença la votació** a un dia anterior a avui, quan vulguem tancar la votació mourem la data de **La votació finalitza** a un dia anterior a avui.
 {% endhint %}
 
 #### Preguntes de la consulta
@@ -96,7 +98,7 @@ Hem d'omplir els següents camps:
 Fent clic a la pregunta creada veurem que al menú lateral esquerra se'ns despleguen més opcions, **recomanem sols fer ús de les dues següents**: 
 
 * Respostes \(podem crear totes les respostes que necessitem, habitualment: _A favor, En contra, En blanc_\)
-* Adjunts \(documents de consulta que acompanyen la preguta\)
+* Adjunts \(documents de consulta que acompanyen la pregunta\)
 
 {% hint style="info" %}
 Per poder publicar una pregunta cal que sempre es creïn les respostes possibles
@@ -105,6 +107,16 @@ Per poder publicar una pregunta cal que sempre es creïn les respostes possibles
 {% hint style="danger" %}
 Per tal de mantenir la compatibitat amb la delegació de vot no tocarem la configuració de les preguntes.
 {% endhint %}
+
+![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves.png)
+
+Abans de publicar la pregunta ens assegurem que es requereixen les verificacions de identitat que considerem, fent clic sobre la icona amb forma de clau. 
+
+{% hint style="info" %}
+A cercles.coop recomanem que estiguin marcades per totes les preguntes:  Verificació directa i SMS \(el que significa que sols poden contestar les preguntes de la assemblea les persones que hem convidat pel cens \(verificació directa\) i que a més han validat que tenen accés al seu telèfon mòbil\)
+{% endhint %}
+
+Un cop configurats els permisos d'accès a la pregunta podem fer clic sobre la icona amb forma de llapís i al final del formulari de configuració de la pregunta ens apareixerà la funció de publicar. 
 
 #### Importació de les participants
 
@@ -125,6 +137,14 @@ miqul@example.com,miquel,653565765,treballadora,2
 ```
 
 **membership\_type** i **membership\_weight** representen tipologia de sòcies, i ponderació del vot, respectivament aquesta dada es farà servir per mostrar resultats agrupant sòcies amb la mateixa tipologia i poderació de vot. Per tant en el exemple si hem fet servir tipologia sòcia "treballadora" és important que fem servir exactament el mateix text per totes les sòcies de tipus "treballadora".
+
+#### Delegacions
+
+Si necessitem realitzar delegacions de vots ho podem fer com administradores a **Participants &gt; Delegacions**
+
+![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves-1-.png)
+
+Podrem realitzar delefacions per diferentes consultes \(diferentes reunions\). Fent clic a **Nova delegació** crearem la configuració per la consulta que dessitgem, podem especificar **Consulta**, **Màxim nombre de delegacions que pot rebre una sòcia.**
 
 ### Reunió
 
