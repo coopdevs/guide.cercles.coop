@@ -19,3 +19,7 @@
 * [Importació de sòcies i resultats de votació](referencia-codi-desenvolupat/importacio-de-socies-i-resultats-de-votacio.md)
 * [Mòdul de delegació de vots](referencia-codi-desenvolupat/modul-de-delegacio-de-vots.md)
 
+## Altres recursos
+
+* [Imatges per defecte](altres-recursos/imatges-per-defecte.md)
+
