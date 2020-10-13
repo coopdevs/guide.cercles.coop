@@ -52,17 +52,26 @@ El mòdul de consultes és el que farem servir per organitzar les votacions a un
 
 ![](../.gitbook/assets/screenshot_2020-08-18-prova-assemblea.png)
 
-Si emetem el video a través d'un sistema de broadcasting, com youtube, el podem afegir al camp **URL de vídeo introductori** [tal com s'explica aquí](../video-de-la-assemblea/videoconferencia/mode-broadcasting.md#mostrar-el-video-de-youtube-a-decidim).
-
 Hem d'omplir els següents camps:
 
-* ...
-* Abast destacat: Reunió Societària
+* Títol
+* Subtítol
+* Descripció \(afegir tota la informació relativa a com participar en la assemblea\)
 * Comença la votació: Data de la assemblea
 * La votació finalitza: Data de la assemblea
-* ...
+* Abast destacat: Reunió Societària
+* Nom curt d'URL \(sense espais per exemple assemblea-general-2020\)
+
+Altres camps recomanats: 
+
+* Imatge del banner
+* URL de vídeo introductori \(pot ser un video explicatiu o bé el video del broadcasting\)
 
 {% hint style="info" %}
+Si emetem el video a través d'un sistema de broadcasting, com youtube, el podem afegir al camp **URL de vídeo introductori** [tal com s'explica aquí](../video-de-la-assemblea/videoconferencia/mode-broadcasting.md#mostrar-el-video-de-youtube-a-decidim).
+{% endhint %}
+
+{% hint style="danger" %}
 Fins que no fem clic a **Publicar** la consulta no serà visible pels visitants.
 {% endhint %}
 
@@ -72,10 +81,29 @@ Quan vulguem obrir la votació canviarem la data de **Comença la votació** a u
 
 #### Preguntes de la consulta
 
-Dins de la Consulta creada podrem crear totes les preguntes i respostes possibles per cada una d'ella
+Dins de la Consulta creada podrem crear totes les preguntes i respostes possibles per cada una d'ella. Fem clic a **Preguntes** al menú lateral esquerra i després **Nova Pregunta** fent clic al botó de dalt a la dreta.
+
+Hem d'omplir els següents camps:
+
+* Títol
+* Subtítol
+* Grup promotor
+* Àmbit participatiu
+* Què es decideix
+* Àrea municipal: Assemblea General
+* Nom curt d'URL \(sense espais per exemple pregunta-1\)
+
+Fent clic a la pregunta creada veurem que al menú lateral esquerra se'ns despleguen més opcions, **recomanem sols fer ús de les dues següents**: 
+
+* Respostes \(podem crear totes les respostes que necessitem, habitualment: _A favor, En contra, En blanc_\)
+* Adjunts \(documents de consulta que acompanyen la preguta\)
 
 {% hint style="info" %}
-Per poder publicar cal que es creïn les respostes
+Per poder publicar una pregunta cal que sempre es creïn les respostes possibles
+{% endhint %}
+
+{% hint style="danger" %}
+Per tal de mantenir la compatibitat amb la delegació de vot no tocarem la configuració de les preguntes.
 {% endhint %}
 
 #### Importació de les participants

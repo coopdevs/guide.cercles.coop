@@ -175,7 +175,6 @@ A continuació exposem una orientació de redactat que s’haurà d’adaptar en
 
 {% file src="../.gitbook/assets/guia\_reunionssocietaries\_vdef.pdf" %}
 
-
 > _Versió revisada el setembre de 2020_
 >
 > Aquesta guia està subjecta a una llicència de Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons i ha estat elaborada per la Confederació de Cooperatives de Catalunya, l’àrea de coordinació jurídica i les Federacions de Cooperatives.
