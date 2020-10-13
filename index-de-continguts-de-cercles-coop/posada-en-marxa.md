@@ -116,7 +116,7 @@ Abans de publicar la pregunta ens assegurem que es requereixen les verificacions
 A cercles.coop recomanem que estiguin marcades per totes les preguntes:  Verificació directa i SMS \(el que significa que sols poden contestar les preguntes de la assemblea les persones que hem convidat pel cens \(verificació directa\) i que a més han validat que tenen accés al seu telèfon mòbil\)
 {% endhint %}
 
-Un cop configurats els permisos d'accès a la pregunta podem fer clic sobre la icona amb forma de llapís i al final del formulari de configuració de la pregunta ens apareixerà la funció de publicar. 
+Un cop configurats els permisos d'accés a la pregunta podem fer clic sobre la icona amb forma de llapís i al final del formulari de configuració de la pregunta ens apareixerà la funció de publicar. 
 
 #### Importació de les participants
 
@@ -144,7 +144,7 @@ Si necessitem realitzar delegacions de vots ho podem fer com administradores a *
 
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves-1-.png)
 
-Podrem realitzar delefacions per diferentes consultes \(diferentes reunions\). Fent clic a **Nova delegació** crearem la configuració per la consulta que dessitgem, podem especificar **Consulta**, **Màxim nombre de delegacions que pot rebre una sòcia.**
+Podrem realitzar delegacions per diferentes consultes \(diferentes reunions\). Fent clic a **Nova delegació** crearem la configuració per la consulta que desitgem, podem especificar **Consulta**, **Màxim nombre de delegacions que pot rebre una sòcia.**
 
 ### Reunió
 
