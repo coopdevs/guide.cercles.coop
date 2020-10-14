@@ -14,7 +14,7 @@ Si has sol·licitat la creació d'un Decidim i ets el primer administrador haur�
 
 També la primera vegada que s'accedeix a **/pages/terms-and-conditions** s'han d'acceptar els termes i condicions del servei abans de poder realitzar accions a la administració.
 
-Un cop fet ja podem accedir al panell d'administració, al menú de dalt a la dreta t'apareixerà la opció "Taulell de administració"
+Un cop fet ja podem accedir al taulell d'administració, al menú de dalt a la dreta t'apareixerà la opció "Taulell de administració"
 
 ![](../.gitbook/assets/screenshot_2020-08-17-prova-assemblea.png)
 
@@ -72,7 +72,7 @@ Si emetem el video a través d'un sistema de broadcasting, com youtube, el podem
 {% endhint %}
 
 {% hint style="danger" %}
-Fins que no fem clic a **Publicar** la consulta no serà visible pels visitants.
+Fins que no fem clic a **Publicar** la consulta no serà visible per les usuàries.
 {% endhint %}
 
 {% hint style="info" %}
@@ -105,7 +105,7 @@ Per poder publicar una pregunta cal que sempre es creïn les respostes possibles
 {% endhint %}
 
 {% hint style="danger" %}
-Per tal de mantenir la compatibitat amb la delegació de vot no tocarem la configuració de les preguntes.
+Per tal de mantenir la compatibilitat amb la delegació de vot no tocarem la configuració de les preguntes.
 {% endhint %}
 
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves.png)
@@ -120,7 +120,7 @@ Un cop configurats els permisos d'accés a la pregunta podem fer clic sobre la i
 
 #### Importació de les participants
 
-Per poder incorporar el cens haurem d'anar al Panell d'administració &gt; **Participants** &gt; **Verificacions** &gt; **Direct Verifications**
+Per poder incorporar el cens haurem d'anar al taulell d'administració &gt; **Participants** &gt; **Verificacions** &gt; **Direct Verifications**
 
 {% hint style="info" %}
 Podrem fer proves de la importació i veure els resultats sense realitzar efectivament la importació de les sòcies si tenim marcada l'òpció \(marcada per defecte\) **Comprova l'estat dels usuaris**
@@ -144,7 +144,9 @@ miquel@example.com,miquel,653565765,treballadora,2
 **membership\_type** i **membership\_weight** representen tipologia de sòcies, i ponderació del vot, respectivament aquesta dada es farà servir per mostrar resultats agrupant sòcies amb la mateixa tipologia i ponderació de vot. Per tant en el exemple si hem fet servir tipologia sòcia "treballadora" és important que fem servir exactament el mateix text per totes les sòcies de tipus "treballadora".
 
 {% hint style="danger" %}
-Important! Quan importem el cens de les sòcies, aquestes seran convidades a entrar al Decidim i podran veure tot el que hi hagi públic, ens hem d'assegurar que la consulta i les preguntes públicades són les que volem tenir disponibles perquè les sòcies puguin veure i reflexionar abans de la reunió, **però tenir la data de inici de la consulta en una data futura per tal de no permetre les votacions fins el dia de la reunió.** 
+Important! Quan importem el cens de les sòcies, aquestes seran convidades per mail a entrar al Decidim i podran veure tot el que hi hagi públic. Ens hem d'assegurar que la consulta i les preguntes públicades són les que volem tenir disponibles perquè les sòcies puguin veure i reflexionar abans de la reunió, **però tenir la data de inici de la consulta en una data futura per tal de no permetre les votacions fins el dia de la reunió.** 
+
+És recomanable haver explicat prèviament a les sòcies que rebran aquesta invitació amb la finalitat de realitzar una reunió amb votacions online. 
 {% endhint %}
 
 Quan vulguem importar el cens, que implica la invitació a les sòcies a entrar en el Decidim. Hem de canviar la opció seleccionada per defecte **Comprova l'estat dels usuaris** i marcar **Registra els usuaris a la plataforma \(si existeixen s'ignoraran\)** juntament amb **Autoritza els usuaris** 
@@ -177,13 +179,25 @@ Si no coneixes l'àlies de l'usuari pots visualitzar-l'ho a l'adminitració **Pa
 
 ### Reunió
 
-Ja ho tenim tot a punt per la reunió!
-
-Tenim un **Consulta** amb les seves **Preguntes** publicades tal com hem explicat anteriorment i quan 
+Ja ho tenim tot a punt per la reunió! Tenim un **Consulta** amb les seves **Preguntes** publicades tal com hem explicat anteriorment i la **Consulta** comença en una data futura, per aquest motiu les sòcies importades poden accedir a veure la **Consulta** i les **Preguntes** però encara no poden votar. 
 
 #### Votacions
 
+Acreditacions: \(pendent: manera de coneixer qui assisteix a la votació\)
+
+Quan sigui l'hora de la reunió i vulguem obrir la votació canviarem la data de **Comença la votació** a un dia anterior a avui, quan vulguem tancar la votació mourem la data de **La votació finalitza** a un dia anterior a avui.
+
+Les sòcies que tinguin vots delegats veuran un avís a sota del botó per votar. Si fan clic al botó de votar votaran en el seu nom, però si fan clic en l'avís de sota podran votar en nom de les persones que li han delegat el vot:
+
+![](../.gitbook/assets/screenshot_2020-10-14-pregunta1-cooperativa-proves.png)
+
 #### Visualització de resultats
 
-### 
+Quan s'hagin realitzat totes les votacions, si tornem a la configuració de la **Consulta** \(taulell d'administració &gt; **Consultes** i fem clic en el nom de la **Consulta** en qüestió, quan canviem la data  **La votació finalitza** a un dia anterior a avui i fem clic sobre el botó de **Actualitza** les votacions es tancaran i els administradors podran veure els resultats a **Resultats** a la barra lateral esquerra. 
+
+{% hint style="info" %}
+Al fer clic a **Actualitza** canviant la data de finalització de la consulta i per tant tancant la consulta, ens apareixerà un nou botó al final de la configuració de la **Consulta** , **Publica els resultats.** 
+
+Si la vostra cooperativa el comput de vots requereix realitzar càlculs que tenen a veure amb tipologia de sòcies, ponderació de vot, majories qualificaques, etc. No publiqueu els resultats a Decidim ja que Decidim mostra resultats segons 1 persona 1 vot. Les administradores faran el càlcul segons la informació que apareix al panell d'administració **Resultats** i comunicaran els resultats a les sòcies mitjançant altres canals. 
+{% endhint %}
 
