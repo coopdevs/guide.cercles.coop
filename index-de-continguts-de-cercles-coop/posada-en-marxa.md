@@ -120,23 +120,36 @@ Un cop configurats els permisos d'accés a la pregunta podem fer clic sobre la i
 
 #### Importació de les participants
 
-Format document CSV  
-Primera linea capçalera, separant columnes amb comes i sense espais:
+Per poder incorporar el cens haurem d'anar al Panell d'administració &gt; **Participants** &gt; **Verificacions** &gt; **Direct Verifications**
+
+{% hint style="info" %}
+Podrem fer proves de la importació i veure els resultats sense realitzar efectivament la importació de les sòcies si tenim marcada l'òpció \(marcada per defecte\) **Comprova l'estat dels usuaris**
+{% endhint %}
+
+Necessitarem un document amb format tipus CSV. On la primera linea és la capçalera, separant columnes amb comes i sense espais:
 
 ```text
 email,nom,membership_phone,membership_type,membership_weight
 ```
 
-Següents línies de dades, separant columnes amb comes i sense espais:
+Les següents línies son les dades, separant columnes amb comes i sense espais:
 
 ```text
 email,nom,membership_phone,membership_type,membership_weight
 joana@example.com,joana garcia,76318371,treballadora,3
-miqul@example.com,miquel,653565765,treballadora,2
+miquel@example.com,miquel,653565765,treballadora,2
 [...]
 ```
 
-**membership\_type** i **membership\_weight** representen tipologia de sòcies, i ponderació del vot, respectivament aquesta dada es farà servir per mostrar resultats agrupant sòcies amb la mateixa tipologia i poderació de vot. Per tant en el exemple si hem fet servir tipologia sòcia "treballadora" és important que fem servir exactament el mateix text per totes les sòcies de tipus "treballadora".
+**membership\_type** i **membership\_weight** representen tipologia de sòcies, i ponderació del vot, respectivament aquesta dada es farà servir per mostrar resultats agrupant sòcies amb la mateixa tipologia i ponderació de vot. Per tant en el exemple si hem fet servir tipologia sòcia "treballadora" és important que fem servir exactament el mateix text per totes les sòcies de tipus "treballadora".
+
+{% hint style="danger" %}
+Important! Quan importem el cens de les sòcies, aquestes seran convidades a entrar al Decidim i podran veure tot el que hi hagi públic, ens hem d'assegurar que la consulta i les preguntes públicades són les que volem tenir disponibles perquè les sòcies puguin veure i reflexionar abans de la reunió, **però tenir la data de inici de la consulta en una data futura per tal de no permetre les votacions fins el dia de la reunió.** 
+{% endhint %}
+
+Quan vulguem importar el cens, que implica la invitació a les sòcies a entrar en el Decidim. Hem de canviar la opció seleccionada per defecte **Comprova l'estat dels usuaris** i marcar **Registra els usuaris a la plataforma \(si existeixen s'ignoraran\)** juntament amb **Autoritza els usuaris** 
+
+![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves-2-.png)
 
 #### Delegacions
 
@@ -146,7 +159,23 @@ Si necessitem realitzar delegacions de vots ho podem fer com administradores a *
 
 Podrem realitzar delegacions per diferentes consultes \(diferentes reunions\). Fent clic a **Nova delegació** crearem la configuració per la consulta que desitgem, podem especificar **Consulta**, **Màxim nombre de delegacions que pot rebre una sòcia.**
 
+Un cop creada la configuració per les delegacions d'una consulta si fem clic a sobre del nom de la consulta podrem crear les delegacions fent clic al botó **Nou Participant**
+
+![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves-1-.png)
+
+Podrem seleccionar quí és l'**atorgant** del vot i en qui delega \(**receptor**\) escrivint el nom d'usuari \(**àlies**\):
+
+![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves.png)
+
+{% hint style="info" %}
+Si no coneixes l'àlies de l'usuari pots visualitzar-l'ho a l'adminitració **Participants &gt; Participants**
+{% endhint %}
+
 ### Reunió
+
+Ja ho tenim tot a punt per la reunió!
+
+Tenim un **Consulta** amb les seves **Preguntes** publicades tal com hem explicat anteriorment i quan 
 
 #### Votacions
 
