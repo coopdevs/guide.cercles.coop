@@ -151,19 +151,23 @@ Quan vulguem importar el cens, que implica la invitació a les sòcies a entrar 
 
 ![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves-2-.png)
 
+{% hint style="info" %}
+Si hem d'actualitzar algun parametre de usuaris introduits \(tipus telefon, tipologia de sòcia o ponderació del vot\) podem fer servir el mateix format. Primer amb l'opció de **Revoca l'autorització dels usuaris** i posteriorment amb **Autoritza els usuaris**  amb les dades corregides.
+{% endhint %}
+
 #### Delegacions
 
 Si necessitem realitzar delegacions de vots ho podem fer com administradores a **Participants &gt; Delegacions**
 
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves-1-.png)
 
-Podrem realitzar delegacions per diferentes consultes \(diferentes reunions\). Fent clic a **Nova delegació** crearem la configuració per la consulta que desitgem, podem especificar **Consulta**, **Màxim nombre de delegacions que pot rebre una sòcia.**
+Podrem realitzar delegacions per diferents consultes \(diferentes reunions\). Fent clic a **Nova delegació** crearem la configuració per la consulta que desitgem, podem especificar **Consulta**, **Màxim nombre de delegacions que pot rebre una sòcia.**
 
 Un cop creada la configuració per les delegacions d'una consulta si fem clic a sobre del nom de la consulta podrem crear les delegacions fent clic al botó **Nou Participant**
 
 ![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves-1-.png)
 
-Podrem seleccionar quí és l'**atorgant** del vot i en qui delega \(**receptor**\) escrivint el nom d'usuari \(**àlies**\):
+Podrem seleccionar qui és l'**atorgant** del vot i en qui delega \(**receptor**\) escrivint el nom d'usuari \(**àlies**\):
 
 ![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves.png)
 
