@@ -14,7 +14,7 @@ Orientacions de sistemes de videoconferència disponibles al mercat i caracterí
 * [Meet.coop](https://www.org.meet.coop/)
   * Proposta des del cooperativisme
   * De pagament
-  * Codi obert \(BigBlueButton\)
+  * Software lliure \(BigBlueButton\)
 * [Jitsi](https://meet.jit.si/)
   * Qualsevol persona que disposi de l'enllaç es pot connectar i també es pot [afegir una contrasenya per restringir l'accés](https://jitsi.github.io/handbook/docs/faq#_3-add-a-password-to-the-room_)
   * Gratuït
