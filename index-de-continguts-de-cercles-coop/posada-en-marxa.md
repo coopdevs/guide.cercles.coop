@@ -1,55 +1,66 @@
-# 3. Manual per crear una reunió societària virtual
+# 3. Manual per crear una votació societària virtual a Cercles.Coop
+**Manual per crear una reunió societària: ordre del dia, documentació associada i paràmetres de votació de cada un dels punts de l'ordre del dia**
+
+Per utilitzar la plataforma de votació Cercles.Coop s’ha d’haver sol·licitat la creació d’una [instància pròpia](https://cercles.coop). Així doncs, per implantar les passes del manual, assumim que ja teniu disponible una instància i un [sistema de emissió de vídeo](necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md#1-emissio-de-video-en-directe) escollit. 
+
 
 {% hint style="info" %}
-Assumint que ja teniu disponible una [instància de Decidim](../#com-puc-utilitzar-cercles-coop) i un [sistema de emissió de vídeo](necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md#1-emissio-de-video-en-directe) seleccionat. 
+Per configurar la instància a nivell d’administrador, podeu consultar documentació més amplia a [https://docs.decidim.org]. No obstant això, si voleu fer servir les funcionalitats específiques per preparar la reunió societària que des de CoopCat s’ha validat, us recomanem seguir únicament aquesta guia. 
 {% endhint %}
 
-{% hint style="info" %}
-Podeu consultar documentació més amplia sobre Decidim a [https://docs.decidim.org](https://docs.decidim.org) No obstant si voleu fer servir les funcionalitats que CooCat ha validat us recomanem seguir únicament aquesta guia. 
-{% endhint %}
 
-Si has sol·licitat la creació d'un Decidim i ets el primer administrador hauràs rebut un correu per registra-te, en cas que aquest correu no t'hagi arribat pots recordar la contrasenya. Fent clic a l'enllaç de dalt a la dreta **Entra**
-
+Al formalitzar l’alta d’instància a la plataforma CerclesCoop, a l’adreça electrònica facilitada en el formulari d’alta heu de rebre un correu electrònic amb l’enllaç d’accés específic, per a l’administrador de la cooperativa, a la plataforma (comprovar safata spam). 
+Aquest enllaç serà únic per a cada cooperativa i condueix a l’espai de gestió a través del qual l’administrador crearà totes les reunions societàries i processos participatius que vulgui, sense limitacions.
+Clicant l’enllaç, s’obre la plataforma de votació i apareix en pantalla un formulari d’ingrés. Aleshores cal crear la contrasenya d’accés com a administrador i que haureu de recordar. També es pot generar una nova clau d’accés clicant sobre **has oblidat la teva contrasenya**, tal com es mostra a la imatges següent:
 ![](../.gitbook/assets/screenshot_2020-08-17-iniciar-sessio-prova-assemblea.png)
 
-També la primera vegada que s'accedeix a **/pages/terms-and-conditions** s'han d'acceptar els termes i condicions del servei abans de poder realitzar accions a la administració.
-
-Un cop fet ja podem accedir al taulell d'administració, al menú de dalt a la dreta t'apareixerà la opció "Taulell de administració"
-
+Un cop enregistrats, heu d’entrar a la plataforma clicant a l’enllaç **Edita** situat a dalt a la dreta.
+També, la primera vegada que s'accedeix s'han d'acceptar els termes i condicions abans de poder realitzar accions d’administrador **(/pages/terms-and-conditions)**.
+Un cop s’hagin completat totes aquestes passes, ja es pot accedir al tauler d'administració. Al menú de dalt a la dreta apareixerà l’opció ***Taulell de control**, tal i com es mostra a la imatge següent:
 ![](../.gitbook/assets/screenshot_2020-08-17-prova-assemblea.png)
 
-### Preparació
+### Preparació de la reunió societària
+Si fas servir el servei ofert per Cercles.Coop ja tindràs creat per defecte el contingut dels apartats Pàgines i Àmbits de la zona de configuració i, per tant, pots adreçar-te directament a la creació de la [Consulta](posada-en-marxa.md#consultes). 
 
-{% hint style="info" %}
-Si fas servir el servei ofert per cercles.coop ja tindràs creades Pàgines, Àmbits pots saltar a la creació de la [Consulta](posada-en-marxa.md#consultes)
+{% hint style="warning" %}
+El text estàndard que es proporciona a l'apartat de **Pàgines** cal adaptar-lo incorporant les dades de cada cooperativa.
 {% endhint %}
 
 #### Pàgines informatives
-
-En la administració en la secció **Pàgines** podem editar els continguts de les pàgines, podem crear/editar/suprimir diversos Temes i Pàgines explicatives, però obligatoriament hem de tenir les següents pàgines: 
+A la sessió *Pàgines* podem editar els continguts de les pàgines explicatives. En concret, es poden crear, editar i suprimir. Podem crear les pàgines que necessitem i obligatòriament caldrà crear les següents:
 
 * FAQ \(preguntes freqüents\) **pages/faq**
 * Termes i condicions **pages/terms-and-conditions**
 * Accessibilitat **pages/accessibility**
 
+{% hint style="info" %}
+Podeu descarregar-vos el text estàndard pàgines aquí, modificar-lo i copiar-lo a la pàgina que correspongui. ALERTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PUJAR DOCUMENTS I CREAR ENLLAÇOS.
+{% endhint %}
+
 #### **Àmbits**
+Abans de crear un procés de votació (consulta), necessitem crear un àmbit. Els àmbits ens serveixen per classificar els tipus de processos participatius, per exemple: consultes al socis, consells rectors, assemblees..., si no esperem tenir diversitat d'àmbits sobre els quals realitzar consultes o processos de votació, podem crear-ne un d’únic anomenat, per exemple, "reunió societària" i després podem crear un sub àmbit concret, per exemple, “Assemblea General”.
 
-Abans de crear una consulta necessitem crear un àmbit, si no esperem tenir diversitat d'àmbits en que és realitzen les consultes podem crear sols un anomenat "reunió societària" per qualsevol reunió i després un àmbit concret per les preguntes tipus "assemblea general"
 
-A la administració, secció **Configuració &gt; Àmbits** fem clic a dalt a la dreta **Afegir**
+{% hint style="info" %}
+En el decurs d'aquest manual farem servir els exemples de **Reunió societària** per definir l'àmbit i **Assemblea General** per definir el sub àmbit.
+{% endhint %}
 
-* **Nom:** reunió societària
+A la secció **Configuració &gt; Àmbits** fem clic a **Afegir**, a dalt a la dreta.
+
+* **Nom:** Reunió societària
 * **Codi:** reunio-societaria
 
-Un cop creada fem clic a sobre **reunió societària** i dins podrem **Afegir** un "sub àmbit" que anomenarem 
-
-* **Nom:** assemblea general
+Un cop creat l’àmbit general, fem clic a sobre **Reunió societària** i dins podrem **Afegir** un sub àmbit que anomenarem:
+* **Nom:** Assemblea General
 * **Codi:** assemblea-general
 
+{% hint style="warning" %}
+El text de l'apartat **codi** no pot portar accents, dièresis, espais ni punt volat.
+{% endhint %}
+
+
 #### Consultes
-
-El mòdul de consultes és el que farem servir per organitzar les votacions a una determinada reunió, si anem a la secció **Consultes** en el menú de administració podrem crear una nova consulta fent clic al botó de dalt a la dreta **Nova consulta**
-
+El mòdul de consultes és el que farem servir per organitzar les votacions d’una determinada reunió, si anem a la secció **Consultes** se’n poden crear tantes com vulguem, fent clic al botó **Nova consulta** de dalt a la dreta.
 ![](../.gitbook/assets/screenshot_2020-08-18-prova-assemblea.png)
 
 Hem d'omplir els següents camps:
