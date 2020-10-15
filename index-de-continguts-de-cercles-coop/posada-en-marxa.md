@@ -10,7 +10,9 @@ Per configurar la instància a nivell d’administrador, podeu consultar documen
 
 
 Al formalitzar l’alta d’instància a la plataforma CerclesCoop, a l’adreça electrònica facilitada en el formulari d’alta heu de rebre un correu electrònic amb l’enllaç d’accés específic, per a l’administrador de la cooperativa, a la plataforma (comprovar safata spam). 
+
 Aquest enllaç serà únic per a cada cooperativa i condueix a l’espai de gestió a través del qual l’administrador crearà totes les reunions societàries i processos participatius que vulgui, sense limitacions.
+
 Clicant l’enllaç, s’obre la plataforma de votació i apareix en pantalla un formulari d’ingrés. Aleshores cal crear la contrasenya d’accés com a administrador i que haureu de recordar. També es pot generar una nova clau d’accés clicant sobre **has oblidat la teva contrasenya**, tal com es mostra a la imatges següent:
 ![](../.gitbook/assets/screenshot_2020-08-17-iniciar-sessio-prova-assemblea.png)
 
