@@ -114,7 +114,7 @@ Un cop haguem omplert la informacio general, haurem de crear les preguntes de la
 
 #### Preguntes de la consulta
 
-Dins de la Consulta creada podrem crear totes les preguntes i respostes possibles. Les preguntes equivalen a cada punt de l'ordre del dia de la reunió i les preguntes el sentit del vot que correspon a cada pregunta. Fem clic a **Preguntes** al menú lateral esquerra i després **Nova Pregunta** fent clic al botó de dalt a la dreta.
+Dins de la **Consulta** creada podrem crear totes les preguntes i respostes possibles. Les preguntes equivalen a cada punt de l'ordre del dia de la reunió i les respostes al sentit del vot que correspongui a cada pregunta. Fem clic a **Preguntes** al menú lateral esquerra i després **Nova Pregunta** fent clic al botó de dalt a la dreta.
 
 
 Hem d'omplir els següents camps:
@@ -127,18 +127,17 @@ Hem d'omplir els següents camps:
 * **Àrea municipal:** Cal seleccionar el subàmbit a través del desplegable. _Per exemple: Assemblea General_
 * **Nom curt d'URL** (sense espais, ni accents, ni dièresis, ni punt volat). _ Per exemple: pregunta-1_
 
+Com veureu, un cop cliquem sobre la pregunta creada, al menú lateral esquerra apareixen més opcions. En concret, apareixen les opcions següents: Informació, Configuració, Respostes, Components, Categories i Adjunts. Per garantir un funcionament correcte, **recomanem fer ús només de les dues següents**: Respostes i Adjunts. Així doncs, clicant sobre aquestes dues opcions podrem configurar aquests paràmetres:
 
-Fent clic a la pregunta creada veurem que al menú lateral esquerra se'ns despleguen més opcions, **recomanem sols fer ús de les dues següents**: 
-
-* Respostes \(podem crear totes les respostes que necessitem, habitualment: _A favor, En contra, En blanc_\)
-* Adjunts \(documents de consulta que acompanyen la pregunta\)
+* Respostes: Podem crear totes les respostes que necessitem d'acord amb la pregunta, habitualment serà: A favor, En contra, En blanc
+* Adjunts: En aquest apartat podrem carregar tota la documentació adjunta relacionada amb la pregunta (punt de l'ordre del dia) en qüestió.
 
 {% hint style="info" %}
-Per poder publicar una pregunta cal que sempre es creïn les respostes possibles
+Recordeu que per poder publicar i, per tant, fer visible una pregunta a l'àrea d'usuari de la plataforma, cal crear les respostes associades a la pregunta.
 {% endhint %}
 
 {% hint style="danger" %}
-Per tal de mantenir la compatibilitat amb la delegació de vot no tocarem la configuració de les preguntes.
+Per tal de mantenir la compatibilitat amb la delegació de vot, no tocarem la configuració de les preguntes. I, per tant, no s'accedirà a les opcions indicades anteriorment: Configuració, Components i Categories.
 {% endhint %}
 
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves.png)
