@@ -191,67 +191,89 @@ martina@example.com,Martina Grau,653565761,col·laborador,0.67
 Significat dels camps:
 
 **email:** Adreça de correu electrònic del soci, a través de la qual s'acreditarà com a usuari a la plataforma de votació. 
-**nom:** Nom i cognoms del soci. En aquest camp podem posar accents, dièresis, punts volats i espais.
+**nom:** Nom i cognoms del soci. En aquest camp podem posar accents, dièresis, punts volats i espais. El sistema pren automàticament la informació d'aquest camp per assignar un nom d'usuari o un àlies al soci.
 **membership_phone:** telèfon mòbil del soci, a través del qual autentificarà la seva identitat en el moment d'iniciar-se l'assemblea o la reunió societària.
 **membership\_type:** Tipus de soci. Aquesta dada ens servirà, juntament amb la de **membership weight** per mostrar resultats agrupant socis de la mateixa tipologia i ponderació de vot. Per tant, és important unificar els criteris de tipologia de socis i que habitualment seran: comú, consumidor, treball, treballador, col·laborador.
-**membership\_weight:** Pes del vot o ponderació de vot. Aquesta dada numèrica indicarà el pes del vot de cada soci. El número serà variable en funció del que determina la llei de cooperatives i els estatuts socials. Per a les cooperatives que no tenen estipulat per estatuts la ponderació de vot, aquest número sempres serà **1**. Si el vot ponderat d'un soci no és un número enter 
+**membership\_weight:** Pes del vot o ponderació de vot. Aquesta dada numèrica indicarà el pes del vot de cada soci. El número serà variable en funció del que determina la llei de cooperatives i els estatuts socials. Per a les cooperatives que no tenen estipulat per estatuts la ponderació de vot, aquest número sempres serà **1**. Si el vot ponderat d'un soci no és un número enter cal separar els dígits amb un **punt**. _Per exemple: 0.8_
 
 
 {% hint style="danger" %}
-Important! Quan importem el cens de les sòcies, aquestes seran convidades per mail a entrar al Decidim i podran veure tot el que hi hagi públic. Ens hem d'assegurar que la consulta i les preguntes públicades són les que volem tenir disponibles perquè les sòcies puguin veure i reflexionar abans de la reunió, **però tenir la data de inici de la consulta en una data futura per tal de no permetre les votacions fins el dia de la reunió.** 
+Important! Quan importem el cens virtual de socis, de manera automàtica, aquests rebran invitació per correu electrònic per accedir i registrar una contrasenya a la plataforma de votació. Per tant, els socis, a mesura que es vagin enregistrant, podran veure tot el contingut que l’administrador hagi publicat.
 
-És recomanable haver explicat prèviament a les sòcies que rebran aquesta invitació amb la finalitat de realitzar una reunió amb votacions online. 
+Ens hem d'assegurar que la consulta i les preguntes publicades són les que volem tenir disponibles perquè els socis puguin consultar i reflexionar abans de la reunió, però caldrà tenir la data d’inici de la **consulta** en una data futura, per tal de no permetre les votacions fins el dia de la reunió. 
+
+És recomanable haver explicat, prèviament, als socis que rebran aquesta invitació a través de la qual se’ls mostrarà un formulari d’ingrés i hauran d’escriure una contrasenya (que hauran de recordar) per formalitzar el registre. Caldrà indicar també que comprovin la safata spam. 
 {% endhint %}
 
-Quan vulguem importar el cens, que implica la invitació a les sòcies a entrar en el Decidim. Hem de canviar la opció seleccionada per defecte **Comprova l'estat dels usuaris** i marcar **Registra els usuaris a la plataforma \(si existeixen s'ignoraran\)** juntament amb **Autoritza els usuaris** 
+
+Quan vulguem importar el cens, que alhora implica l’emissió automàtica d’una invitació als socis per accedir a la plataforma, hem de canviar l’opció seleccionada per defecte **Comprova l'estat dels usuaris** i marcar **Registra els usuaris a la plataforma** (els que ja existeixin amb anterioritat o que coincideixin amb administradors de la plataforma s'ignoraran) juntament amb **Autoritza els usuaris.**
 
 ![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves-2-.png)
 
 {% hint style="info" %}
-Si hem d'actualitzar algun parametre de usuaris introduits \(tipus telefon, tipologia de sòcia o ponderació del vot\) podem fer servir el mateix format. Primer amb l'opció de **Revoca l'autorització dels usuaris** i posteriorment amb **Autoritza els usuaris**  amb les dades corregides.
+Si hem d'actualitzar alguna dada al cens virtual de socis (telèfon, tipologia de sòcia o ponderació del vot) podem fer servir el mateix sistema i format. Primer, haurem de revocar aquest soci per tornar-lo a validar i ho farem amb l’opció **Revoca l'autorització dels usuaris** i, posteriorment, amb **Autoritza els usuaris**, ja amb les dades corregides.
 {% endhint %}
 
-#### Delegacions
 
-Si necessitem realitzar delegacions de vots ho podem fer com administradores a **Participants &gt; Delegacions**
+#### Delegacions de vots
+
+Si necessitem realitzar delegacions de vots ho podem fer com administradors a **Participants &gt; Delegacions**
 
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves-1-.png)
 
-Podrem realitzar delegacions per diferents consultes \(diferentes reunions\). Fent clic a **Nova delegació** crearem la configuració per la consulta que desitgem, podem especificar **Consulta**, **Màxim nombre de delegacions que pot rebre una sòcia.**
+Podrem realitzar delegacions per diferents consultes \(diferentes reunions\). Fent clic a **Nova delegació**, crearem la configuració per la consulta que desitgem. A través del desplegable seleccionarem la consulta sobre la qual habilitarem l'opció del vot delegat i al camp **Màxim nombre de delegacions que pot rebre una sòcia** indicarem el nombre màxim de delegacions que pot rebre un soci.
 
-Un cop creada la configuració per les delegacions d'una consulta si fem clic a sobre del nom de la consulta podrem crear les delegacions fent clic al botó **Nou Participant**
+
+Un cop habilitada i configurada l'opció de vot delegat, farem clic sobre **Delegació** per configurar els socis que atorguen el seu vot delegat i els socis que en són receptors. Per fer això, farem clic al botó **Nou Participant**.
 
 ![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves-1-.png)
 
-Podrem seleccionar qui és l'**atorgant** del vot i en qui delega \(**receptor**\) escrivint el nom d'usuari \(**àlies**\):
+Podrem seleccionar qui és l'**atorgant** del vot i en qui delega \(**receptor**\) escrivint el nom del soci \(**àlies**\):
 
 ![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves.png)
 
+
 {% hint style="info" %}
-Si no coneixes l'àlies de l'usuari pots visualitzar-l'ho a l'adminitració **Participants &gt; Participants**
+Si no coneixes l'àlies de l'usuari pots visualitzar-l'ho a l'adminitració **Participants &gt; Participants**. Tanmateix, recorda que l'àlies o nom d'usuari es correspon amb la informació del camp **nom** que s'hagi detallat al cens virtual de socis. 
+
+_Per exemple: Si al cens virtual hem indicat que tenim un soci de nom Martina Garauch, el seu àlies serà martina-garauch._
 {% endhint %}
 
-### Reunió
 
-Ja ho tenim tot a punt per la reunió! Tenim un **Consulta** amb les seves **Preguntes** publicades tal com hem explicat anteriorment i la **Consulta** comença en una data futura, per aquest motiu les sòcies importades poden accedir a veure la **Consulta** i les **Preguntes** però encara no poden votar. 
+{% hint style="warning" %}
+IMPORTANT: si un soci ha notificat a la cooperativa que delega el seu vot, però el dia de l'assemblea, finalment, decideix assistir-hi personalment, l'administrador pot eliminar la delegació de vot d'aquest soci i, automàticament, queda desabilitat el vot delegat al soci que n'era el receptor.
+{% endhint %}
+
+
+### Reunió societària
+
+Felicitats, ja ho tenim tot a punt per la reunió! 
+
+Tenim un **Consulta** amb les seves **Preguntes** publicades, tal i com hem explicat anteriorment. La **Consulta** la tenim configurada perquè s'obri en una data futura, per permetre que els socis puguin accedir a la **Consulta** on veuran l'ordre del dia (**Preguntes**) amb la documentació corresponent, però encara no poden votar. 
+
 
 #### Votacions
 
-Acreditacions: \(pendent: manera de coneixer qui assisteix a la votació\)
+Acreditacions: \(PENDENTTTTTTTTTTTTTTTTTTTTTTT: manera de coneixer qui assisteix a la votació\)
 
-Quan sigui l'hora de la reunió i vulguem obrir la votació canviarem la data de **Comença la votació** a un dia anterior a avui, quan vulguem tancar la votació mourem la data de **La votació finalitza** a un dia anterior a avui.
+Quan sigui l'hora d'iniciar la reunió i vulguem obrir la votació, canviarem la data de **Comença la votació** a un dia anterior al de celebració de la reunió, quan vulguem tancar la votació mourem la data de **La votació finalitza** a un dia anterior a la celebració de la reunió.
 
-Les sòcies que tinguin vots delegats veuran un avís a sota del botó per votar. Si fan clic al botó de votar votaran en el seu nom, però si fan clic en l'avís de sota podran votar en nom de les persones que li han delegat el vot:
+Els socis receptors de vots delegats veuran un avís a sota del botó de votar. Si fan clic al botó, votaran en el seu nom, però si fan clic a l'avís de sota, podran votar en nom de les persones que li han delegat el vot:
 
 ![](../.gitbook/assets/screenshot_2020-10-14-pregunta1-cooperativa-proves.png)
 
+
 #### Visualització de resultats
 
-Quan s'hagin realitzat totes les votacions, si tornem a la configuració de la **Consulta** \(taulell d'administració &gt; **Consultes** i fem clic en el nom de la **Consulta** en qüestió, quan canviem la data  **La votació finalitza** a un dia anterior a avui i fem clic sobre el botó de **Actualitza** les votacions es tancaran i els administradors podran veure els resultats a **Resultats** a la barra lateral esquerra. 
+Quan s'hagi finalitzat la reuió o el temps establert per votar, per visualitzasr els resultats l'administrador ha de tornar a la configuració de la **Consulta** \(tauler d'administració &gt; **Consultes**, fer clic sobre el nom de la **Consulta** en qüestió i canviar la data  **La votació finalitza** a un dia anterior al de celebració de la reunió. Aleshores, cal fer clic sobre el botó **Actualitza** i, automàticament, apareix una nova opció que és **Resultats** a la barra lateral esquerra. 
+
+En aquest apartat de **Resultats** podem veure, per a cada pregunta, les respostes quantificades per tipologia de soci i pes del vot que hem definit al cens.
+
+
+### Publicació de resultats
+Quan tanquem la consulta i, per tant, les votacions, a l'apartat **Consulta &gt; Configuració**, a baix de tot, apareix un nou botó que és **Publica els resultats.** 
 
 {% hint style="info" %}
-Al fer clic a **Actualitza** canviant la data de finalització de la consulta i per tant tancant la consulta, ens apareixerà un nou botó al final de la configuració de la **Consulta** , **Publica els resultats.** 
-
 Si la vostra cooperativa el comput de vots requereix realitzar càlculs que tenen a veure amb tipologia de sòcies, ponderació de vot, majories qualificaques, etc. No publiqueu els resultats a Decidim ja que Decidim mostra resultats segons 1 persona 1 vot. Les administradores faran el càlcul segons la informació que apareix al panell d'administració **Resultats** i comunicaran els resultats a les sòcies mitjançant altres canals. 
 {% endhint %}
 
