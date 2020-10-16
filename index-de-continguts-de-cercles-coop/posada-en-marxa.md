@@ -150,7 +150,7 @@ Abans de publicar la pregunta ens hem d’assegurar que hi vinculem els permisos
 
 
 {% hint style="info" %}
-A cercles.coop recomanem que estiguin marcades, a totes les preguntes, les opcions següents:  Verificació directa i SMS.
+A Cercles.Coop recomanem que estiguin marcades, a totes les preguntes, les opcions següents:  Verificació directa i SMS.
 
 Això significa que només podran votar, a les preguntes de l’assemblea o una altra reunió societària, les persones que hem convidat a través del cens social virtual (verificació directa) i que a més han validat l’autenticitat de la seva identitat a través d’una acreditació que rebran al seu propi telèfon mòbil.
 {% endhint %}
