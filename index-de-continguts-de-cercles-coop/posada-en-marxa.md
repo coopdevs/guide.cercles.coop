@@ -9,26 +9,31 @@ Per configurar la instància a nivell d’administrador, podeu consultar documen
 {% endhint %}
 
 
+### Alta com a administradors a la plataforma Cercles.Coop
+
 Al formalitzar l’alta d’instància a la plataforma CerclesCoop, a l’adreça electrònica facilitada en el formulari d’alta heu de rebre un correu electrònic amb l’enllaç d’accés específic, per a l’administrador de la cooperativa, a la plataforma (comprovar safata spam). 
 
 Aquest enllaç serà únic per a cada cooperativa i condueix a l’espai de gestió a través del qual l’administrador crearà totes les reunions societàries i processos participatius que vulgui, sense limitacions.
 
-Clicant l’enllaç, s’obre la plataforma de votació i apareix en pantalla un formulari d’ingrés. Aleshores cal crear la contrasenya d’accés com a administrador i que haureu de recordar. També es pot generar una nova clau d’accés clicant sobre **has oblidat la teva contrasenya**, tal com es mostra a la imatges següent:
+Clicant l’enllaç, s’obre la plataforma de votació i apareix en pantalla un formulari d’ingrés: l'àlias apareix per defecte i només cal crear una contrasenya, confirmar-la i acceptar els **Termes i condicions d'ús** generals de la plataforma Cercles.Coop. La contrasenya d’accés com a administrador l'haureu de recordar, sinó es pot generar una nova contrasenya clicant sobre **has oblidat la teva contrasenya**, tal com es mostra a la imatges següent:
 ![](../.gitbook/assets/screenshot_2020-08-17-iniciar-sessio-prova-assemblea.png)
 
-Un cop enregistrats, heu d’entrar a la plataforma clicant a l’enllaç **Edita** situat a dalt a la dreta.
-També, la primera vegada que s'accedeix s'han d'acceptar els termes i condicions abans de poder realitzar accions d’administrador **(/pages/terms-and-conditions)**.
-Un cop s’hagin completat totes aquestes passes, ja es pot accedir al tauler d'administració. Al menú de dalt a la dreta apareixerà l’opció ***Taulell de control**, tal i com es mostra a la imatge següent:
+Un cop enregistrats, entrareu directament a la plataforma i haureu d'acceptar novament els **Termes i condicions d'ús**, en aquest cas, com a administradors a la plataforma. A continuació apareix en pantalla totes les opcions del **Tauler de control**. Al menú de dalt a la dreta apareixerà l’opció ***Tauler de control**, tal i com es mostra a la imatge següent:
+
 ![](../.gitbook/assets/screenshot_2020-08-17-prova-assemblea.png)
 
+
 ### Preparació de la reunió societària
+
 Si fas servir el servei ofert per Cercles.Coop ja tindràs creat per defecte el contingut dels apartats Pàgines i Àmbits de la zona de configuració i, per tant, pots adreçar-te directament a la creació de la [Consulta](posada-en-marxa.md#consultes). 
 
 {% hint style="warning" %}
 El text estàndard que es proporciona a l'apartat de **Pàgines** cal adaptar-lo incorporant les dades de cada cooperativa.
 {% endhint %}
 
+
 #### Pàgines informatives
+
 A la sessió *Pàgines* podem editar els continguts de les pàgines explicatives. En concret, es poden crear, editar i suprimir. Podem crear les pàgines que necessitem i obligatòriament caldrà crear les següents:
 
 * FAQ \(preguntes freqüents\) **pages/faq**
@@ -39,7 +44,9 @@ A la sessió *Pàgines* podem editar els continguts de les pàgines explicatives
 Podeu descarregar-vos el text estàndard pàgines aquí, modificar-lo i copiar-lo a la pàgina que correspongui. ALERTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PUJAR DOCUMENTS I CREAR ENLLAÇOS.
 {% endhint %}
 
+
 #### **Àmbits**
+
 Abans de crear un procés de votació (consulta), necessitem crear un àmbit. Els àmbits ens serveixen per classificar els tipus de processos participatius, per exemple: consultes al socis, consells rectors, assemblees..., si no esperem tenir diversitat d'àmbits sobre els quals realitzar consultes o processos de votació, podem crear-ne un d’únic anomenat, per exemple, "reunió societària" i després podem crear un sub àmbit concret, per exemple, “Assemblea General”.
 
 
