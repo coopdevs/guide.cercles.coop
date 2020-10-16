@@ -92,7 +92,7 @@ Hem d'omplir els camps següents:
 Altres camps recomanats: 
 
 * Imatge del banner: Podeu posar una matge corporativa. La  mida del banner serà de 1105x128. N'oferim un [model](../altres-recursos/imatges-per-defecte).
-* URL de vídeo introductori \(podeu posar un video explicatiu o bé el video del broadcasting\)
+* URL de vídeo introductori: Podeu posar un video explicatiu o bé el video del broadcasting.
 
 
 {% hint style="info" %}
@@ -112,7 +112,7 @@ Quan vulguem obrir la votació, canviarem la data de **Comença la votació** a 
 Un cop haguem omplert la informacio general, haurem de crear les preguntes de la **consulta** i posteriorment les respostes. Un cop creades, a l'apartat d'informació general de la **consulta** apareixerà habilitada l'opció de **publicar** consulta. És a dir, fins que no haguem creat les preguntes amb les corresponents respostes i habilitar-les, no podrem habilitar la consulta.
 
 
-#### Preguntes de la consulta
+#### Preguntes de la consulta (Ordre del dia)
 
 Dins de la **Consulta** creada podrem crear totes les preguntes i respostes possibles. Les preguntes equivalen a cada punt de l'ordre del dia de la reunió i les respostes al sentit del vot que correspongui a cada pregunta. Fem clic a **Preguntes** al menú lateral esquerra i després **Nova Pregunta** fent clic al botó de dalt a la dreta.
 
@@ -157,12 +157,12 @@ Això significa que només podran votar, a les preguntes de l’assemblea o una 
 Un cop configurats els permisos d'accés a la pregunta podem fer clic sobre la icona amb forma de llapis i al final del formulari de configuració de la pregunta ens apareixerà habilitada la funció de publicar la pregunta. 
 
 
-#### Importació de les participants
+#### Importació del cens virtual de socis
 
-Per poder incorporar el cens haurem d'anar al taulell d'administració &gt; **Participants** &gt; **Verificacions** &gt; **Direct Verifications**
+Per poder incorporar el cens de socis virtual haurem d'anar al taulell d'administració &gt; **Participants** &gt; **Verificacions** &gt; **Direct Verifications**
 
 {% hint style="info" %}
-Podrem fer proves de la importació i veure els resultats sense realitzar efectivament la importació de les sòcies si tenim marcada l'òpció \(marcada per defecte\) **Comprova l'estat dels usuaris**
+Podrem fer proves de la importació i veure'n els resultats, sense fer efectiva la importació, si tenim marcada l'opció \(marcada per defecte\) **Comprova l'estat dels usuaris**
 {% endhint %}
 
 Necessitarem un document amb format tipus CSV. On la primera linea és la capçalera, separant columnes amb comes i sense espais:
