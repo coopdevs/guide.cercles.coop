@@ -99,18 +99,19 @@ Si emetem el video a través d'un sistema de broadcasting, com youtube, el podem
 {% endhint %}
 
 {% hint style="danger" %}
-Fins que no fem clic a **Publicar** la consulta no serà visible per les usuàries.
+Fins que no fem clic a **Publicar** la consulta no serà visible per als usuaris.
 {% endhint %}
 
 {% hint style="info" %}
-Si la votació està tancada per data però pública permetrem que les sòcies entrin a consultar les preguntes i la documentació relativa però sense poder votar. 
+La consulta només s’obrirà a la data marcada. Mentrestant els socis poden entrar a la plataforma per consultar l’ordre del dia i la documentació associada, però no podran votar.
 
-Quan vulguem obrir la votació canviarem la data de **Comença la votació** a un dia anterior a avui, quan vulguem tancar la votació mourem la data de **La votació finalitza** a un dia anterior a avui.
+Quan vulguem obrir la votació, canviarem la data de **Comença la votació** a un dia anterior al de celebració de la reunió societària, quan vulguem tancar la votació mourem la data de **La votació finalitza** a un dia anterior al de celebració de la reunió societària.
 {% endhint %}
 
 #### Preguntes de la consulta
 
-Dins de la Consulta creada podrem crear totes les preguntes i respostes possibles per cada una d'ella. Fem clic a **Preguntes** al menú lateral esquerra i després **Nova Pregunta** fent clic al botó de dalt a la dreta.
+Dins de la Consulta creada podrem crear totes les preguntes i respostes possibles. Fem clic a **Preguntes** al menú lateral esquerra i després **Nova Pregunta** fent clic al botó de dalt a la dreta.
+
 
 Hem d'omplir els següents camps:
 
