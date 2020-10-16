@@ -2,15 +2,15 @@
 description: Reunions societàries virtuals
 ---
 
-# Què és Cercles Coop?
+# Què és Cercles.Coop?
 
 ![](.gitbook/assets/logo2.jpg)
 
 És un repositori digital de recursos de codi obert per preparar i celebrar reunions societàries virtuals amb les garanties jurídiques establertes per la normativa vigent. Va adreçat a cooperatives i federacions de cooperatives. També a entitats i organitzacions de l’economia social que tinguin incorporats en els seus òrgans processos democràtics de participació.
 
-Cercles Coop inclou una guia de recomanacions jurídiques, una guia de recomanacions tècniques, la plataforma de votació i la guia d'ús d'aquesta.
+Cercles.Coop inclou una guia de recomanacions jurídiques, una guia de recomanacions tècniques, la plataforma de votació i la guia d'ús d'aquesta.
 
-Alhora, la Plataforma de votació Cercles Coop es basa en una adaptació de la Plataforma Decidim, per tal d’incorporar els sistemes de participació i votació de la societats cooperatives d’acord amb el que s’estableix en la pròpia Llei de Cooperatives 12/2015 i el Decret Llei 19/2020.
+Alhora, la Plataforma de votació Cercles.Coop es basa en una adaptació de la Plataforma Decidim, per tal d’incorporar els sistemes de participació i votació de la societats cooperatives d’acord amb el que s’estableix en la pròpia Llei de Cooperatives 12/2015 i el Decret Llei 19/2020.
 
 ![](.gitbook/assets/screenshot_2020-10-13-cercles-coop.png)
 
@@ -22,7 +22,7 @@ Amb [Decidim](https://decidim.org) es poden configurar espais de participació \
 
 ![](.gitbook/assets/decidim.jpg)
 
-## Com puc utilitzar **Cercles Coop**?
+## Com puc utilitzar **Cercles.Coop**?
 
 CoopCat ofereix aquest servei a través del qual mancomunem el cost de manteniment en una plataforma gestionada per CoopCat i les Federacions de cooperatives. [**Sol·licita-ho aquí**](https://cercles.coop)\*\*\*\*
 
