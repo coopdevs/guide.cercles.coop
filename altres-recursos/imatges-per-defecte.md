@@ -1,5 +1,5 @@
 ---
-description: Imatges per defecte per fer servir a Decidim
+description: Imatges per defecte per fer servir a la Plataforma de votació de Cercles.Coop
 ---
 
 # Imatges per defecte
