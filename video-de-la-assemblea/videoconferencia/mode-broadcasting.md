@@ -54,9 +54,9 @@ OBS permet, a més, editar vídeo en directe, per exemple: per afegir caràtules
 
 Fent clic a dalt a la dreta, podeu compartir l'enllaç de youtube que permetrà als espectadors veure el vídeo i participar al xat, serà un enllaç del tipus [https://youtu.be/32-QIj468\_s](https://youtu.be/32-QIj468_s) i aquest enllaç el podrem enviar juntament amb la convocatoria de la reunió.
 
-## Mostrar el vídeo de youtube a la Plataforma Cercles Coop de Decidim
+## Mostrar el vídeo de youtube a la Plataforma de votació Cercles.Coop
 
-Per a més comoditat, podem mostrar el vídeo a la plataforma de votació Cercles Coop de Decidim, ja que d’aquesta manera queda tot integrat en un únic espai. Ho podem fer entrant a l’àrea d'administració de la plataforma de votació a **Consultes &gt; Consulta en qüestió** i editem els següents camps:
+Per a més comoditat, podem mostrar el vídeo a la plataforma de votació Cercles.Coop, ja que d’aquesta manera queda tot integrat en un únic espai. Ho podem fer entrant a l’àrea d'administració de la plataforma de votació a **Consultes &gt; Consulta en qüestió** i editem els següents camps:
 
 * Descripció: En la pròpia descripció podem afegir el link a youtube que hem obtingut abans.
 * URL de vídeo introductori: En aquest cas hem de variar la URL, si la URL que vam obtenir era  [https://youtu.be/32-QIj468\_s](https://youtu.be/32-QIj468_s) hem de introduir [https://www.youtube.com/embed/32-QIj468\_s](https://www.youtube.com/embed/32-QIj468_s). És a dir, cal substituir [https://youtu.be/](https://youtu.be/) per [https://www.youtube.com/embed/](https://www.youtube.com/embed/)
