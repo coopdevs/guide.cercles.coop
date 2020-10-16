@@ -127,20 +127,22 @@ Hem d'omplir els següents camps:
 * **Àrea municipal:** Cal seleccionar el subàmbit a través del desplegable. _Per exemple: Assemblea General_
 * **Nom curt d'URL** (sense espais, ni accents, ni dièresis, ni punt volat). _ Per exemple: pregunta-1_
 
-Com veureu, un cop cliquem sobre la pregunta creada, al menú lateral esquerra apareixen més opcions. En concret, apareixen les opcions següents: Informació, Configuració, Respostes, Components, Categories i Adjunts. Per garantir un funcionament correcte, **recomanem fer ús només de les dues següents**: Respostes i Adjunts. Així doncs, clicant sobre aquestes dues opcions podrem configurar aquests paràmetres:
+Com veureu, un cop cliquem sobre la pregunta creada, al menú lateral esquerra apareixen més opcions. En concret, apareixen les opcions següents: Informació, Configuració, Respostes, Components, Categories i Adjunts. Per garantir un funcionament correcte, **recomanem fer només ús de les dues següents**: Respostes i Adjunts. 
 
-* Respostes: Podem crear totes les respostes que necessitem d'acord amb la pregunta, habitualment serà: A favor, En contra, En blanc
-* Adjunts: En aquest apartat podrem carregar tota la documentació adjunta relacionada amb la pregunta (punt de l'ordre del dia) en qüestió.
+Així doncs, clicant sobre aquestes dues opcions podrem configurar aquests paràmetres:
+
+* **Respostes:** Podem crear totes les respostes que necessitem d'acord amb la pregunta, habitualment serà: A favor, En contra, En blanc
+* **Adjunts:** En aquest apartat podrem carregar tota la documentació adjunta relacionada amb la pregunta (punt de l'ordre del dia) en qüestió.
 
 {% hint style="info" %}
 Recordeu que per poder publicar i, per tant, fer visible una pregunta a l'àrea d'usuari de la plataforma, cal crear les respostes associades a la pregunta.
 {% endhint %}
 
 {% hint style="danger" %}
-Per tal de mantenir la compatibilitat amb la delegació de vot, no tocarem la configuració de les preguntes. I, per tant, no s'accedirà a les opcions indicades anteriorment: Configuració, Components i Categories.
+Per tal de garantir el correcte funcionament de l'opció de delegació de vot, no s'ha de tocar res de l'apartat **configuració** de la secció **preguntes**. I, per tant, no s'accedirà a les opcions indicades anteriorment i que són: Configuració, Components i Categories.
 {% endhint %}
 
-Un cop haguem seguit totes les passes, ens apareixeran totes les preguntes en pantalla, tal i com es mostra a l’imatge:
+Un cop efectuades les passes, ens apareixeran totes les preguntes en pantalla, tal i com es mostra a l’imatge:
 
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves.png)
 
@@ -148,16 +150,18 @@ Abans de publicar la pregunta ens hem d’assegurar que hi vinculem els permisos
 
 
 {% hint style="info" %}
-A cercles.coop recomanem que estiguin marcades per totes les preguntes amb les opcions següents:  Verificació directa i SMS.
+A cercles.coop recomanem que estiguin marcades, a totes les preguntes, les opcions següents:  Verificació directa i SMS.
 
 Això significa que només podran votar, a les preguntes de l’assemblea o una altra reunió societària, les persones que hem convidat a través del cens social virtual (verificació directa) i que a més han validat l’autenticitat de la seva identitat a través d’una acreditació que rebran al seu propi telèfon mòbil.
 {% endhint %}
 
 
-Un cop configurats els permisos d'accés a la pregunta podem fer clic sobre la icona amb forma de llapis i al final del formulari de configuració de la pregunta ens apareixerà habilitada la funció de publicar la pregunta. 
+Un cop configurats els permisos d'accés de la pregunta, podem fer clic sobre la icona amb forma de llapis i al final del formulari de configuració de la pregunta ens apareixerà habilitada la funció de publicar la pregunta. 
 
 
 #### Importació del cens virtual de socis
+
+El cens virtual de socis ens permet registrar les dades dels socis que assisteixen a la reunió societària i que ens serviran per autentificar-ne la identitat i també determinar el pes del vot (només en els casos que per estatuts es tingui definit el vot ponderat) i el vot delegat.
 
 Per poder incorporar el cens de socis virtual haurem d'anar al taulell d'administració &gt; **Participants** &gt; **Verificacions** &gt; **Direct Verifications**
 
@@ -165,22 +169,33 @@ Per poder incorporar el cens de socis virtual haurem d'anar al taulell d'adminis
 Podrem fer proves de la importació i veure'n els resultats, sense fer efectiva la importació, si tenim marcada l'opció \(marcada per defecte\) **Comprova l'estat dels usuaris**
 {% endhint %}
 
-Necessitarem un document amb format tipus CSV. On la primera linea és la capçalera, separant columnes amb comes i sense espais:
+El cens social virtual s’ha d’elaborar en un document de full de càlcul. Aquest full de càlcul el guardarem en format d’extensió CSV (no guardar en format odt, ni xls, ni xsls...). A la primera fila d’aquest full de càlcul, que correspon amb la capçalera, posarem el següent text, separat per comes i sense espai (podeu copiar i enganxar la mostra):
+
 
 ```text
 email,nom,membership_phone,membership_type,membership_weight
 ```
 
-Les següents línies son les dades, separant columnes amb comes i sense espais:
+Les files que omplirem a continuació seran les dades dels socis, on a cada fila posarem les dades d’un soci diferent. Recordeu separar els camps amb comes i sense espais, tal i com es mostra a l’exemple: 
+
 
 ```text
 email,nom,membership_phone,membership_type,membership_weight
-joana@example.com,joana garcia,76318371,treballadora,3
-miquel@example.com,miquel,653565765,treballadora,2
+joana@example.com,Joana Garcia,76318371,consumidor,1
+miquel@example.com, Miquel Puig,653565765,treballador,1
+martina@example.com,Martina Grau,653565761,col·laborador,0.67
 [...]
 ```
 
-**membership\_type** i **membership\_weight** representen tipologia de sòcies, i ponderació del vot, respectivament aquesta dada es farà servir per mostrar resultats agrupant sòcies amb la mateixa tipologia i ponderació de vot. Per tant en el exemple si hem fet servir tipologia sòcia "treballadora" és important que fem servir exactament el mateix text per totes les sòcies de tipus "treballadora".
+
+Significat dels camps:
+
+**email:** Adreça de correu electrònic del soci, a través de la qual s'acreditarà com a usuari a la plataforma de votació. 
+**nom:** Nom i cognoms del soci. En aquest camp podem posar accents, dièresis, punts volats i espais.
+**membership_phone:** telèfon mòbil del soci, a través del qual autentificarà la seva identitat en el moment d'iniciar-se l'assemblea o la reunió societària.
+**membership\_type:** Tipus de soci. Aquesta dada ens servirà, juntament amb la de **membership weight** per mostrar resultats agrupant socis de la mateixa tipologia i ponderació de vot. Per tant, és important unificar els criteris de tipologia de socis i que habitualment seran: comú, consumidor, treball, treballador, col·laborador.
+**membership\_weight:** Pes del vot o ponderació de vot. Aquesta dada numèrica indicarà el pes del vot de cada soci. El número serà variable en funció del que determina la llei de cooperatives i els estatuts socials. Per a les cooperatives que no tenen estipulat per estatuts la ponderació de vot, aquest número sempres serà **1**. Si el vot ponderat d'un soci no és un número enter 
+
 
 {% hint style="danger" %}
 Important! Quan importem el cens de les sòcies, aquestes seran convidades per mail a entrar al Decidim i podran veure tot el que hi hagi públic. Ens hem d'assegurar que la consulta i les preguntes públicades són les que volem tenir disponibles perquè les sòcies puguin veure i reflexionar abans de la reunió, **però tenir la data de inici de la consulta en una data futura per tal de no permetre les votacions fins el dia de la reunió.** 
