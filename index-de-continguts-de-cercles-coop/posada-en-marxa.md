@@ -91,8 +91,9 @@ Hem d'omplir els camps següents:
 
 Altres camps recomanats: 
 
-* Imatge del banner: Podeu posar una matge corporativa. La  mida del banner serà de 1105x128. N'oferim un [model](.../altres-recursos/imatges-per-defecte).
+* Imatge del banner: Podeu posar una matge corporativa. La  mida del banner serà de 1105x128. N'oferim un [model](../altres-recursos/imatges-per-defecte).
 * URL de vídeo introductori \(podeu posar un video explicatiu o bé el video del broadcasting\)
+
 
 {% hint style="info" %}
 Si emetem el video a través d'un sistema de broadcasting, com youtube, el podem afegir al camp **URL de vídeo introductori** [tal com s'explica aquí](../video-de-la-assemblea/videoconferencia/mode-broadcasting.md#mostrar-el-video-de-youtube-a-decidim).
