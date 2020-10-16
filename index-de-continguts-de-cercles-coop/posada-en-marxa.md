@@ -71,21 +71,24 @@ El text de l'apartat **codi** no pot portar accents, dièresis, espais ni punt v
 #### Consultes
 
 El mòdul de consultes és el que farem servir per organitzar les votacions d’una determinada reunió, l'ordre del dia i la documentació associada. Si anem a la secció **Consultes** se’n poden crear tantes com vulguem, fent clic al botó **Nova consulta** de dalt a la dreta.
+
 ![](../.gitbook/assets/screenshot_2020-08-18-prova-assemblea.png)
 
 {% hint style="warning" %}
 Programarem les assemblees i altres reunions societàries a través de l'apartat **Consultes**. L'apartat **Assemblees** és un apartat predefinit de la plataforma Decidim i té una funcionalitat diferent que no dona resposta, actualment, a les necessitats de les cooperatives, pel que fa a totes les opcions de vot social necessàries.
 {% endhint %}
 
-Hem d'omplir els següents camps:
+Hem d'omplir els camps següents:
 
-* Títol
-* Subtítol
-* Descripció \(afegir tota la informació relativa a com participar en la assemblea\)
+* Títol. _\Per exemple: Assemblea General Ordinària 2020_\
+* Subtítol. _\Per exemple: Assemblea anual de socis de la Cooperativa, SCCL_\
+* Descripció: Afegir tota la informació relativa a com participar en la assemblea. _\Com ara:Enllaç a la plataforma de videoconferència, hora de primera i segona convocatòria... _\
 * Comença la votació: Data de la assemblea
 * La votació finalitza: Data de la assemblea
-* Abast destacat: Reunió Societària
-* Nom curt d'URL \(sense espais per exemple assemblea-general-2020\)
+* Abast destacat. _\Per exemple: Reunió societària_\
+* Nom curt d'URL (sense espais, ni accents, ni dièresis, ni punt volat). _\Per exemple: assemblea-general-2020_\
+
+
 
 Altres camps recomanats: 
 
