@@ -190,11 +190,11 @@ martina@example.com,Martina Grau,653565761,col·laborador,0.67
 
 Significat dels camps:
 
-**email:** Adreça de correu electrònic del soci, a través de la qual s'acreditarà com a usuari a la plataforma de votació. 
-**nom:** Nom i cognoms del soci. En aquest camp podem posar accents, dièresis, punts volats i espais. El sistema pren automàticament la informació d'aquest camp per assignar un nom d'usuari o un àlies al soci.
-**membership_phone:** telèfon mòbil del soci, a través del qual autentificarà la seva identitat en el moment d'iniciar-se l'assemblea o la reunió societària.
-**membership\_type:** Tipus de soci. Aquesta dada ens servirà, juntament amb la de **membership weight** per mostrar resultats agrupant socis de la mateixa tipologia i ponderació de vot. Per tant, és important unificar els criteris de tipologia de socis i que habitualment seran: comú, consumidor, treball, treballador, col·laborador.
-**membership\_weight:** Pes del vot o ponderació de vot. Aquesta dada numèrica indicarà el pes del vot de cada soci. El número serà variable en funció del que determina la llei de cooperatives i els estatuts socials. Per a les cooperatives que no tenen estipulat per estatuts la ponderació de vot, aquest número sempres serà **1**. Si el vot ponderat d'un soci no és un número enter cal separar els dígits amb un **punt**. _Per exemple: 0.8_
+* **email:** Adreça de correu electrònic del soci, a través de la qual s'acreditarà com a usuari a la plataforma de votació. 
+* **nom:** Nom i cognoms del soci. En aquest camp podem posar accents, dièresis, punts volats i espais. El sistema pren automàticament la informació d'aquest camp per assignar un nom d'usuari o un àlies al soci.
+* **membership_phone:** telèfon mòbil del soci, a través del qual autentificarà la seva identitat en el moment d'iniciar-se l'assemblea o la reunió societària.
+* **membership\_type:** Tipus de soci. Aquesta dada ens servirà, juntament amb la de **membership weight** per mostrar resultats agrupant socis de la mateixa tipologia i ponderació de vot. Per tant, és important unificar els criteris de tipologia de socis i que habitualment seran: comú, consumidor, treball, treballador, col·laborador.
+* **membership\_weight:** Pes del vot o ponderació de vot. Aquesta dada numèrica indicarà el pes del vot de cada soci. El número serà variable en funció del que determina la llei de cooperatives i els estatuts socials. Per a les cooperatives que no tenen estipulat per estatuts la ponderació de vot, aquest número sempres serà **1**. Si el vot ponderat d'un soci no és un número enter cal separar els dígits amb un **punt**. _Per exemple: 0.8_
 
 
 {% hint style="danger" %}
