@@ -274,6 +274,12 @@ En aquest apartat de **Resultats** podem veure, per a cada pregunta, les respost
 Quan tanquem la consulta i, per tant, les votacions, a l'apartat **Consulta &gt; Configuració**, a baix de tot, apareix un nou botó que és **Publica els resultats.** 
 
 {% hint style="info" %}
-Si la vostra cooperativa el comput de vots requereix realitzar càlculs que tenen a veure amb tipologia de sòcies, ponderació de vot, majories qualificaques, etc. No publiqueu els resultats a Decidim ja que Decidim mostra resultats segons 1 persona 1 vot. Les administradores faran el càlcul segons la informació que apareix al panell d'administració **Resultats** i comunicaran els resultats a les sòcies mitjançant altres canals. 
+Si la vostra cooperativa no té recollida per estatuts la ponderació de vot i, per tant, el pes del vot de cada soci és 1, podem mostrar a la mateixa plataforma de votació els resultats de cada pregunta fent clic al botó **Publica els resultats**, indicat anteriorment. Aquesta manera de mostrar els resultats de la votació també es pot utilitzar si, en el cas descrit anteriorment, a més, s'ha utilitzat vot delegat.  
 {% endhint %}
 
+{% hint style="warning" %}
+Si la vostra cooperativa o federació té vot ponderat i, per tant, el còmput de vots requereix realitzar càlculs que tenen a veure amb tipologia de sòcies, ponderació de vot, majories qualificaques... No publiqueu premeu **Publica els resultats**. Els administradors haureu de fer el càlcul segons la informació que apareix al tauler d'administració **Resultats** i els resultats es comunicaran als socis mitjançant altres canals. 
+
+Per exemple: Mentre els administradors fan els càlculs poden compartir pantalla a través del sistema de videoconferència i mostrar, d'aquesta mateixa manera, el resultat final de cada pregunta amb el nombre de vots que ha obtingut cada opció de resposta de cada pregunta.
+Altrament, els administradors poden fer, sense la pressió visual, els càlculs sense mostrar-ho per videoconferència, per posteriorment projectar una graella resum del nombre de vots en funció del tipus de soci i el resultat final de cada pregunta amb el nombre de vots que ha obtingut cada opció de resposta de cada pregunta.
+{% endhint %}
