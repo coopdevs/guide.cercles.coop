@@ -41,7 +41,10 @@ A la sessió *Pàgines* podem editar els continguts de les pàgines explicatives
 * Accessibilitat **pages/accessibility**
 
 {% hint style="info" %}
-Podeu descarregar-vos el text estàndard pàgines aquí, modificar-lo i copiar-lo a la pàgina que correspongui. ALERTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PUJAR DOCUMENTS I CREAR ENLLAÇOS.
+Podeu descarregar-vos el text estàndard pàgines aquí, modificar-lo i copiar-lo a la pàgina que correspongui. 
+* Model de text per a la pàgina Accessibilitat: 
+* Model de text per a la pàgina Termes i Condicions
+* Moldel de text per a la pàgina Política de privacitat
 {% endhint %}
 
 
