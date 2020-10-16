@@ -42,9 +42,9 @@ A la sessió *Pàgines* podem editar els continguts de les pàgines explicatives
 
 {% hint style="info" %}
 Podeu descarregar-vos el text estàndard pàgines aquí, modificar-lo i copiar-lo a la pàgina que correspongui. 
-* Model de text per a la pàgina Accessibilitat: 
-* Model de text per a la pàgina Termes i Condicions
-* Moldel de text per a la pàgina Política de privacitat
+* Model de text per a la pàgina [Accessibilitat](.gitbook/assets/m1_Accessibilitat.doc)
+* Model de text per a la pàgina [Termes i Condicions](.gitbook/assets/m1_TermesCondicions.doc)
+* Moldel de text per a la pàgina [Política de privacitat](.gitbook/assets/m1_PoliticaPrivacitat.doc)
 {% endhint %}
 
 
