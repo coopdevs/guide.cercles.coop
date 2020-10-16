@@ -193,7 +193,7 @@ Significat dels camps:
 * **email:** Adreça de correu electrònic del soci, a través de la qual s'acreditarà com a usuari a la plataforma de votació. 
 * **nom:** Nom i cognoms del soci. En aquest camp podem posar accents, dièresis, punts volats i espais. El sistema pren automàticament la informació d'aquest camp per assignar un nom d'usuari o un àlies al soci.
 * **membership_phone:** telèfon mòbil del soci, a través del qual autentificarà la seva identitat en el moment d'iniciar-se l'assemblea o la reunió societària.
-* **membership\_type:** Tipus de soci. Aquesta dada ens servirà, juntament amb la de **membership weight** per mostrar resultats agrupant socis de la mateixa tipologia i ponderació de vot. Per tant, és important unificar els criteris de tipologia de socis i que habitualment seran: comú, consumidor, treball, treballador, col·laborador.
+* **membership\_type:** Tipus de soci. Aquesta dada ens servirà, juntament amb la de **membership weight**, per mostrar resultats agrupant socis de la mateixa tipologia i ponderació de vot. Per tant, és important unificar els criteris de tipologia de socis i que habitualment seran: comú, consumidor, treball, treballador, col·laborador.
 * **membership\_weight:** Pes del vot o ponderació de vot. Aquesta dada numèrica indicarà el pes del vot de cada soci. El número serà variable en funció del que determina la llei de cooperatives i els estatuts socials. Per a les cooperatives que no tenen estipulat per estatuts la ponderació de vot, aquest número sempres serà **1**. Si el vot ponderat d'un soci no és un número enter cal separar els dígits amb un **punt**. _Per exemple: 0.8_
 
 
@@ -217,7 +217,7 @@ Si hem d'actualitzar alguna dada al cens virtual de socis (telèfon, tipologia d
 
 #### Delegacions de vots
 
-Si necessitem realitzar delegacions de vots ho podem fer com administradors a **Participants &gt; Delegacions**
+Si necessitem realitzar delegacions de vots es pot fer a **Participants &gt; Delegacions**
 
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves-1-.png)
 
@@ -236,7 +236,7 @@ Podrem seleccionar qui és l'**atorgant** del vot i en qui delega \(**receptor**
 {% hint style="info" %}
 Si no coneixes l'àlies de l'usuari pots visualitzar-l'ho a l'adminitració **Participants &gt; Participants**. Tanmateix, recorda que l'àlies o nom d'usuari es correspon amb la informació del camp **nom** que s'hagi detallat al cens virtual de socis. 
 
-_Per exemple: Si al cens virtual hem indicat que tenim un soci de nom Martina Garauch, el seu àlies serà martina-garauch._
+_Per exemple, si al cens virtual hem indicat que tenim un soci de nom Martina Garauch, el seu àlies serà martina-garauch o, depenent com haguem entrat el cens, l'àlies també pot ser les lletres i dígits anterior al símbol @ de l'email, com ara: mgarauch@gmail.net, aleshores l'àlies seria mgarauch.
 {% endhint %}
 
 
