@@ -47,11 +47,11 @@ Podeu descarregar-vos el text estàndard pàgines aquí, modificar-lo i copiar-l
 
 #### **Àmbits**
 
-Abans de crear un procés de votació (consulta), necessitem crear un àmbit. Els àmbits ens serveixen per classificar els tipus de processos participatius, per exemple: consultes al socis, consells rectors, assemblees..., si no esperem tenir diversitat d'àmbits sobre els quals realitzar consultes o processos de votació, podem crear-ne un d’únic anomenat, per exemple, "reunió societària" i després podem crear un sub àmbit concret, per exemple, “Assemblea General”.
+Abans de crear un procés de votació (consulta), necessitem crear un àmbit. Els àmbits ens serveixen per classificar els tipus de processos participatius, per exemple: consultes al socis, consells rectors, assemblees..., si no esperem tenir diversitat d'àmbits sobre els quals realitzar consultes o processos de votació, podem crear-ne un d’únic anomenat, per exemple, "reunió societària" i després podem crear un subàmbit concret, per exemple, “Assemblea General”.
 
 
 {% hint style="info" %}
-En el decurs d'aquest manual farem servir els exemples de **Reunió societària** per definir l'àmbit i **Assemblea General** per definir el sub àmbit.
+En el decurs d'aquest manual farem servir els exemples de **Reunió societària** per definir l'àmbit i **Assemblea General** per definir el subàmbit.
 {% endhint %}
 
 A la secció **Configuració &gt; Àmbits** fem clic a **Afegir**, a dalt a la dreta.
@@ -59,7 +59,7 @@ A la secció **Configuració &gt; Àmbits** fem clic a **Afegir**, a dalt a la d
 * **Nom:** Reunió societària
 * **Codi:** reunio-societaria
 
-Un cop creat l’àmbit general, fem clic a sobre **Reunió societària** i dins podrem **Afegir** un sub àmbit que anomenarem:
+Un cop creat l’àmbit general, fem clic a sobre **Reunió societària** i dins podrem **Afegir** un subàmbit que anomenarem:
 * **Nom:** Assemblea General
 * **Codi:** assemblea-general
 
@@ -85,15 +85,14 @@ Hem d'omplir els camps següents:
 * **Descripció:** Afegir tota la informació relativa a com participar en la assemblea. _Com ara: Enllaç a la plataforma de videoconferència, hora de primera i segona convocatòria... _
 * **Comença la votació:** Data de la assemblea
 * **La votació finalitza:** Data de la assemblea
-* **Abast destacat.** _Per exemple: Reunió societària_
+* **Abast destaca:** S'obrirà un desplegable i haurem d'escollir el subàmbit definit inicialment. _Per exemple: Assemblea General_
 * **Nom curt d'URL** (sense espais, ni accents, ni dièresis, ni punt volat). _Per exemple: assemblea-general-2020_
-
 
 
 Altres camps recomanats: 
 
 * Imatge del banner
-* URL de vídeo introductori \(pot ser un video explicatiu o bé el video del broadcasting\)
+* URL de vídeo introductori \(podeu posar un video explicatiu o bé el video del broadcasting\)
 
 {% hint style="info" %}
 Si emetem el video a través d'un sistema de broadcasting, com youtube, el podem afegir al camp **URL de vídeo introductori** [tal com s'explica aquí](../video-de-la-assemblea/videoconferencia/mode-broadcasting.md#mostrar-el-video-de-youtube-a-decidim).
