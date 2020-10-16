@@ -140,15 +140,22 @@ Recordeu que per poder publicar i, per tant, fer visible una pregunta a l'àrea 
 Per tal de mantenir la compatibilitat amb la delegació de vot, no tocarem la configuració de les preguntes. I, per tant, no s'accedirà a les opcions indicades anteriorment: Configuració, Components i Categories.
 {% endhint %}
 
+Un cop haguem seguit totes les passes, ens apareixeran totes les preguntes en pantalla, tal i com es mostra a l’imatge:
+
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves.png)
 
-Abans de publicar la pregunta ens assegurem que es requereixen les verificacions de identitat que considerem, fent clic sobre la icona amb forma de clau. 
+Abans de publicar la pregunta ens hem d’assegurar que hi vinculem els permisos de verificació d’identitat de les persones que votaran la pregunta. Per fer això, farem clic sobre la icona amb forma de clau. 
+
 
 {% hint style="info" %}
-A cercles.coop recomanem que estiguin marcades per totes les preguntes:  Verificació directa i SMS \(el que significa que sols poden contestar les preguntes de la assemblea les persones que hem convidat pel cens \(verificació directa\) i que a més han validat que tenen accés al seu telèfon mòbil\)
+A cercles.coop recomanem que estiguin marcades per totes les preguntes amb les opcions següents:  Verificació directa i SMS.
+
+Això significa que només podran votar, a les preguntes de l’assemblea o una altra reunió societària, les persones que hem convidat a través del cens social virtual (verificació directa) i que a més han validat l’autenticitat de la seva identitat a través d’una acreditació que rebran al seu propi telèfon mòbil.
 {% endhint %}
 
-Un cop configurats els permisos d'accés a la pregunta podem fer clic sobre la icona amb forma de llapís i al final del formulari de configuració de la pregunta ens apareixerà la funció de publicar. 
+
+Un cop configurats els permisos d'accés a la pregunta podem fer clic sobre la icona amb forma de llapis i al final del formulari de configuració de la pregunta ens apareixerà habilitada la funció de publicar la pregunta. 
+
 
 #### Importació de les participants
 
