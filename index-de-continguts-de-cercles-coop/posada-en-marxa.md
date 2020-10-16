@@ -270,7 +270,7 @@ Quan s'hagi finalitzat la reuió o el temps establert per votar, per visualitzas
 En aquest apartat de **Resultats** podem veure, per a cada pregunta, les respostes quantificades per tipologia de soci i pes del vot que hem definit al cens.
 
 
-### Publicació de resultats
+#### Publicació de resultats
 Quan tanquem la consulta i, per tant, les votacions, a l'apartat **Consulta &gt; Configuració**, a baix de tot, apareix un nou botó que és **Publica els resultats.** 
 
 {% hint style="info" %}
