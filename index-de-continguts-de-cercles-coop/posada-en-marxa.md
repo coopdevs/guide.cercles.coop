@@ -80,13 +80,13 @@ Programarem les assemblees i altres reunions societàries a través de l'apartat
 
 Hem d'omplir els camps següents:
 
-* Títol. _\Per exemple: Assemblea General Ordinària 2020_\
-* Subtítol. _\Per exemple: Assemblea anual de socis de la Cooperativa, SCCL_\
-* Descripció: Afegir tota la informació relativa a com participar en la assemblea. _\Com ara:Enllaç a la plataforma de videoconferència, hora de primera i segona convocatòria... _\
+* Títol. _Per exemple: Assemblea General Ordinària 2020_
+* Subtítol. _Per exemple: Assemblea anual de socis de la Cooperativa, SCCL_
+* Descripció: Afegir tota la informació relativa a com participar en la assemblea. _Com ara: Enllaç a la plataforma de videoconferència, hora de primera i segona convocatòria... _
 * Comença la votació: Data de la assemblea
 * La votació finalitza: Data de la assemblea
-* Abast destacat. _\Per exemple: Reunió societària_\
-* Nom curt d'URL (sense espais, ni accents, ni dièresis, ni punt volat). _\Per exemple: assemblea-general-2020_\
+* Abast destacat. _Per exemple: Reunió societària_
+* Nom curt d'URL (sense espais, ni accents, ni dièresis, ni punt volat). _Per exemple: assemblea-general-2020_
 
 
 
