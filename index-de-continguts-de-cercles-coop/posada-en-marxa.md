@@ -91,7 +91,7 @@ Hem d'omplir els camps següents:
 
 Altres camps recomanats: 
 
-* Imatge del banner
+* Imatge del banner: Podeu posar una matge corporativa. La  mida del banner serà de 1105x128. N'oferim un [model] (.../altres-recursos/imatges-per-defecte).
 * URL de vídeo introductori \(podeu posar un video explicatiu o bé el video del broadcasting\)
 
 {% hint style="info" %}
@@ -108,20 +108,24 @@ La consulta només s’obrirà a la data marcada. Mentrestant els socis poden en
 Quan vulguem obrir la votació, canviarem la data de **Comença la votació** a un dia anterior al de celebració de la reunió societària, quan vulguem tancar la votació mourem la data de **La votació finalitza** a un dia anterior al de celebració de la reunió societària.
 {% endhint %}
 
+Un cop haguem omplert la informacio general, haurem de crear les preguntes de la **consulta** i posteriorment les respostes. Un cop creades, a l'apartat d'informació general de la **consulta** apareixerà habilitada l'opció de **publicar** consulta. És a dir, fins que no haguem creat les preguntes amb les corresponents respostes i habilitar-les, no podrem habilitar la consulta.
+
+
 #### Preguntes de la consulta
 
-Dins de la Consulta creada podrem crear totes les preguntes i respostes possibles. Fem clic a **Preguntes** al menú lateral esquerra i després **Nova Pregunta** fent clic al botó de dalt a la dreta.
+Dins de la Consulta creada podrem crear totes les preguntes i respostes possibles. Les preguntes equivalen a cada punt de l'ordre del dia de la reunió i les preguntes el sentit del vot que correspon a cada pregunta. Fem clic a **Preguntes** al menú lateral esquerra i després **Nova Pregunta** fent clic al botó de dalt a la dreta.
 
 
 Hem d'omplir els següents camps:
 
-* Títol
-* Subtítol
-* Grup promotor
-* Àmbit participatiu
-* Què es decideix
-* Àrea municipal: Assemblea General
-* Nom curt d'URL \(sense espais per exemple pregunta-1\)
+* **Títol.** _Per exemple: Presentació i aprovació, si s’escau, de la Memòria de Sostenibilitat del 2019 de la Cooperativa, SCCL._
+* **Subtítol** _Per exemple: A la primera pregunta de l'ordre del dia sotmetem a votació la memòria de sostenibilitat 2019 de la cooperativa_
+* **Grup promotor**: Aquí detallarem qui eleva a la reunió societària la pregunta. _Per exemple: Consell Rector (en el cas que celebrem l'Assemblea)_
+* **Àmbit participatiu**. _Per exemple: AGO 2020_
+* **Què es decideix:** Podeu detallar els aspectes generals o més importants d'aquest punt de l'ordre del dia.
+* **Àrea municipal:** Cal seleccionar el subàmbit a través del desplegable. _Per exemple: Assemblea General_
+* **Nom curt d'URL** (sense espais, ni accents, ni dièresis, ni punt volat). _ Per exemple: pregunta-1_
+
 
 Fent clic a la pregunta creada veurem que al menú lateral esquerra se'ns despleguen més opcions, **recomanem sols fer ús de les dues següents**: 
 
