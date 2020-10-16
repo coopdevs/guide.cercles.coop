@@ -18,7 +18,7 @@ Aquest enllaç serà únic per a cada cooperativa i condueix a l’espai de gest
 Clicant l’enllaç, s’obre la plataforma de votació i apareix en pantalla un formulari d’ingrés: l'àlias apareix per defecte i només cal crear una contrasenya, confirmar-la i acceptar els **Termes i condicions d'ús** generals de la plataforma Cercles.Coop. La contrasenya d’accés com a administrador l'haureu de recordar, sinó es pot generar una nova contrasenya clicant sobre **has oblidat la teva contrasenya**, tal com es mostra a la imatges següent:
 ![](../.gitbook/assets/screenshot_2020-08-17-iniciar-sessio-prova-assemblea.png)
 
-Un cop enregistrats, entrareu directament a la plataforma i haureu d'acceptar novament els **Termes i condicions d'ús**, en aquest cas, com a administradors a la plataforma. A continuació apareix en pantalla totes les opcions del **Tauler de control**. Al menú de dalt a la dreta apareixerà l’opció ***Tauler de control**, tal i com es mostra a la imatge següent:
+Un cop enregistrats, entrareu directament a la plataforma i haureu d'acceptar novament els **Termes i condicions d'ús**, en aquest cas, com a administradors a la plataforma. A continuació apareix en pantalla totes les opcions del **Tauler de control**. Al menú de dalt a la dreta apareixerà l’opció **Tauler de control**, tal i com es mostra a la imatge següent:
 
 ![](../.gitbook/assets/screenshot_2020-08-17-prova-assemblea.png)
 
@@ -69,8 +69,13 @@ El text de l'apartat **codi** no pot portar accents, dièresis, espais ni punt v
 
 
 #### Consultes
-El mòdul de consultes és el que farem servir per organitzar les votacions d’una determinada reunió, si anem a la secció **Consultes** se’n poden crear tantes com vulguem, fent clic al botó **Nova consulta** de dalt a la dreta.
+
+El mòdul de consultes és el que farem servir per organitzar les votacions d’una determinada reunió, l'ordre del dia i la documentació associada. Si anem a la secció **Consultes** se’n poden crear tantes com vulguem, fent clic al botó **Nova consulta** de dalt a la dreta.
 ![](../.gitbook/assets/screenshot_2020-08-18-prova-assemblea.png)
+
+{% hint style="warning" %}
+Programarem les assemblees i altres reunions societàries a través de l'apartat **Consultes**. L'apartat **Assemblees** és un apartat predefinit de la plataforma Decidim i té una funcionalitat diferent que no dona resposta, actualment, a les necessitats de les cooperatives, pel que fa a totes les opcions de vot social necessàries.
+{% endhint %}
 
 Hem d'omplir els següents camps:
 
