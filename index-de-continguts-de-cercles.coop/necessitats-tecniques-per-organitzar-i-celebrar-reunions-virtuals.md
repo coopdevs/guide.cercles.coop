@@ -10,7 +10,7 @@ En aquesta guia proposarem un seguit d'eines de tercers que cobriran els punts 1
 
 ## 1. Emissió de vídeo en directe
 
-Amb la celebració de reunions virtuals volem aproximar-nos al màxim a la celebració presencial, per això el sistema de [videconferència](../video-de-la-assemblea/videoconferencia/) és el que més ens hi apropa ja que ens permet transmetre vídeo i àudio al mateix temps.
+Amb la celebració de reunions virtuals volem aproximar-nos al màxim a la celebració presencial, per això el sistema de [videoconferència](../video-de-la-assemblea/videoconferencia/) és el que més ens hi apropa ja que ens permet transmetre vídeo i àudio al mateix temps.
 
 Consells tècnics a tenir en compte per celebrar les reunions virtuals:
 
@@ -43,7 +43,7 @@ En aquest cas, s’emprarà la plataforma [Decidim](../#que-es-decidim) on hem i
 
 La cooperativa haurà de disposar i preparar el cens virtual de socis amb les dades següents:
 
-* Nom complert de la persona
+* Nom complet de la persona
 * Adreça de correu electrònic
 * Número de telèfon mòbil
 * Tipologia de sòcia
@@ -55,7 +55,7 @@ A través del cens virtual de socis i les dades detallades s'estableix un procé
 
 Per a les cooperatives que emprin el sistema de delegació de vot, el component permet:
 
-* Crear, modificar i anular delegacions.
+* Crear, modificar i anul·lar delegacions.
 * Configurar el nombre màxim de delegacions per soci.
 * Les sòcies poden realitzar votacions en nom propi i, per separat, en nom de les sòcies que li han delegat.
 
