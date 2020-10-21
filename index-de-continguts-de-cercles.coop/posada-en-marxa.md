@@ -139,7 +139,7 @@ Recordeu que per poder publicar i, per tant, fer visible una pregunta a l'àrea 
 {% endhint %}
 
 {% hint style="info" %}
-Reservarem la primera pregunta per **realitzar les acreditacions**. La finalitat d'aquesta prefunta és coneixer el quorum. La prefunta tindrà una sola resposta per confirmar assistència on es demanarà a tots les persones assistents que votin en nom seu i amb els possibles vots delegats que tinguin disponibles. [Llegir més](posada-en-marxa.md#votacions)
+Reservarem la primera pregunta per **realitzar les acreditacions**. La finalitat d'aquesta pregunta és coneixer el quòrum i que el soci autentifiqui la seva identitat. La prefunta tindrà una única resposta per confirmar assistència on es demanarà a tots les persones assistents que votin en nom seu i amb els possibles vots delegats que tinguin disponibles. [Llegir més](posada-en-marxa.md#votacions)
 {% endhint %}
 
 {% hint style="danger" %}
