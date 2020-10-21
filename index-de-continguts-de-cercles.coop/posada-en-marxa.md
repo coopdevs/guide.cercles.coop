@@ -16,7 +16,7 @@ Aquest enllaç serà únic per a cada cooperativa i condueix a l’espai de gest
 
 Clicant l’enllaç, s’obre la plataforma de votació i apareix en pantalla un formulari d’ingrés: l'àlies apareix per defecte i només cal crear una contrasenya, confirmar-la i acceptar els **Termes i condicions d'ús** generals de la plataforma Cercles.Coop. 
 
-Un cop enregistrats, entrareu directament a la plataforma i haureu d'acceptar novament els **Termes i condicions d'ús**, en aquest cas, com a administradors a la plataforma. A continuació apareix en pantalla totes les opcions del **Tauler de control**. Al menú de dalt a la dreta apareixerà l’opció **Tauler de control**, tal i com es mostra a la imatge següent:
+Un cop enregistrats, entrareu directament a la plataforma i haureu d'acceptar novament els **Termes i condicions d'ús**, en aquest cas, com a administradors a la plataforma. A continuació apareix en pantalla totes les opcions del **Tauler de control**. Al menú de dalt a la dreta apareixerà l’opció **Tauler de control**, tal com es mostra a la imatge següent:
 
 ![](../.gitbook/assets/screenshot_2020-08-17-prova-assemblea.png)
 
@@ -41,12 +41,12 @@ Podeu descarregar-vos el text estàndard d'aquestes pàgines, modificar-lo i cop
 
 * Model de text per a la pàgina [Accessibilitat](http://www.cooperativescatalunya.coop/images/documents/Interns/m1_Accessibilitat.doc)
 * Model de text per a la pàgina [Termes i Condicions](http://www.cooperativescatalunya.coop/images/documents/Interns/m1_TermesCondicions.doc)
-* Moldel de text per a la pàgina [Política de privacitat](http://www.cooperativescatalunya.coop/images/documents/Interns/m1_PoliticaPrivacitat.doc)
+* Model de text per a la pàgina [Política de privacitat](http://www.cooperativescatalunya.coop/images/documents/Interns/m1_PoliticaPrivacitat.doc)
 {% endhint %}
 
 ### **Àmbits**
 
-Abans de crear un procés de votació \(consulta\), necessitem crear un àmbit. Els àmbits ens serveixen per classificar els tipus de processos participatius, per exemple: consultes al socis, consells rectors, assemblees..., si no esperem tenir diversitat d'àmbits sobre els quals realitzar consultes o processos de votació, podem crear-ne un d’únic anomenat, per exemple, "reunió societària" i després podem crear un subàmbit concret, per exemple, “Assemblea General”.
+Abans de crear un procés de votació \(consulta\), necessitem crear un àmbit. Els àmbits ens serveixen per classificar els tipus de processos participatius, per exemple: consultes als socis, consells rectors, assemblees..., si no esperem tenir diversitat d'àmbits sobre els quals realitzar consultes o processos de votació, podem crear-ne un d’únic anomenat, per exemple, "reunió societària" i després podem crear un subàmbit concret, per exemple, “Assemblea General”.
 
 {% hint style="info" %}
 En el decurs d'aquest manual farem servir els exemples de **Reunió societària** per definir l'àmbit i **Assemblea General** per definir el subàmbit.
@@ -63,7 +63,7 @@ Un cop creat l’àmbit general, fem clic a sobre **Reunió societària** i dins
 * **Codi:** assemblea-general
 
 {% hint style="warning" %}
-El text de l'apartat **codi** no pot portar accents, dièresis, espais ni punt volat.
+El text de l'apartat **codi** no pot portar accents, dièresi, espais ni punt volat.
 {% endhint %}
 
 ### Consultes
@@ -73,22 +73,22 @@ El mòdul de consultes és el que farem servir per organitzar les votacions d’
 ![](../.gitbook/assets/screenshot_2020-08-18-prova-assemblea.png)
 
 {% hint style="warning" %}
-Programarem les assemblees i altres reunions societàries a través de l'apartat **Consultes**. L'apartat **Assemblees** és un apartat predefinit de la plataforma Decidim i té una funcionalitat diferent que no dona resposta, actualment, a les necessitats de les cooperatives, pel que fa a totes les opcions de vot social necessàries.
+Programarem les assemblees i altres reunions societàries a través de l'apartat **Consultes**. L'apartat **Assemblees** és un apartat predefinit de la plataforma Decidim i té una funcionalitat diferent que no dóna resposta, actualment, a les necessitats de les cooperatives, pel que fa a totes les opcions de vot social necessàries.
 {% endhint %}
 
 Hem d'omplir els camps següents:
 
 * **Títol.** _Per exemple: Assemblea General Ordinària 2020_
 * **Subtítol.** _Per exemple: Assemblea anual de socis de la Cooperativa, SCCL_
-* **Descripció:** Afegir tota la informació relativa a com participar en la assemblea. _Com ara: Enllaç a la plataforma de videoconferència, hora de primera i segona convocatòria..._ 
-* **Comença la votació:** Data de la assemblea
-* **La votació finalitza:** Data de la assemblea
+* **Descripció:** Afegir tota la informació relativa a com participar en l'assemblea. _Com ara: Enllaç a la plataforma de videoconferència, hora de primera i segona convocatòria..._ 
+* **Comença la votació:** Data de l'assemblea
+* **La votació finalitza:** Data de l'assemblea
 * **Abast destaca:** S'obrirà un desplegable i haurem d'escollir el subàmbit definit inicialment. _Per exemple: Assemblea General_
-* **Nom curt d'URL** \(sense espais, ni accents, ni dièresis, ni punt volat\). _Per exemple: assemblea-general-2020_
+* **Nom curt d'URL** \(sense espais, ni accents, ni dièresi, ni punt volat\). _Per exemple: assemblea-general-2020_
 
 Altres camps recomanats:
 
-* Imatge del banner: Podeu posar una matge corporativa. La  mida del banner serà de 1105x128. N'oferim un [model](https://guia.cercles.coop/altres-recursos/imatges-per-defecte).
+* Imatge del banner: Podeu posar una imatge corporativa. La  mida del banner serà de 1105x128. N'oferim un [model](https://guia.cercles.coop/altres-recursos/imatges-per-defecte).
 * URL de vídeo introductori: Podeu posar un vídeo explicatiu o bé el vídeo del broadcasting.
 
 {% hint style="info" %}
@@ -105,7 +105,7 @@ La consulta només s’obrirà a la data marcada. Mentrestant els socis poden en
 Quan vulguem obrir la votació, canviarem la data de **Comença la votació** a un dia anterior al de celebració de la reunió societària, quan vulguem tancar la votació mourem la data de **La votació finalitza** a un dia anterior al de celebració de la reunió societària.
 {% endhint %}
 
-Un cop haguem omplert la informacio general, haurem de crear les preguntes de la **consulta** i posteriorment les respostes. Un cop creades, a l'apartat d'informació general de la **consulta** apareixerà habilitada l'opció de **publicar** consulta. És a dir, fins que no haguem creat les preguntes amb les corresponents respostes i habilitar-les, no podrem habilitar la consulta.
+Un cop omplerta la informació general, haurem de crear les preguntes de la **consulta** i posteriorment les respostes. Un cop creades, a l'apartat d'informació general de la **consulta** apareixerà habilitada l'opció de **publicar** consulta. És a dir, fins que no hàgim creat les preguntes amb les corresponents respostes i habilitar-les, no podrem habilitar la consulta.
 
 ### Preguntes de la consulta \(Ordre del dia\)
 
@@ -113,13 +113,13 @@ Dins de la **Consulta** creada podrem crear totes les preguntes i respostes poss
 
 Hem d'omplir els següents camps:
 
-* **Títol.** _Per exemple: Presentació i aprovació, si s’escau, de la Memòria de Sostenibilitat del 2019 de la Cooperativa, SCCL._
+* **Títol.** _Per exemple: Presentació i aprovació, si escau, de la Memòria de Sostenibilitat del 2019 de la Cooperativa, SCCL._
 * **Subtítol** _Per exemple: A la primera pregunta de l'ordre del dia sotmetem a votació la memòria de sostenibilitat 2019 de la cooperativa_
 * **Grup promotor**: Aquí detallarem qui eleva a la reunió societària la pregunta. _Per exemple: Consell Rector \(en el cas que celebrem l'Assemblea\)_
 * **Àmbit participatiu**. _Per exemple: AGO 2020_
 * **Què es decideix:** Podeu detallar els aspectes generals o més importants d'aquest punt de l'ordre del dia.
 * **Àrea municipal:** Cal seleccionar el subàmbit a través del desplegable. _Per exemple: Assemblea General_
-* **Nom curt d'URL** \(sense espais, ni accents, ni dièresis, ni punt volat\).  _Per exemple: pregunta-1_
+* **Nom curt d'URL** \(sense espais, ni accents, ni dièresi, ni punt volat\).  _Per exemple: pregunta-1_
 
 Com veureu, un cop cliquem sobre la pregunta creada, al menú lateral esquerra apareixen més opcions. En concret, apareixen les opcions següents: Informació, Configuració, Respostes, Components, Categories i Adjunts. Per garantir un funcionament correcte, **recomanem fer només ús de les dues següents**: Respostes i Adjunts.
 
