@@ -111,11 +111,9 @@ Un cop haguem omplert la informacio general, haurem de crear les preguntes de la
 
 Dins de la **Consulta** creada podrem crear totes les preguntes i respostes possibles. Les preguntes equivalen a cada punt de l'ordre del dia de la reunió i les respostes al sentit del vot que correspongui a cada pregunta. Fem clic a **Preguntes** al menú lateral esquerra i després **Nova Pregunta** fent clic al botó de dalt a la dreta.
 
-
 {% hint style="warning" %}
-Quan elaborem les preguntes, la primera que posarem, al marge de l'ordre del dia de la reunió, serà la de confirmar assistència. És a dir, crearem una primera pregunta (per exemple: Acreditació d'assistència) amb una única resposta possible per validar autenticitat d'usuari (per exemple: Confirmo l'assistència).
+Quan elaborem les preguntes, la primera que posarem, al marge de l'ordre del dia de la reunió, serà per confirmar assistència. És a dir, crearem una primera pregunta \(per exemple: Acreditació d'assistència\) amb una única resposta possible per validar autenticitat d'usuari \(per exemple: Confirmo l'assistència\).[ Llegir més](posada-en-marxa.md#votacions)
 {% endhint %}
-
 
 Per crear les preguntes, hem d'omplir els següents camps:
 
@@ -160,7 +158,6 @@ Això significa que només podran votar, a les preguntes de l’assemblea o una 
 
 Un cop configurats els permisos d'accés de la pregunta, podem fer clic sobre la icona amb forma de llapis i al final del formulari de configuració de la pregunta ens apareixerà habilitada la funció de publicar la pregunta.
 
-
 ### Importació del cens virtual de socis
 
 El cens virtual de socis ens permet registrar les dades dels socis que assisteixen a la reunió societària i que ens serviran per autentificar-ne la identitat i també determinar el pes del vot \(només en els casos que per estatuts es tingui definit el vot ponderat\) i el vot delegat.
@@ -177,7 +174,7 @@ El cens social virtual s’ha d’elaborar en un document de full de càlcul. Aq
 email,nom,membership_phone,membership_type,membership_weight
 ```
 
-Les files que omplirem a continuació seran les dades dels socis, on a cada fila posarem les dades d’un soci diferent. Recordeu separar els camps amb comes i sense espais, tal i com es mostra a l’exemple:
+Les files que omplirem a continuació seran les dades dels socis, on a cada fila posarem les dades d’un soci diferent. Recordeu separar els camps amb comes i sense espais, tal com es mostra a l’exemple:
 
 ```text
 email,nom,membership_phone,membership_type,membership_weight
@@ -190,15 +187,15 @@ martina@example.com,Martina Grau,653565761,col·laborador,0.67
 Significat dels camps:
 
 * **email:** Adreça de correu electrònic del soci, a través de la qual s'acreditarà com a usuari a la plataforma de votació. 
-* **nom:** Nom i cognoms del soci. En aquest camp podem posar accents, dièresis, punts volats i espais. El sistema pren automàticament la informació d'aquest camp per assignar un nom d'usuari o un àlies al soci.
+* **nom:** Nom i cognoms del soci. En aquest camp podem posar accents, dièresi, punts volats i espais. El sistema pren automàticament la informació d'aquest camp per assignar un nom d'usuari o un àlies al soci.
 * **membership\_phone:** telèfon mòbil del soci, a través del qual autentificarà la seva identitat en el moment d'iniciar-se l'assemblea o la reunió societària.
 * **membership\_type:** Tipus de soci. Aquesta dada ens servirà, juntament amb la de **membership weight**, per mostrar resultats agrupant socis de la mateixa tipologia i ponderació de vot. Per tant, és important unificar els criteris de tipologia de socis i que habitualment seran: comú, consumidor, treball, treballador, col·laborador.
-* **membership\_weight:** Pes del vot o ponderació de vot. Aquesta dada numèrica indicarà el pes del vot de cada soci. El número serà variable en funció del que determina la llei de cooperatives i els estatuts socials. Per a les cooperatives que no tenen estipulat per estatuts la ponderació de vot, aquest número sempres serà **1**. Si el vot ponderat d'un soci no és un número enter cal separar els dígits amb un **punt**. _Per exemple: 0.8_
+* **membership\_weight:** Pes del vot o ponderació de vot. Aquesta dada numèrica indicarà el pes del vot de cada soci. El número serà variable en funció del que determina la llei de cooperatives i els estatuts socials. Per a les cooperatives que no tenen estipulat per estatuts la ponderació de vot, aquest número sempre serà **1**. Si el vot ponderat d'un soci no és un número enter cal separar els dígits amb un **punt**. _Per exemple: 0.8_
 
 {% hint style="danger" %}
 Important! Quan importem el cens virtual de socis, de manera automàtica, aquests rebran invitació per correu electrònic per accedir i registrar una contrasenya a la plataforma de votació. Per tant, els socis, a mesura que es vagin enregistrant, podran veure tot el contingut que l’administrador hagi publicat.
 
-Ens hem d'assegurar que la consulta i les preguntes publicades són les que volem tenir disponibles perquè els socis puguin consultar i reflexionar abans de la reunió, però caldrà tenir la data d’inici de la **consulta** en una data futura, per tal de no permetre les votacions fins el dia de la reunió.
+Ens hem d'assegurar que la consulta i les preguntes publicades són les que volem tenir disponibles perquè els socis puguin consultar i reflexionar abans de la reunió, però caldrà tenir la data d’inici de la **consulta** en una data futura, per tal de no permetre les votacions fins al dia de la reunió.
 
 És recomanable haver explicat, prèviament, als socis que rebran aquesta invitació a través de la qual se’ls mostrarà un formulari d’ingrés i hauran d’escriure una contrasenya \(que hauran de recordar\) per formalitzar el registre. Caldrà indicar també que comprovin la safata spam.
 {% endhint %}
@@ -217,6 +214,8 @@ Si necessitem realitzar delegacions de vots es pot fer a **Participants &gt; Del
 
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves-1-.png)
 
+Podrem realitzar delegacions per diferents consultes \(diferents reunions\). Fent clic a **Nova delegació**, crearem la configuració per la consulta que desitgem. A través del desplegable seleccionarem la consulta sobre la qual habilitarem l'opció del vot delegat i al camp **Màxim nombre de delegacions que pot rebre una sòcia** indicarem el nombre màxim de delegacions que pot rebre un soci.
+
 Podrem realitzar delegacions per diferents consultes \(diferentes reunions\). Fent clic a **Nova delegació**, crearem la configuració per la consulta que desitgem. A través del desplegable seleccionarem la consulta sobre la qual habilitarem l'opció del vot delegat i al camp **Màxim nombre de delegacions que pot rebre una sòcia** indicarem el nombre màxim de delegacions que pot rebre un soci.
 
 Un cop habilitada i configurada l'opció de vot delegat, farem clic sobre **Delegació** per configurar els socis que atorguen el seu vot delegat i els socis que en són receptors. Per fer això, farem clic al botó **Nou Participant**.
@@ -228,20 +227,20 @@ Podrem seleccionar qui és l'**atorgant** del vot i en qui delega \(**receptor**
 ![](../.gitbook/assets/screenshot_2020-10-14-cooperativa-proves.png)
 
 {% hint style="info" %}
-Si no coneixes l'àlies de l'usuari pots visualitzar-l'ho a l'adminitració **Participants &gt; Participants**. Tanmateix, recorda que l'àlies o nom d'usuari es correspon amb la informació del camp **nom** que s'hagi detallat al cens virtual de socis.
+Si no coneixes l'àlies de l'usuari pots visualitzar-ho a l'administració **Participants &gt; Participants**. Tanmateix, recorda que l'àlies o nom d'usuari es correspon amb la informació del camp **nom** que s'hagi detallat al cens virtual de socis.
 
-\_Per exemple, si al cens virtual hem indicat que tenim un soci de nom Martina Garauch, el seu àlies serà martina-garauch o, depenent com haguem entrat el cens, l'àlies també pot ser les lletres i dígits anterior al símbol @ de l'email, com ara: mgarauch@gmail.net, aleshores l'àlies seria mgarauch.
+Per exemple, si al cens virtual hem indicat que tenim un soci de nom Martina Garauch, el seu àlies serà martina-garauch o, depenent com haguem entrat el cens, l'àlies també pot ser les lletres i dígits anterior al símbol @ de l'email, com ara: mgarauch@gmail.net, aleshores l'àlies seria mgarauch.
 {% endhint %}
 
 {% hint style="warning" %}
-IMPORTANT: si un soci ha notificat a la cooperativa que delega el seu vot, però el dia de l'assemblea, finalment, decideix assistir-hi personalment, l'administrador pot eliminar la delegació de vot d'aquest soci i, automàticament, queda desabilitat el vot delegat al soci que n'era el receptor.
+IMPORTANT: si un soci ha notificat a la cooperativa que delega el seu vot, però el dia de l'assemblea, finalment, decideix assistir-hi personalment, l'administrador pot eliminar la delegació de vot d'aquest soci i, automàticament, queda deshabilitat el vot delegat al soci que n'era el receptor.
 {% endhint %}
 
 ## Reunió societària
 
 Felicitats, ja ho tenim tot a punt per la reunió!
 
-Tenim un **Consulta** amb les seves **Preguntes** publicades, tal i com hem explicat anteriorment. La **Consulta** la tenim configurada perquè s'obri en una data futura, per permetre que els socis puguin accedir a la **Consulta** on veuran l'ordre del dia \(**Preguntes**\) amb la documentació corresponent, però encara no poden votar.
+Tenim un **Consulta** amb les seves **Preguntes** publicades, tal com hem explicat anteriorment. La **Consulta** la tenim configurada perquè s'obri en una data futura, per permetre que els socis puguin accedir a la **Consulta** on veuran l'ordre del dia \(**Preguntes**\) amb la documentació corresponent, però encara no poden votar.
 
 ### Votacions
 
@@ -249,8 +248,7 @@ Quan sigui l'hora d'iniciar la reunió i vulguem obrir la votació, canviarem la
 
 #### Acreditacions
 
-Tal i com hem detallat a l'apartat de **preguntes**, tindrem una primera pregunta que ens servirà per realitzar les acreditacions. Quan comenci el procés de votació, caldrà indicar als socis que responguin a aquesta primera pregunta. La finalitat és, d'una banda, verificar l'autenticitat del soci i, de l'altra, establir el quòrum que participa a la reunió societària. Aquesta pregunta, com s'ha indicat, només tindrà una única opció de resposta, tipus "Confirmo assistència". Per a aquesta pregunta, **es demanarà a totes les persones assistents que votin en nom seu i, en el cas de vots delegats, que també votin amb el dels possibles vots delegats que tinguin assignats.**
-
+Tal com hem detallat a l'apartat de **preguntes**, tindrem una primera pregunta que ens servirà per realitzar les acreditacions. Quan comenci el procés de votació, caldrà indicar als socis que responguin a aquesta primera pregunta. La finalitat és, d'una banda, verificar l'autenticitat del soci i, de l'altra, establir el quòrum que participa a la reunió societària. Aquesta pregunta, com s'ha indicat, només tindrà una única opció de resposta, tipus "Confirmo assistència". Per a aquesta pregunta, **es demanarà a totes les persones assistents que votin en nom seu i, en el cas de vots delegats, que també votin amb el dels possibles vots delegats que tinguin assignats.**
 
 #### Resta de les votacions
 
@@ -260,11 +258,11 @@ Quan sigui el moment de votar, entrant a cada pregunta es podrà realitzar la vo
 
 ![](../.gitbook/assets/screenshot_2020-10-14-pregunta1-cooperativa-proves.png)
 
-Un cop votat, i mentres la pregunta estigui publicada i el periode de votacions obert, la persona votant podrà revocar \(desfer\) els seu vot i canviar el sentit del vot. Si es vol impedir que sigui possible canviar el vot, com s'ha comentat, caldrà despublicar la pregunta quan es vulgui tancar la votació d'aquesta. 
+Un cop votat, i mentre la pregunta estigui publicada i el període de votacions obert, la persona votant podrà revocar \(desfer\) el seu vot i canviar el sentit del vot. Si es vol impedir que sigui possible canviar el vot, com s'ha comentat, caldrà despublicar la pregunta quan es vulgui tancar la votació d'aquesta.
 
 ### Visualització de resultats
 
-Quan s'hagi finalitzat la reuió o el temps establert per votar, per visualitzasr els resultats l'administrador ha de tornar a la configuració de la **Consulta** \(tauler d'administració &gt; **Consultes**, fer clic sobre el nom de la **Consulta** en qüestió i canviar la data **La votació finalitza** a un dia anterior al de celebració de la reunió. Aleshores, cal fer clic sobre el botó **Actualitza** i, automàticament, apareix una nova opció que és **Resultats** a la barra lateral esquerra.
+Quan s'hagi finalitzat la reunió o el temps establert per votar, per visualitzar els resultats l'administrador ha de tornar a la configuració de la **Consulta** \(tauler d'administració &gt; **Consultes**, fer clic sobre el nom de la **Consulta** en qüestió i canviar la data **La votació finalitza** a un dia anterior al de celebració de la reunió. Aleshores, cal fer clic sobre el botó **Actualitza** i, automàticament, apareix una nova opció que és **Resultats** a la barra lateral esquerra.
 
 En aquest apartat de **Resultats** podem veure, per a cada pregunta, les respostes quantificades per tipologia de soci i pes del vot que hem definit al cens.
 
