@@ -39,7 +39,7 @@ Orientacions de sistemes de videoconferència disponibles al mercat i caracterí
 
 ### Menys de 10 participants
 
-Qualsevol dels sistemes anteriors són són òptims per a reunions societàries de 10 o menys persones, on totes les persones sòcies participen amb les opcions de vídeo i veu habilitades.
+Qualsevol dels sistemes anteriors són òptims per a reunions societàries de 10 o menys persones, on totes les persones sòcies participen amb les opcions de vídeo i veu habilitades.
 
 ### Més de 10 participants
 
