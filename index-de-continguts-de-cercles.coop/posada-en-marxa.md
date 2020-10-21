@@ -133,14 +133,14 @@ Recordeu que per poder publicar i, per tant, fer visible una pregunta a l'àrea 
 {% endhint %}
 
 {% hint style="info" %}
-Reservarem la primera pregunta per **realitzar les acreditacions**. La finalitat d'aquesta prefunta és coneixer el quorum. La prefunta tindrà una sola resposta per confirmar assistència on es demanarà a tots les persones assistents que votin en nom seu i amb els possibles vots delegats que tinguin disponibles. [Llegir més](posada-en-marxa.md#votacions)
+Reservarem la primera pregunta per realitzar les acreditacions. La finalitat d'aquesta pregunta és conèixer el quòrum. La pregunta tindrà una sola resposta per confirmar assistència on es demanarà a totes les persones assistents que votin en nom seu i amb els possibles vots delegats que tinguin disponibles. [Llegir més](posada-en-marxa.md#votacions)
 {% endhint %}
 
 {% hint style="danger" %}
 Per tal de garantir el correcte funcionament de l'opció de delegació de vot, no s'ha de tocar res de l'apartat **configuració** de la secció **preguntes**. I, per tant, no s'accedirà a les opcions indicades anteriorment i que són: Configuració, Components i Categories.
 {% endhint %}
 
-Un cop efectuades les passes, ens apareixeran totes les preguntes en pantalla, tal i com es mostra a l’imatge:
+Un cop efectuades les passes, ens apareixeran totes les preguntes en pantalla, tal com es mostra a la imatge:
 
 ![](../.gitbook/assets/screenshot_2020-10-13-cooperativa-proves.png)
 
