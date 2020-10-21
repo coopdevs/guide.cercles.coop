@@ -83,7 +83,7 @@ Hem d'omplir els camps següents:
 * **Descripció:** Afegir tota la informació relativa a com participar en la assemblea. _Com ara: Enllaç a la plataforma de videoconferència, hora de primera i segona convocatòria..._ 
 * **Comença la votació:** Data de la assemblea
 * **La votació finalitza:** Data de la assemblea
-* **Abast destaca:** S'obrirà un desplegable i haurem d'escollir el subàmbit definit inicialment. _Per exemple: Assemblea General_
+* **Abast destaca:** S'obrirà un desplegable i haurem d'escollir l'**àmbit** definit inicialment. _Per exemple: Reunió societària_
 * **Nom curt d'URL** \(sense espais, ni accents, ni dièresis, ni punt volat\). _Per exemple: assemblea-general-2020_
 
 Altres camps recomanats:
@@ -122,7 +122,7 @@ Per crear les preguntes, hem d'omplir els següents camps:
 * **Grup promotor**: Aquí detallarem qui eleva a la reunió societària la pregunta. _Per exemple: Consell Rector \(en el cas que celebrem l'Assemblea\)_
 * **Àmbit participatiu**. _Per exemple: AGO 2020_
 * **Què es decideix:** Podeu detallar els aspectes generals o més importants d'aquest punt de l'ordre del dia.
-* **Àrea municipal:** Cal seleccionar el subàmbit a través del desplegable. _Per exemple: Assemblea General_
+* **Àrea municipal:** Cal seleccionar el **subàmbit** a través del desplegable. _Per exemple: Assemblea General_
 * **Nom curt d'URL** \(sense espais, ni accents, ni dièresis, ni punt volat\).  _Per exemple: pregunta-1_
 
 Com veureu, un cop cliquem sobre la pregunta creada, al menú lateral esquerra apareixen més opcions. En concret, apareixen les opcions següents: Informació, Configuració, Respostes, Components, Categories i Adjunts. Per garantir un funcionament correcte, **recomanem fer només ús de les dues següents**: Respostes i Adjunts.
