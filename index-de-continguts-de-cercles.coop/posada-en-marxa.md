@@ -14,9 +14,7 @@ Al formalitzar l’alta d’instància a la plataforma CerclesCoop, a l’adreç
 
 Aquest enllaç serà únic per a cada cooperativa i condueix a l’espai de gestió a través del qual l’administrador crearà totes les reunions societàries i processos participatius que vulgui, sense limitacions.
 
-Clicant l’enllaç, s’obre la plataforma de votació i apareix en pantalla un formulari d’ingrés: l'àlies apareix per defecte i només cal crear una contrasenya, confirmar-la i acceptar els **Termes i condicions d'ús** generals de la plataforma Cercles.Coop. La contrasenya d’accés com a administrador l'haureu de recordar, sinó es pot generar una nova contrasenya clicant sobre **has oblidat la teva contrasenya**, tal com es mostra a la imatge següent:
-
- ![](../.gitbook/assets/screenshot_2020-08-17-iniciar-sessio-prova-assemblea.png)
+Clicant l’enllaç, s’obre la plataforma de votació i apareix en pantalla un formulari d’ingrés: l'àlies apareix per defecte i només cal crear una contrasenya, confirmar-la i acceptar els **Termes i condicions d'ús** generals de la plataforma Cercles.Coop. 
 
 Un cop enregistrats, entrareu directament a la plataforma i haureu d'acceptar novament els **Termes i condicions d'ús**, en aquest cas, com a administradors a la plataforma. A continuació apareix en pantalla totes les opcions del **Tauler de control**. Al menú de dalt a la dreta apareixerà l’opció **Tauler de control**, tal i com es mostra a la imatge següent:
 
