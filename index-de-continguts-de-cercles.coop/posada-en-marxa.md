@@ -129,7 +129,7 @@ Com veureu, un cop cliquem sobre la pregunta creada, al menú lateral esquerra a
 
 Així doncs, clicant sobre aquestes dues opcions podrem configurar aquests paràmetres:
 
-* **Respostes:** Podem crear totes les respostes que necessitem d'acord amb la pregunta, habitualment serà: A favor, En contra, En blanc
+* **Respostes:** Podem crear totes les respostes que necessitem d'acord amb la pregunta, habitualment serà: A favor, En contra, Abstenció
 * **Adjunts:** En aquest apartat podrem carregar tota la documentació adjunta relacionada amb la pregunta \(punt de l'ordre del dia\) en qüestió.
 
 {% hint style="info" %}
@@ -137,7 +137,11 @@ Recordeu que per poder publicar i, per tant, fer visible una pregunta a l'àrea 
 {% endhint %}
 
 {% hint style="info" %}
-Reservarem la primera pregunta per **realitzar les acreditacions**. La finalitat d'aquesta pregunta és coneixer el quòrum i que el soci autentifiqui la seva identitat. La prefunta tindrà una única resposta per confirmar assistència on es demanarà a tots les persones assistents que votin en nom seu i amb els possibles vots delegats que tinguin disponibles. [Llegir més](posada-en-marxa.md#votacions)
+Reservarem la primera pregunta per **realitzar les acreditacions**. La finalitat d'aquesta pregunta és coneixer el quòrum i que el soci autentifiqui la seva identitat. La pregunta tindrà una única resposta per confirmar assistència on es demanarà a tots les persones assistents que votin en nom seu i amb els possibles vots delegats que tinguin disponibles. [Llegir més](posada-en-marxa.md#votacions)
+{% endhint %}
+
+{% hint style="info" %}
+Recomanem sempre incloure per cada **Pregunta** la **Resposta** "abstenció", d'aquesta manrea podrem tenir un quorum concret de participació per cada pregunta. 
 {% endhint %}
 
 {% hint style="danger" %}
@@ -179,7 +183,7 @@ Les files que omplirem a continuació seran les dades dels socis, on a cada fila
 ```text
 email,nom,membership_phone,membership_type,membership_weight
 joana@example.com,Joana Garcia,+3476318371,consumidor,1
-miquel@example.com, Miquel Puig,+34653565765,treballador,1
+miquel@example.com,Miquel Puig,+34653565765,treballador,1
 martina@example.com,Martina Grau,+34653565761,col·laborador,0.67
 [...]
 ```
