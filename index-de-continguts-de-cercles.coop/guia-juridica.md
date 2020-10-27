@@ -73,7 +73,7 @@ Exemple 2:
 
 En relació amb el vot de cada sòcia \(vot individual o vot ponderat\), cal comunicar, a la convocatòria, els vots individuals o ponderats que corresponguin a cada persona sòcia segons estatuts.
 
-Així mateix, per l’excepcionalitat de la situació, es pot informar dels vots socials a través d’altres mitjans, com ara: informació penjada al web, tramesa personalitzada per email, per sms, per whatsapp o altres canals específics de comunicació generats per la cooperativa a fi de vetllar per la informació cap als socis i sòcies. En tot cas, si s’empren aquestes mitjans, cal advertir que el Consell Rector és qui assumeix la responsabilitat de que la informació arriba a les sòcies, mesura que es pren de manera proporcional amb les mesures proposades per a la protecció de la salut de les persones.
+Així mateix, per l’excepcionalitat de la situació, es pot informar dels vots socials a través d’altres mitjans, com ara: informació penjada al web, tramesa personalitzada per email, per sms, per whatsapp o altres canals específics de comunicació generats per la cooperativa a fi de vetllar per la informació cap als socis i sòcies. En tot cas, si s’empren aquests mitjans, cal advertir que el Consell Rector és qui assumeix la responsabilitat de que la informació arriba a les sòcies, mesura que es pren de manera proporcional amb les mesures proposades per a la protecció de la salut de les persones.
 
 {% hint style="info" %}
 **RECOMANACIÓ:** Recomanem que s’adjunti a la convocatòria el nombre de vots individuals o ponderats que corresponen a cada sòcia, sempre que sigui possible, físicament si aquesta s’emet per correu postal o a través d’arxiu en cas que s’enviï per correu electrònic o altres mitjans telemàtics.
@@ -115,12 +115,12 @@ B\) En cas de celebrar l’Assemblea presencialment:
 * Per facilitar la tasca de preparació tècnica i logística, caldrà que les sòcies que assisteixin a l’Assemblea ho notifiquin amb antelació.
 * Es recomana no lliurar paper o no manipular papers físicament durant la celebració de l’Assemblea. Per a l’emissió de vot, es pot fer a mà alçada i si el vot és secret s’hauran de seguir els protocols de desinfecció i manipulació de papers.
 * Totes les mesures que s’apliquin i les recomanacions s’han de recollir en un Pla de Contingència específic per a la celebració de l’Assemblea o reunió societària.
-* En cas de dubtar o no conèixer amb exactitud les mesures específiques en matèria de prevenció de la salut, caldrà consultar a Protecció Civil les mesures específiques del municipi on se celebri l’assemblea.
+* En cas de dubte o no conèixer amb exactitud les mesures específiques en matèria de prevenció de la salut, caldrà consultar a Protecció Civil les mesures específiques del municipi on se celebri l’assemblea.
 
 {% hint style="info" %}
 **RECOMANACIÓ:** Es recomana que cada sòcia faci arribar a la cooperativa una declaració responsable en matèria de salut pública _\(Consulta un model:_ [_aquí_](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MBsDSLNOQu1wyNrxEz1%2F-MIIivaKUisn83yQg268%2F-MIKCvk4duHqcd0AT_JY%2Fm4_DeclaraciResponsable_vdef.doc?alt=media&token=494a9e11-c36d-4080-8bf0-f09559f4049c)_\)_.
 
-Atesa la variabilitat que s’està donant pel que fa a les afectacions de la COVID-19 arreu del territori, la importància de pal·liar els seus efectes i la importància de vetllar per la salut de les persones sòcies, recomanem a les cooperatives no celebrar assemblees presencials, llevat que les sòcies es puguin considerar grups de convivència o unitats familiars, tal i com estableixen els protocols sanitaris vigents i respectant les mesures concretes a tal efecte.
+Atesa la variabilitat que s’està donant pel que fa a les afectacions de la COVID-19 arreu del territori, la importància de pal·liar els seus efectes i la importància de vetllar per la salut de les persones sòcies, recomanem a les cooperatives **no celebrar assemblees presencials**, llevat que les sòcies es puguin considerar grups de convivència o unitats familiars, tal i com estableixen els protocols sanitaris vigents i respectant les mesures concretes a tal efecte.
 {% endhint %}
 
 ### 2.3. ACTA DE LA REUNIÓ
