@@ -302,6 +302,6 @@ Per exemple: Mentre els administradors fan els càlculs poden compartir pantalla
 
 
 
-### Sessió de capacitació:
+### Sessió de capacitació en l'ús de la plataforma de votació Cercles.Coop
 
 [![CerclesCoop](https://i9.ytimg.com/vi/Fe_gzw9-Tak/maxresdefault.jpg?time=1604053500000&sqp=CPzT7_wF&rs=AOn4CLBuh3AEh4xOXo4uCPKS8TTqh9wK1A)](http://www.youtube.com/watch?v=Fe_gzw9-Tak "Sessió de capacitació: Plataforma de votació Cercles.Coop")
