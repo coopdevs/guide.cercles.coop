@@ -222,6 +222,12 @@ Quan vulguem importar el cens, que alhora implica l’emissió automàtica d’u
 Si hem d'actualitzar alguna dada al cens virtual de socis \(telèfon, tipologia de sòcia o ponderació del vot\) podem fer servir el mateix sistema i format. Primer, haurem de revocar aquest soci per tornar-lo a validar i ho farem amb l’opció **Revoca l'autorització dels usuaris** i, posteriorment, amb **Autoritza els usuaris**, ja amb les dades corregides.
 {% endhint %}
 
+
+{% hint style="warning" %}
+Si l'administrador que gestiona la instància és també soci de la cooperativa amb dret a vot, caldrà que aquest usuari també consti i es verifiqui a través del cens virtual juntament amb la resta de socis, encara que estigui enregistrat a la plataforma per la seva condició d'administrador.
+{% endhint %}
+
+
 ### Delegacions de vots
 
 Si necessitem realitzar delegacions de vots es pot fer a **Participants &gt; Delegacions**
