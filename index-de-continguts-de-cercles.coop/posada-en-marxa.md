@@ -20,6 +20,10 @@ Un cop enregistrats, entrareu directament a la plataforma i haureu d'acceptar no
 
 ![](../.gitbook/assets/screenshot_2020-08-17-prova-assemblea.png)
 
+{% hint style="warning" %}
+Un cop comprovat que l’administrador inicial pot accedir a la plataforma i pot començar a incorporar dades per preparar la reunió societària, caldrà accedir a l’apartat **Participants > Administradores** i eliminar com a administrador a l’usuari **CoopCat**, el qual inicialment figura com a administrador com a conseqüència d’haver donat d’alta la instància.
+{% endhint %}
+
 ## Preparació de la reunió societària
 
 Si fas servir el servei ofert per Cercles.Coop ja tindràs creat per defecte el contingut dels apartats Pàgines i Àmbits de la zona de configuració i, per tant, pots adreçar-te directament a la creació de la [Consulta](posada-en-marxa.md#consultes).
