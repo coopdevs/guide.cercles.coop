@@ -23,6 +23,11 @@ Un cop enregistrats, entrareu directament a la plataforma i haureu d'acceptar no
 ![](../.gitbook/assets/screenshot_2020-08-17-prova-assemblea.png)
 
 
+{% hint style="warning" %}
+Un cop comprovat que l’administrador inicial pot accedir a la plataforma i pot començar a incorporar dades per preparar la reunió societària, caldrà accedir a l’apartat **Participants > Administradores** i eliminar com a administrador a l’usuari **CoopCat**, el qual inicialment figura com a administrador com a conseqüència d’haver donat d’alta la instància.
+{% endhint %}
+
+
 ### Preparació de la reunió societària
 
 Si fas servir el servei ofert per Cercles.Coop ja tindràs creat per defecte el contingut dels apartats Pàgines i Àmbits de la zona de configuració i, per tant, pots adreçar-te directament a la creació de la [Consulta](posada-en-marxa.md#consultes). 
@@ -215,6 +220,11 @@ Quan vulguem importar el cens, que alhora implica l’emissió automàtica d’u
 
 {% hint style="info" %}
 Si hem d'actualitzar alguna dada al cens virtual de socis (telèfon, tipologia de sòcia o ponderació del vot) podem fer servir el mateix sistema i format. Primer, haurem de revocar aquest soci per tornar-lo a validar i ho farem amb l’opció **Revoca l'autorització dels usuaris** i, posteriorment, amb **Autoritza els usuaris**, ja amb les dades corregides.
+{% endhint %}
+
+
+{% hint style="warning" %}
+Si l'administrador que gestiona la instància és també soci de la cooperativa amb dret a vot, caldrà que aquest usuari també consti i es verifiqui a través del cens virtual juntament amb la resta de socis, encara que estigui enregistrat a la plataforma per la seva condició d'administrador.
 {% endhint %}
 
 
