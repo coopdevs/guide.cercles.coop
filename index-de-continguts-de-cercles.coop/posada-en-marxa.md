@@ -300,3 +300,8 @@ Si la vostra cooperativa o federació té vot ponderat i, per tant, el còmput d
 Per exemple: Mentre els administradors fan els càlculs poden compartir pantalla a través del sistema de videoconferència i mostrar, d'aquesta mateixa manera, el resultat final de cada pregunta amb el nombre de vots que ha obtingut cada opció de resposta de cada pregunta. Altrament, els administradors poden fer, sense la pressió visual, els càlculs sense mostrar-ho per videoconferència, per posteriorment projectar una graella resum del nombre de vots en funció del tipus de soci i el resultat final de cada pregunta amb el nombre de vots que ha obtingut cada opció de resposta de cada pregunta.
 {% endhint %}
 
+
+
+### Sessió de capacitació:
+
+[![CerclesCoop](https://i9.ytimg.com/vi/Fe_gzw9-Tak/maxresdefault.jpg?time=1604053500000&sqp=CPzT7_wF&rs=AOn4CLBuh3AEh4xOXo4uCPKS8TTqh9wK1A)](http://www.youtube.com/watch?v=Fe_gzw9-Tak "Sessió de capacitació: Plataforma de votació Cercles.Coop")
