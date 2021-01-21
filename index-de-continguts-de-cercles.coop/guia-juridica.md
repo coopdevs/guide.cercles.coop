@@ -6,13 +6,13 @@
 
 Arran de la crisi provocada per la COVID-19 moltes cooperatives es veuen obligades a realitzar les seves reunions societàries \(assembles generals, consells rectors, reunions de comissions... \) per mitjans virtuals, per aquest motiu CoopCat ofereix una guia adaptada a les necessitats del moment.
 
-Aquesta guia inclou orientacions i recomanacions per organitzar, convocar i celebrar reunions dels òrgans socials de les cooperatives d’acord amb la Llei de cooperatives 12/2015, els propis estatuts societaris i, excepcionalment, el que estableix el [Decret Llei 19/2020](https://portaljuridic.gencat.cat/ca?documentId=873600&action=fitxa), de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.
+Aquesta guia inclou orientacions i recomanacions per organitzar, convocar i celebrar reunions dels òrgans socials de les cooperatives d’acord amb la Llei de cooperatives 12/2015, els propis estatuts societaris i, excepcionalment, el que estableixen el [Decret Llei 19/2020](https://portaljuridic.gencat.cat/ca?documentId=873600&action=fitxa), de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19, així com el [Decret Llei 47/2020](https://portaljuridic.gencat.cat/eli/es-ct/dl/2020/11/24/47), de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives.
 
 ## 2. ASSEMBLEA GENERAL
 
 ### 2.1. CONVOCATÒRIA
 
-La cooperativa ha de fer la convocatòria segons ho faci habitualment d’acord amb els estatuts socials. Cal tenir en compte que, fins a 31 de desembre de 2020 i de manera excepcional, també es pot convocar emprant mitjans telemàtics, encara que els estatuts socials no ho prevegin. Així doncs, per a la convocatòria telemàtica, la cooperativa ha de disposar de les dades de les sòcies \(email, telèfon mòbil...\).
+La cooperativa ha de fer la convocatòria segons ho faci habitualment d’acord amb els estatuts socials. Cal tenir en compte que, fins a 31 de desembre de 2021 i de manera excepcional, també es pot convocar emprant mitjans telemàtics, encara que els estatuts socials no ho prevegin. Així doncs, per a la convocatòria telemàtica, la cooperativa ha de disposar de les dades de les sòcies \(email, telèfon mòbil...\).
 
 {% hint style="info" %}
 **RECOMANACIÓ:** Per a convocatòries telemàtiques, recomanem emprar una empresa certificadora que permeti disposar d’un registre, amb validesa legal, de l’enviament, de la recepció, la data de la comunicació i el seu contingut.
@@ -20,14 +20,14 @@ La cooperativa ha de fer la convocatòria segons ho faci habitualment d’acord 
 
 #### Termini
 
-La convocatòria, en el cas de les **assemblees ordinàries**, s’ha d’enviar amb una antelació mínima de 15 dies i màxima de 30 dies. Excepcionalment, fins a 31 de desembre de 2020, les **assemblees extraordinàries** es poden convocar amb l’antelació mínima i màxima que el Consell Rector consideri pertinent, tenint en compte la urgència de l’acord que cal adoptar.
+De manera excepcional i fins al 31 de desembre de 2021, encara que els estatuts de les societats cooperatives no ho prevegin, el Consell Rector pot convocar amb **l'antelació mínima i màxima** que consideri pertinent les assemblees generals, tant ordinàries com extraordinàries, sempre tenint en compte la urgència de l'acord que cal adoptar.
 
 {% hint style="warning" %}
 **ADVERTÈNCIA:** És responsabilitat del Consell Rector adoptar les mesures, segons les circumstàncies concretes, per tal que els socis i sòcies puguin rebre la convocatòria i concórrer a la sessió de l'assemblea amb les garanties pertinents.
 {% endhint %}
 
 {% hint style="info" %}
-**RECORDATORI:** Recordem que excepcionalment, fins a 31 de desembre de 2020, quan no sigui possible reunir a l’assemblea general per prendre acords en matèria d’ERTOs, el Consell Rector pot adoptar l’acord pertinent.
+**RECORDATORI:** Recordem que excepcionalment, fins a 31 de desembre de 2021, quan no sigui possible reunir a l’assemblea general per prendre acords en matèria d’ERTOs, el Consell Rector pot adoptar l’acord pertinent.
 {% endhint %}
 
 #### Formes de comunicació
