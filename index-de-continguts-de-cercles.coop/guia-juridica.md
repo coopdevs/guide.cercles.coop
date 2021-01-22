@@ -6,7 +6,7 @@
 
 Arran de la crisi provocada per la COVID-19 moltes cooperatives es veuen obligades a realitzar les seves reunions societàries \(assembles generals, consells rectors, reunions de comissions... \) per mitjans virtuals, per aquest motiu CoopCat ofereix una guia adaptada a les necessitats del moment.
 
-Aquesta guia inclou orientacions i recomanacions per organitzar, convocar i celebrar reunions dels òrgans socials de les cooperatives d’acord amb la Llei de cooperatives 12/2015, els propis estatuts societaris i, excepcionalment, el que estableixen el [Decret Llei 19/2020](https://portaljuridic.gencat.cat/ca?documentId=873600&action=fitxa), de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19, així com el [Decret Llei 47/2020](https://portaljuridic.gencat.cat/eli/es-ct/dl/2020/11/24/47), de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives.
+Aquesta guia inclou orientacions i recomanacions per organitzar, convocar i celebrar reunions dels òrgans socials de les cooperatives d’acord amb la Llei de cooperatives 12/2015, els propis estatuts societaris i, excepcionalment, el que estableixen el [Decret Llei 47/2020](https://portaljuridic.gencat.cat/eli/es-ct/dl/2020/11/24/47), de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives, així com els articles 3.4, 3.7, 3.8 i 6 del [Decret Llei 19/2020](https://portaljuridic.gencat.cat/ca?documentId=873600&action=fitxa), de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19, encara vigent.
 
 ## 2. ASSEMBLEA GENERAL
 
@@ -26,15 +26,13 @@ De manera excepcional i fins al 31 de desembre de 2021, encara que els estatuts 
 **ADVERTÈNCIA:** És responsabilitat del Consell Rector adoptar les mesures, segons les circumstàncies concretes, per tal que els socis i sòcies puguin rebre la convocatòria i concórrer a la sessió de l'assemblea amb les garanties pertinents.
 {% endhint %}
 
-{% hint style="info" %}
-**RECORDATORI:** Recordem que excepcionalment, fins a 31 de desembre de 2021, quan no sigui possible reunir a l’assemblea general per prendre acords en matèria d’ERTOs, el Consell Rector pot adoptar l’acord pertinent.
-{% endhint %}
+
 
 #### Formes de comunicació
 
 Així doncs, la convocatòria s’ha de fer arribar a les sòcies segons prevegin els estatuts:
 
-* De manera individual, on es poden emprar mitjans telemàtics, encara que els estatuts no ho prevegin i de manera excepcional fins a 31 de desembre de 2020.
+* De manera individual, on es poden emprar mitjans telemàtics, encara que els estatuts no ho prevegin i de manera excepcional fins a 31 de desembre de 2021.
 * Els estatuts poden establir que l’assemblea pugui ésser convocada mitjançant anunci publicat al web corporatiu, sempre que aquest web hagi estat inscrit i publicat en els termes establerts a la Llei 12/2015. 
 * Si no es disposa de web corporatiu, els estatuts poden disposar, quan la convocatòria afecti a cooperatives de més de cinc-cents socis, que la notificació individualitzada pugui ésser substituïda per la publicació en un mitjà de màxima difusió en l'àmbit d'actuació de la cooperativa.
 
@@ -50,11 +48,11 @@ Els estatuts poden establir mecanismes de publicitat addicionals als que disposa
 
 A la convocatòria, en tot cas, s’hi ha de fer constar el contingut següent:
 
-**1. Fer referència al Decret Llei 19/2020**
+**1. Fer referència al Decret Llei 47/2020**
 
-En el text de la convocatòria s’ha de fer referència al [Decret Llei 19/2020](https://portaljuridic.gencat.cat/ca?documentId=873600&action=fitxa) en els termes següents:
+En el text de la convocatòria s’ha de fer referència al [Decret Llei 47/2020](https://portaljuridic.gencat.cat/eli/es-ct/dl/2020/11/24/47) en els termes següents:
 
-> “Per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de les persones sòcies, el Consell Rector de la `NOM DE LA COOPERATIVA`, reunit el passat `POSAR LA DATA`, va convocar l'Assemblea General `Ordinària/Extraordinària` i va acordar dur-la a terme per videoconferència i, per tant, els acords s'adoptaran virtualment. Aquesta mesura es pren a l'empara del que recull l'article 3, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 19/2020, de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.” 
+> “Per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de les persones sòcies, el Consell Rector de la `NOM DE LA COOPERATIVA`, reunit el passat `POSAR LA DATA`, va convocar l'Assemblea General `Ordinària/Extraordinària` i va acordar dur-la a terme per videoconferència i, per tant, els acords s'adoptaran virtualment. Aquesta mesura es pren a l'empara del que recull l'article 9.1, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 47/2020, de de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives.”
 
 
 La convocatòria es tancarà amb la fórmula que millor s’escaigui, segons el procediment que efectuï cada cooperativa. El requisit bàsic que ha de considerar el text de tancament és fer referència a la metodologia emprada per fer arribar a les sòcies la convocatòria i la documentació associada.
@@ -89,11 +87,11 @@ A la convocatòria s’ha de fer possible l’accés, d’ençà del moment en q
 
 **5. Assemblees preparatòries**
 
-Si no se celebren assemblees preparatòries, s’haurà d’especificar expressament i exposar els motius de no fer-les. Aquests motius no són altres que vetllar per la protecció de la salut de les persones sòcies i caldrà fer referència a l’excepcionalitat permesa a l’empara del Decret Llei 19/2020 \(article 3.10\).
+Si no se celebren assemblees preparatòries, s’haurà d’especificar expressament i exposar els motius de no fer-les. Aquests motius no són altres que vetllar per la protecció de la salut de les persones sòcies i caldrà fer referència a l’excepcionalitat permesa a l’empara del Decret Llei 47/2020 \(article 9.6\).
 
 **6. Delegació de vot**
 
-De forma excepcional i fins a 31 de desembre de 2020, encara que llurs estatuts no ho prevegin, les cooperatives poden determinar representacions a través del vot delegat on cada persona sòcia pot representar com a màxim altres 5 vots a banda del seu propi.
+De forma excepcional i fins a 31 de desembre de 2021, encara que llurs estatuts no ho prevegin, les cooperatives poden determinar representacions a través del vot delegat on cada persona sòcia pot representar com a màxim altres 5 vots a banda del seu propi.
 
 Per a aquelles cooperatives que facin ús de la delegació de vot, es recomana adjuntar a la convocatòria el formulari de delegació amb el sentit del vot. També recomanem que s’inclogui, al formulari de delegació, un espai per si la persona sòcia vol que qui la representi faci en nom seu algun comentari perquè consti a l’acta de la reunió, si així ho determina la sòcia.
 
@@ -112,8 +110,8 @@ A\) En cas de celebrar l’Assemblea per videoconferència:
 B\) En cas de celebrar l’Assemblea presencialment:
 
 * Garantir la protecció de les sòcies \(mascaretes, gel hidroalcohòlic i distància entre persones, guants si s’ha de manipular paper\).
-* Per facilitar la tasca de preparació tècnica i logística, caldrà que les sòcies que assisteixin a l’Assemblea ho notifiquin amb antelació.
-* Es recomana no lliurar paper o no manipular papers físicament durant la celebració de l’Assemblea. Per a l’emissió de vot, es pot fer a mà alçada i si el vot és secret s’hauran de seguir els protocols de desinfecció i manipulació de papers.
+* Per facilitar la tasca de preparació tècnica i logística, es recomana que les sòcies que assisteixin a l’Assemblea ho hagin de notificar amb antelació.
+* Es recomana no lliurar paper o no manipular papers físicament durant la celebració de l’Assemblea. Per a l’emissió de vot, es pot fer a mà alçada i si el vot és secret s’hauran de seguir els protocols de desinfecció i manipulació de papers. Així mateix, es pot emprar el sistema de [**votació virtual Cercles.Coop**] (https://cercles.coop/) per evitar l’ús de paper. 
 * Totes les mesures que s’apliquin i les recomanacions s’han de recollir en un Pla de Contingència específic per a la celebració de l’Assemblea o reunió societària.
 * En cas de dubte o no conèixer amb exactitud les mesures específiques en matèria de prevenció de la salut, caldrà consultar a Protecció Civil les mesures específiques del municipi on se celebri l’assemblea.
 
@@ -123,15 +121,24 @@ B\) En cas de celebrar l’Assemblea presencialment:
 Atesa la variabilitat que s’està donant pel que fa a les afectacions de la COVID-19 arreu del territori, la importància de pal·liar els seus efectes i la importància de vetllar per la salut de les persones sòcies, recomanem a les cooperatives **no celebrar assemblees presencials**, llevat que les sòcies es puguin considerar grups de convivència o unitats familiars, tal i com estableixen els protocols sanitaris vigents i respectant les mesures concretes a tal efecte.
 {% endhint %}
 
+
+{% hint style="info" %}
+**ADVERTÈNCIA:** En el cas d’assemblees en què una part dels socis assisteixin de manera presencials i altres de manera virtual, cal tenir en consideració els límits establerts per la normativa de protecció civil en quan a persones reunides físicament.
+
+Així mateix, es pot desenvolupar una assemblea presencial, respectant els límits establerts per la normativa de protecció civil en quan a persones reunides físicament, on la resta de socis ho fan per vot delegat (o representacions de vot) 
+{% endhint %}
+
+
 ### 2.3. ACTA DE LA REUNIÓ
 
-S’haurà de fer constar que l’assemblea s’ha celebrat telemàticament a l’empara del Decret Llei 19/2020, en els termes següents:
+S’haurà de fer constar que l’assemblea s’ha celebrat telemàticament a l’empara del Decret Llei 47/2020, en els termes següents:
 
-> “Abans d'obrir l'ordre del dia, `el president/la presidenta` exposa que per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de totes les sòcies, el Consell Rector de `NOM DE LA COOPERATIVA`, en sessió celebrada el passat `POSAR LA DATA`, va acordar convocar l'Assemblea General `Ordinària/Extraordinària` perquè es realitzi de manera telemàtica i, per tant, els acords s'adoptaran per mitjans virtuals. Aquesta mesura es pren a l'empara del que recull l'article 3, sobre mesures relatives a la convocatòria i celebració de les assemblees generals del Decret Llei 19/2020, de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19. En la sessió de Consell Rector celebrada `POSAR DATA` es va acordar l'ordre del dia que es proposaria a l'Assemblea General i es va procedir a convocar-la en data `POSAR DATA`. La documentació associada a l'ordre del dia estava ja a disposició de les sòcies i se'ls va fer arribar per `DETALLAR MECANISME EMPRAT (correu electrònic/enllaç web/correu postal/...)`. `DETERMINAR NOMBRE DE DIES` dies abans de la realització de l'Assemblea General `Ordinària/Extraordinària`; es va enviar novament `INDICAR MECANISME EMPRAT (un correu electrònic, un sms... )` de recordatori amb la documentació `INCIAR FORMA ESTABLERTA (adjunta/enllaç web)`. Es va confirmar, amb tots els socis i sòcies, `INDICAR MECANISME EMPRAT (via telefònica/via whtasapp... )`la correcta recepció de la convocatòria i la documentació associada i s'ha confirmat que les persones sòcies disposen dels mitjans necessaris per participar amb garanties a l'Assemblea. “
+> “Abans d'obrir l'ordre del dia, `el president/la presidenta` exposa que per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de totes les sòcies, el Consell Rector de `NOM DE LA COOPERATIVA`, en sessió celebrada el passat `POSAR LA DATA`, va acordar convocar l'Assemblea General `Ordinària/Extraordinària` perquè es realitzi de manera telemàtica i, per tant, els acords s'adoptaran per mitjans virtuals. Aquesta mesura es pren a l'empara del que recull l'article 9, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 47/2020, de de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives. 
+En la sessió de Consell Rector celebrada `POSAR DATA` es va acordar l'ordre del dia que es proposaria a l'Assemblea General i es va procedir a convocar-la en data `POSAR DATA`. La documentació associada a l'ordre del dia estava ja a disposició de les sòcies i se'ls va fer arribar per `DETALLAR MECANISME EMPRAT (correu electrònic/enllaç web/correu postal/...)`. `DETERMINAR NOMBRE DE DIES` dies abans de la realització de l'Assemblea General `Ordinària/Extraordinària`; es va enviar novament `INDICAR MECANISME EMPRAT (un correu electrònic, un sms... )` de recordatori amb la documentació `INCIAR FORMA ESTABLERTA (adjunta/enllaç web)`. Es va confirmar, amb tots els socis i sòcies, `INDICAR MECANISME EMPRAT (via telefònica/via whtasapp... )`la correcta recepció de la convocatòria i la documentació associada i s'ha confirmat que les persones sòcies disposen dels mitjans necessaris per participar amb garanties a l'Assemblea. “
 
 **Altres aspectes a incloure a l'Acta:**
 
-* Que la reunió s’entén celebrada al domicili social de la cooperativa, tal i com es recull al Decret Llei 19/2020, de 19 de maig.
+* Que la reunió s’entén celebrada al domicili social de la cooperativa, tal i com es recull al Decret Llei 47/2020, de 24 de novembre.
 * Especificar de forma detallada com s’ha dut a terme: virtualment o presencialment, en primera o segona convocatòria, eines virtuals emprades per garantir la participació de les sòcies i exercir el dret a vot...
 
 El secretari o secretària del Consell Rector ha de deixar constància expressa que ha reconegut la identitat de totes les persones assistents i que han disposat dels documents sotmesos a l’assemblea des de la convocatòria.
@@ -151,18 +158,18 @@ En el cas que no es procedeixi a aprovar l’acta abans de finalitzar la sessió
 Per preparar, convocar i celebrar altres reunions societàries es poden seguir els mateixos mecanismes establerts per a les Assemblees Generals, només s’haurà d’adaptar la literatura de les fórmules proposades i la metodologia al tipus de reunió que se celebri, ja sigui de Consell Rector, de Comissions o altres òrgans societaris que tingui definits per estatuts la cooperativa.
 
 {% hint style="info" %}
-**Recordatori:** Cal tenir en compte que, excepcionalment, fins a 31 de desembre de 2020, el Consell Rector i les Comissions poden adoptar acords sense sessió, encara que els estatuts de la societat cooperativa no ho prevegin, sempre que ho decideixi la persona que els presideix o ho sol·licitin almenys dos membres.
+**Recordatori:** Cal tenir en compte que, excepcionalment, fins a 31 de desembre de 2021, el Consell Rector i les Comissions poden adoptar acords sense sessió, encara que els estatuts de la societat cooperativa no ho prevegin, sempre que ho decideixi la persona que els presideix o ho sol·licitin almenys dos membres.
 {% endhint %}
 
 ## 4. CERTIFICATS
 
-Els certificats d’assemblea o de consell rector s’elaboraran amb els mateixos criteris i aplicant els mateixos requeriments previstos a la Llei 12/2015, tanmateix es recomana afegir un punt en el certificat que faci referència al Decret Llei 10/2020 en els termes següents:
+Els certificats d’assemblea o de consell rector s’elaboraran amb els mateixos criteris i aplicant els mateixos requeriments previstos a la Llei 12/2015, tanmateix es recomana afegir un punt en el certificat que faci referència al Decret Llei 47/2020 en els termes següents:
 
-> “Que segons figura al Llibre d'Actes de `l'Assemblea General` es deixa constància del procediment efectuat per convocar i dur a terme l'esmentada Assemblea General `Ordinària/Extraordinària`, la qual es realitza per videoconferència a l'empara del que recull l'article 3, sobre mesures relatives a la convocatòria i celebració de les assemblees generals del Decret Llei 19/2020, de 19 de maig, de mesures complementàries en matèria social i sanitària per pal·liar els efectes de la pandèmia generada per la COVID-19.”
+> “Que segons figura al Llibre d'Actes de `l'Assemblea General` es deixa constància del procediment efectuat per convocar i dur a terme l'esmentada Assemblea General `Ordinària/Extraordinària`, la qual es realitza per videoconferència a l'empara del que recull l'article 9, sobre mesures relatives a la convocatòria i celebració de les assemblees generals del Decret Llei 47/2020, de de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives.”
 
 ## 5. RECOMANACIÓ GENERAL
 
-De forma excepcional i en virtut del regulat al Decret Llei 19/2020 les cooperatives, encara que llurs estatuts no ho prevegin, poden celebrar reunions dels òrgans socials per videoconferència. Així mateix, la Llei 12/2015 de cooperatives permet recollir en els estatuts socials l’opció de realitzar assemblees generals i reunions de consell rector, així com d’altres òrgans socials a través de videoconferència.
+De forma excepcional i en virtut del regulat al Decret Llei 47/2020 les cooperatives, encara que llurs estatuts no ho prevegin, poden celebrar reunions dels òrgans socials per videoconferència. Així mateix, la Llei 12/2015 de cooperatives permet recollir en els estatuts socials l’opció de realitzar assemblees generals i reunions de consell rector, així com d’altres òrgans socials a través de videoconferència.
 
 Atès que la incertesa actual ens pot portar a pensar que conviurem durant bastant temps amb les conseqüències de la COVID-19, recomanem a les cooperatives que modifiquin els estatuts socials per permetre la realització de reunions societàries per mitjans virtuals.
 
