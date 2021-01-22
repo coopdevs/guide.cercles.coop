@@ -111,7 +111,7 @@ B\) En cas de celebrar l’Assemblea presencialment:
 
 * Garantir la protecció de les sòcies \(mascaretes, gel hidroalcohòlic i distància entre persones, guants si s’ha de manipular paper\).
 * Per facilitar la tasca de preparació tècnica i logística, es recomana que les sòcies que assisteixin a l’Assemblea ho hagin de notificar amb antelació.
-* Es recomana no lliurar paper o no manipular papers físicament durant la celebració de l’Assemblea. Per a l’emissió de vot, es pot fer a mà alçada i si el vot és secret s’hauran de seguir els protocols de desinfecció i manipulació de papers. Així mateix, es pot emprar el sistema de [**votació virtual Cercles.Coop**] (https://cercles.coop/) per evitar l’ús de paper. 
+* Es recomana no lliurar paper o no manipular papers físicament durant la celebració de l’Assemblea. Per a l’emissió de vot, es pot fer a mà alçada i si el vot és secret s’hauran de seguir els protocols de desinfecció i manipulació de papers. Així mateix, es pot emprar el sistema de [votació virtual **Cercles.Coop**](https://cercles.coop/) per evitar l’ús de paper. 
 * Totes les mesures que s’apliquin i les recomanacions s’han de recollir en un Pla de Contingència específic per a la celebració de l’Assemblea o reunió societària.
 * En cas de dubte o no conèixer amb exactitud les mesures específiques en matèria de prevenció de la salut, caldrà consultar a Protecció Civil les mesures específiques del municipi on se celebri l’assemblea.
 
