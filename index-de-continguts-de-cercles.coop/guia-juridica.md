@@ -26,8 +26,6 @@ De manera excepcional i fins al 31 de desembre de 2021, encara que els estatuts 
 **ADVERTÈNCIA:** És responsabilitat del Consell Rector adoptar les mesures, segons les circumstàncies concretes, per tal que els socis i sòcies puguin rebre la convocatòria i concórrer a la sessió de l'assemblea amb les garanties pertinents.
 {% endhint %}
 
-
-
 #### Formes de comunicació
 
 Així doncs, la convocatòria s’ha de fer arribar a les sòcies segons prevegin els estatuts:
@@ -53,7 +51,6 @@ A la convocatòria, en tot cas, s’hi ha de fer constar el contingut següent:
 En el text de la convocatòria s’ha de fer referència al [Decret Llei 47/2020](https://portaljuridic.gencat.cat/eli/es-ct/dl/2020/11/24/47) en els termes següents:
 
 > “Per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de les persones sòcies, el Consell Rector de la `NOM DE LA COOPERATIVA`, reunit el passat `POSAR LA DATA`, va convocar l'Assemblea General `Ordinària/Extraordinària` i va acordar dur-la a terme per videoconferència i, per tant, els acords s'adoptaran virtualment. Aquesta mesura es pren a l'empara del que recull l'article 9.1, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 47/2020, de de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives.”
-
 
 La convocatòria es tancarà amb la fórmula que millor s’escaigui, segons el procediment que efectuï cada cooperativa. El requisit bàsic que ha de considerar el text de tancament és fer referència a la metodologia emprada per fer arribar a les sòcies la convocatòria i la documentació associada.
 
@@ -121,20 +118,17 @@ B\) En cas de celebrar l’Assemblea presencialment:
 Atesa la variabilitat que s’està donant pel que fa a les afectacions de la COVID-19 arreu del territori, la importància de pal·liar els seus efectes i la importància de vetllar per la salut de les persones sòcies, recomanem a les cooperatives **no celebrar assemblees presencials**, llevat que les sòcies es puguin considerar grups de convivència o unitats familiars, tal i com estableixen els protocols sanitaris vigents i respectant les mesures concretes a tal efecte.
 {% endhint %}
 
-
 {% hint style="info" %}
 **ADVERTÈNCIA:** En el cas d’assemblees en què una part dels socis assisteixin de manera presencials i altres de manera virtual, cal tenir en consideració els límits establerts per la normativa de protecció civil en quan a persones reunides físicament.
 
-Així mateix, es pot desenvolupar una assemblea presencial, respectant els límits establerts per la normativa de protecció civil en quan a persones reunides físicament, on la resta de socis ho fan per vot delegat (o representacions de vot) 
+Així mateix, es pot desenvolupar una assemblea presencial, respectant els límits establerts per la normativa de protecció civil en quan a persones reunides físicament, on la resta de socis ho fan per vot delegat \(o representacions de vot\)
 {% endhint %}
-
 
 ### 2.3. ACTA DE LA REUNIÓ
 
 S’haurà de fer constar que l’assemblea s’ha celebrat telemàticament a l’empara del Decret Llei 47/2020, en els termes següents:
 
-> “Abans d'obrir l'ordre del dia, `el president/la presidenta` exposa que per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de totes les sòcies, el Consell Rector de `NOM DE LA COOPERATIVA`, en sessió celebrada el passat `POSAR LA DATA`, va acordar convocar l'Assemblea General `Ordinària/Extraordinària` perquè es realitzi de manera telemàtica i, per tant, els acords s'adoptaran per mitjans virtuals. Aquesta mesura es pren a l'empara del que recull l'article 9, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 47/2020, de de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives. 
-En la sessió de Consell Rector celebrada `POSAR DATA` es va acordar l'ordre del dia que es proposaria a l'Assemblea General i es va procedir a convocar-la en data `POSAR DATA`. La documentació associada a l'ordre del dia estava ja a disposició de les sòcies i se'ls va fer arribar per `DETALLAR MECANISME EMPRAT (correu electrònic/enllaç web/correu postal/...)`. `DETERMINAR NOMBRE DE DIES` dies abans de la realització de l'Assemblea General `Ordinària/Extraordinària`; es va enviar novament `INDICAR MECANISME EMPRAT (un correu electrònic, un sms... )` de recordatori amb la documentació `INCIAR FORMA ESTABLERTA (adjunta/enllaç web)`. Es va confirmar, amb tots els socis i sòcies, `INDICAR MECANISME EMPRAT (via telefònica/via whtasapp... )`la correcta recepció de la convocatòria i la documentació associada i s'ha confirmat que les persones sòcies disposen dels mitjans necessaris per participar amb garanties a l'Assemblea. “
+> “Abans d'obrir l'ordre del dia, `el president/la presidenta` exposa que per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de totes les sòcies, el Consell Rector de `NOM DE LA COOPERATIVA`, en sessió celebrada el passat `POSAR LA DATA`, va acordar convocar l'Assemblea General `Ordinària/Extraordinària` perquè es realitzi de manera telemàtica i, per tant, els acords s'adoptaran per mitjans virtuals. Aquesta mesura es pren a l'empara del que recull l'article 9, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 47/2020, de de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives. En la sessió de Consell Rector celebrada `POSAR DATA` es va acordar l'ordre del dia que es proposaria a l'Assemblea General i es va procedir a convocar-la en data `POSAR DATA`. La documentació associada a l'ordre del dia estava ja a disposició de les sòcies i se'ls va fer arribar per `DETALLAR MECANISME EMPRAT (correu electrònic/enllaç web/correu postal/...)`. `DETERMINAR NOMBRE DE DIES` dies abans de la realització de l'Assemblea General `Ordinària/Extraordinària`; es va enviar novament `INDICAR MECANISME EMPRAT (un correu electrònic, un sms... )` de recordatori amb la documentació `INCIAR FORMA ESTABLERTA (adjunta/enllaç web)`. Es va confirmar, amb tots els socis i sòcies, `INDICAR MECANISME EMPRAT (via telefònica/via whtasapp... )`la correcta recepció de la convocatòria i la documentació associada i s'ha confirmat que les persones sòcies disposen dels mitjans necessaris per participar amb garanties a l'Assemblea. “
 
 **Altres aspectes a incloure a l'Acta:**
 

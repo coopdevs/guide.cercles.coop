@@ -12,7 +12,7 @@ Cercles.Coop inclou una guia de recomanacions jurídiques, una guia de recomanac
 
 Alhora, la Plataforma de votació Cercles.Coop es basa en una adaptació de la Plataforma Decidim, per tal d’incorporar els sistemes de participació i votació de la societats cooperatives d’acord amb el que s’estableix en la pròpia Llei de Cooperatives 12/2015 i els Decret Llei 19/2020 i 47/2020.
 
-![](.gitbook/assets/screenshot_2020-10-13-cercles-coop.png)
+![](.gitbook/assets/logos_cercles_coop.png)
 
 ## Què és Decidim?
 

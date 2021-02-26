@@ -21,7 +21,7 @@ Un cop enregistrats, entrareu directament a la plataforma i haureu d'acceptar no
 ![](../.gitbook/assets/screenshot_2020-08-17-prova-assemblea.png)
 
 {% hint style="warning" %}
-Un cop comprovat que l’administrador inicial pot accedir a la plataforma i pot començar a incorporar dades per preparar la reunió societària, caldrà accedir a l’apartat **Participants > Administradores** i eliminar com a administrador a l’usuari **CoopCat**, el qual inicialment figura com a administrador com a conseqüència d’haver donat d’alta la instància.
+Un cop comprovat que l’administrador inicial pot accedir a la plataforma i pot començar a incorporar dades per preparar la reunió societària, caldrà accedir a l’apartat **Participants &gt; Administradores** i eliminar com a administrador a l’usuari **CoopCat**, el qual inicialment figura com a administrador com a conseqüència d’haver donat d’alta la instància.
 {% endhint %}
 
 ## Preparació de la reunió societària
@@ -145,7 +145,7 @@ Reservarem la primera pregunta per **realitzar les acreditacions**. La finalitat
 {% endhint %}
 
 {% hint style="info" %}
-Recomanem sempre incloure per cada **Pregunta** la **Resposta** "abstenció", d'aquesta manrea podrem tenir un quorum concret de participació per cada pregunta. 
+Recomanem sempre incloure per cada **Pregunta** la **Resposta** "abstenció", d'aquesta manrea podrem tenir un quorum concret de participació per cada pregunta.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -195,9 +195,9 @@ martina@example.com,Martina Grau,+34653565761,col·laborador,0.67
 Significat dels camps:
 
 {% hint style="danger" %}
-Important! Quan importem el cens de les sòcies, aquestes seran convidades per mail a entrar al Decidim i podran veure tot el que hi hagi públic. Ens hem d'assegurar que la consulta i les preguntes publicades són les que volem tenir disponibles perquè les sòcies puguin veure i reflexionar abans de la reunió, **però tenir la data de inici de la consulta en una data futura per tal de no permetre les votacions fins el dia de la reunió.** 
+Important! Quan importem el cens de les sòcies, aquestes seran convidades per mail a entrar al Decidim i podran veure tot el que hi hagi públic. Ens hem d'assegurar que la consulta i les preguntes publicades són les que volem tenir disponibles perquè les sòcies puguin veure i reflexionar abans de la reunió, **però tenir la data de inici de la consulta en una data futura per tal de no permetre les votacions fins el dia de la reunió.**
 
-És recomanable haver explicat prèviament a les sòcies que rebran aquesta invitació amb la finalitat de realitzar una reunió amb votacions online. 
+És recomanable haver explicat prèviament a les sòcies que rebran aquesta invitació amb la finalitat de realitzar una reunió amb votacions online.
 {% endhint %}
 
 * **email:** Adreça de correu electrònic del soci, a través de la qual s'acreditarà com a usuari a la plataforma de votació. 
@@ -222,11 +222,9 @@ Quan vulguem importar el cens, que alhora implica l’emissió automàtica d’u
 Si hem d'actualitzar alguna dada al cens virtual de socis \(telèfon, tipologia de sòcia o ponderació del vot\) podem fer servir el mateix sistema i format. Primer, haurem de revocar aquest soci per tornar-lo a validar i ho farem amb l’opció **Revoca l'autorització dels usuaris** i, posteriorment, amb **Autoritza els usuaris**, ja amb les dades corregides.
 {% endhint %}
 
-
 {% hint style="warning" %}
 Si l'administrador que gestiona la instància és també soci de la cooperativa amb dret a vot, caldrà que aquest usuari també consti i es verifiqui a través del cens virtual juntament amb la resta de socis, encara que estigui enregistrat a la plataforma per la seva condició d'administrador.
 {% endhint %}
-
 
 ### Delegacions de vots
 
@@ -300,11 +298,9 @@ Si la vostra cooperativa o federació té vot ponderat i, per tant, el còmput d
 Per exemple: Mentre els administradors fan els càlculs poden compartir pantalla a través del sistema de videoconferència i mostrar, d'aquesta mateixa manera, el resultat final de cada pregunta amb el nombre de vots que ha obtingut cada opció de resposta de cada pregunta. Altrament, els administradors poden fer, sense la pressió visual, els càlculs sense mostrar-ho per videoconferència, per posteriorment projectar una graella resum del nombre de vots en funció del tipus de soci i el resultat final de cada pregunta amb el nombre de vots que ha obtingut cada opció de resposta de cada pregunta.
 {% endhint %}
 
-
-
 ## Sessió de capacitació en l'ús de la plataforma de votació Cercles.Coop
 
 Visualitza el vídeo de capacitació on es mostra com utilitzar l'àrea d'administrador i es resolen dubtes tècnics i jurídics:
 
+[![CerclesCoop](https://i9.ytimg.com/vi/Fe_gzw9-Tak/maxresdefault.jpg?time=1604053500000&sqp=CPzT7_wF&rs=AOn4CLBuh3AEh4xOXo4uCPKS8TTqh9wK1A)](http://www.youtube.com/watch?v=Fe_gzw9-Tak)
 
-[![CerclesCoop](https://i9.ytimg.com/vi/Fe_gzw9-Tak/maxresdefault.jpg?time=1604053500000&sqp=CPzT7_wF&rs=AOn4CLBuh3AEh4xOXo4uCPKS8TTqh9wK1A)](http://www.youtube.com/watch?v=Fe_gzw9-Tak "Sessió de capacitació: Plataforma de votació Cercles.Coop")
