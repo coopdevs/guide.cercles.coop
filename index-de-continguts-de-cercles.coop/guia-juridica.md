@@ -61,7 +61,7 @@ A la convocatòria, en tot cas, s’hi ha de fer constar el contingut següent:
 
 En el text de la convocatòria s’ha de fer referència a la normativa vigent en els termes següents:
 
-> “Per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de les persones sòcies, el Consell Rector de la `NOM DE LA COOPERATIVA`, reunit el passat `POSAR LA DATA`, va convocar l'Assemblea General `Ordinària/Extraordinària` i va acordar dur-la a terme per videoconferència i, per tant, els acords s'adoptaran virtualment. Aquesta mesura es pren a l'empara del que recull l'article 9.1, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 47/2020, de de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives.així com allò que estableix el Capítol 1 del Decret Llei 7/2021.”
+> “Per tal de contribuir a pal·liar els efectes de la pandèmia generada per la COVID-19, així com per vetllar per la salut de les persones sòcies, el Consell Rector de la `NOM DE LA COOPERATIVA`, reunit el passat `POSAR LA DATA`, va convocar l'Assemblea General `Ordinària/Extraordinària` i va acordar dur-la a terme per videoconferència i, per tant, els acords s'adoptaran virtualment. Aquesta mesura es pren a l'empara del que recull l'article 9.1, sobre mesures relatives a la convocatòria i celebració de les assemblees generals, del Decret Llei 47/2020, de de 24 de novembre, de mesures extraordinàries de caràcter econòmic en el sector de les instal·lacions juvenils, de mesures en el sector de les cooperatives, així com allò que estableix el Capítol 1 del Decret Llei 7/2021.”
 
 La convocatòria es tancarà amb la fórmula que millor s’escaigui, segons el procediment que efectuï cada cooperativa. El requisit bàsic que ha de considerar el text de tancament és fer referència a la metodologia emprada per fer arribar a les sòcies la convocatòria i la documentació associada.
 
@@ -129,7 +129,7 @@ B\) En cas de celebrar l’Assemblea presencialment:
 Atesa la variabilitat que s’està donant pel que fa a les afectacions de la COVID-19 arreu del territori, la importància de pal·liar els seus efectes i la importància de vetllar per la salut de les persones sòcies, recomanem a les cooperatives **no celebrar assemblees presencials**, llevat que les sòcies es puguin considerar grups de convivència o unitats familiars, tal i com estableixen els protocols sanitaris vigents i respectant les mesures concretes a tal efecte.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **ADVERTÈNCIA:** En el cas d’assemblees en què una part dels socis assisteixin de manera presencials i altres de manera virtual, cal tenir en consideració els límits establerts per la normativa de protecció civil en quan a persones reunides físicament.
 
 Així mateix, es pot desenvolupar una assemblea presencial, respectant els límits establerts per la normativa de protecció civil en quan a persones reunides físicament, on la resta de socis ho fan per vot delegat \(o representacions de vot\)
@@ -188,7 +188,10 @@ A continuació exposem una orientació de redactat que s’haurà d’adaptar en
 
 
 
-> _Versió revisada el febrer de 2021_
->
-> Aquesta guia està subjecta a una llicència de Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons i ha estat elaborada per la Confederació de Cooperatives de Catalunya, l’àrea de coordinació jurídica i les Federacions de Cooperatives.
+
+
+_Versió revisada el febrer de 2021_
+
+
+Aquesta guia està subjecta a una llicència de Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons i ha estat elaborada per la Confederació de Cooperatives de Catalunya, l’àrea de coordinació jurídica i les Federacions de Cooperatives.
 
