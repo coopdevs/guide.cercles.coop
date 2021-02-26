@@ -18,7 +18,7 @@ Aquesta guia inclou orientacions i recomanacions per organitzar, convocar i cele
 
 La cooperativa ha de fer la convocatòria segons ho faci habitualment d’acord amb els estatuts socials. Cal tenir en compte que, fins a 31 de desembre de 2022 i de manera excepcional, també es pot convocar emprant mitjans telemàtics, encara que els estatuts socials no ho prevegin. Així doncs, per a la convocatòria telemàtica, la cooperativa ha de disposar de les dades de les sòcies \(email, telèfon mòbil...\).
 
-{% hint style="warm" %}
+{% hint style="warning" %}
 **ADVERTÈNCIA:** De manera excepcional i fins al 31 de desembre del 2022, sempre que continuïn en vigor les mesures d'emergència sanitària que limitin la mobilitat de les persones o exigeixin mantenir una distància física interpersonal que dificulti o impedeixi concentrar un nombre elevat de persones en el mateix lloc, es prorroguen totes les mesures que estableix el capítol II del Decret llei 47/2020, llevat les que preveuen els articles 11 i 12, les quals han estat modificades en el Decret llei 7/2021.
 {% endhint %}
 
