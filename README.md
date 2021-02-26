@@ -10,7 +10,7 @@ description: Reunions societàries virtuals
 
 Cercles.Coop inclou una guia de recomanacions jurídiques, una guia de recomanacions tècniques, la plataforma de votació i la guia d'ús d'aquesta.
 
-Alhora, la Plataforma de votació Cercles.Coop es basa en una adaptació de la Plataforma Decidim, per tal d’incorporar els sistemes de participació i votació de la societats cooperatives d’acord amb el que s’estableix en la pròpia Llei de Cooperatives 12/2015 i els Decret Llei 19/2020 i 47/2020.
+Alhora, la Plataforma de votació Cercles.Coop es basa en una adaptació de la Plataforma Decidim, per tal d’incorporar els sistemes de participació i votació de la societats cooperatives d’acord amb el que s’estableix en la pròpia Llei de Cooperatives 12/2015, així com les successives normes aprovades com a mesures extraordinàries en matèria de cooperatives, com a conseqüència de la crisi derivada de la COVID-19: els Decret Llei 19/2020, 47/2020 i el 7/2021.
 
 ![](.gitbook/assets/logos_cercles_coop.png)
 
