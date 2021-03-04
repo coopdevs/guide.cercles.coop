@@ -22,12 +22,9 @@ La cooperativa ha de fer la convocatòria segons ho faci habitualment d’acord 
 **ADVERTÈNCIA:** De manera excepcional i fins al 31 de desembre del 2022, sempre que continuïn en vigor les mesures d'emergència sanitària que limitin la mobilitat de les persones o exigeixin mantenir una distància física interpersonal que dificulti o impedeixi concentrar un nombre elevat de persones en el mateix lloc, es prorroguen totes les mesures que estableix el capítol II del Decret llei 47/2020, llevat les que preveuen els articles 11 i 12, les quals han estat modificades en el Decret llei 7/2021.
 {% endhint %}
 
-
 {% hint style="info" %}
 **RECOMANACIÓ:** Per a convocatòries telemàtiques, recomanem emprar una empresa certificadora que permeti disposar d’un registre, amb validesa legal, de l’enviament, de la recepció, la data de la comunicació i el seu contingut.
 {% endhint %}
-
-
 
 #### Termini
 
@@ -186,12 +183,7 @@ A continuació exposem una orientació de redactat que s’haurà d’adaptar en
 >
 > En els òrgans socials de la COOPERATIVA s'ha de poder emetre el vot de forma telemàtica. El Consell Rector ha de garantir la seguretat i el secret del vot, quan aquesta possibilitat se sol·liciti, especialment davant tercers que no siguin membres de l'Assemblea General o del Consell Rector. Igualment, s'ha de poder acreditar de forma fefaent l'emissió del vot i la recepció del mateix per part de la presidència de la reunió. A tots els efectes, s’entendrà que la reunió ha tingut lloc al domicili de la persona que la presideix.
 
-
-
-
-
 _Versió revisada el febrer de 2021_
-
 
 Aquesta guia està subjecta a una llicència de Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons i ha estat elaborada per la Confederació de Cooperatives de Catalunya, l’àrea de coordinació jurídica i les Federacions de Cooperatives.
 

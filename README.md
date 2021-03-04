@@ -1,8 +1,8 @@
 ---
-description: Reunions societàries virtuals
+description: Online cooperative members assamblies
 ---
 
-# Què és Cercles.Coop?
+# What is Cercles.Coop?
 
 ![](.gitbook/assets/logo2.jpg)
 

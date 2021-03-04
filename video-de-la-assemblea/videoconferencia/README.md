@@ -45,13 +45,13 @@ Qualsevol dels sistemes anteriors són òptims per a reunions societàries de 10
 
 Quan volem realitzar una reunió privada de més de 10 participants recomanem fer-ho en mode Webinar:
 
-{% page-ref page="mode-webinar.md" %}
-
 ## 2. Reunió oberta a públic
 
 Si es vol celebrar una reunió oberta al públic podem esperar, a banda dels socis, un nombre indeterminat més de persones, aleshores es recomana seguir les recomanacions per a reunions de més de 10 participants, webinar o broadcasting, però en aquest cas habilitant la videoconferència en obert a tot el públic.
 
 {% page-ref page="mode-webinar.md" %}
+
+{% endpage-ref %}
 
 {% page-ref page="mode-broadcasting.md" %}
 

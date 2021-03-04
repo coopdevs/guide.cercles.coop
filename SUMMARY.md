@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Què és Cercles.Coop?](README.md)
+* [What is Cercles.Coop?](README.md)
 
 ## Índex de continguts de Cercles.Coop
 

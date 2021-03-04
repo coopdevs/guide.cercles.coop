@@ -7,5 +7,3 @@ Hem millorat el mòdul direct-verifications per permetre:
 
 [https://github.com/Platoniq/decidim-verifications-direct\_verifications](https://github.com/Platoniq/decidim-verifications-direct_verifications)
 
-
-
