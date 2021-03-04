@@ -24,7 +24,7 @@ Amb [Decidim](https://decidim.org) es poden configurar espais de participació \
 
 ## Com puc utilitzar **Cercles.Coop**?
 
-CoopCat ofereix aquest servei a través del qual mancomunem el cost de manteniment en una plataforma gestionada per CoopCat i les Federacions de cooperatives. [**Sol·licita-ho aquí**](https://cercles.coop)\*\*\*\*
+CoopCat ofereix aquest servei a través del qual mancomunem el cost de manteniment en una plataforma gestionada per CoopCat i les Federacions de cooperatives. [**Sol·licita-ho aquí**](https://cercles.coop)
 
 ![](.gitbook/assets/ccoopcat.jpg)
 
