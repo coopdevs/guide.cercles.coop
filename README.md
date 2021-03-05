@@ -8,9 +8,7 @@ description: Online cooperative members assamblies
 
 És un repositori digital de recursos de codi obert per preparar i celebrar reunions societàries virtuals amb les garanties jurídiques establertes per la normativa vigent. Va adreçat a cooperatives i federacions de cooperatives. També a entitats i organitzacions de l’economia social que tinguin incorporats en els seus òrgans processos democràtics de participació.
 
-Cercles.Coop inclou una guia de recomanacions jurídiques, una guia de recomanacions tècniques, la plataforma de votació i la guia d'ús d'aquesta.
-
-Alhora, la Plataforma de votació Cercles.Coop es basa en una adaptació de la Plataforma Decidim, per tal d’incorporar els sistemes de participació i votació de la societats cooperatives d’acord amb el que s’estableix en la pròpia Llei de Cooperatives 12/2015, així com les successives normes aprovades com a mesures extraordinàries en matèria de cooperatives, com a conseqüència de la crisi derivada de la COVID-19: els Decret Llei 19/2020, 47/2020 i el 7/2021.
+Cercles.Coop inclou una una guia de recomanacions tècniques, la plataforma de votació i la guia d'ús d'aquesta.
 
 ![](.gitbook/assets/logos_cercles_coop.png)
 

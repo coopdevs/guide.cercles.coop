@@ -1,4 +1,4 @@
-# 3. Manual per crear una reunió societària virtual
+# Manual per crear una reunió societària virtual
 
 **Manual per crear una reunió societària: ordre del dia, documentació associada i paràmetres de votació de cada un dels punts de l'ordre del dia**
 

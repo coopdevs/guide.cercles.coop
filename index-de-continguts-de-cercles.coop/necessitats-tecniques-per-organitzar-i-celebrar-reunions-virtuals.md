@@ -1,4 +1,4 @@
-# 2. Necessitats tècniques per organitzar i celebrar reunions virtuals
+# Necessitats tècniques per organitzar i celebrar reunions virtuals
 
 Cada cooperativa compta amb uns estatuts propis que les habilita a realitzar la seva assemblea general o altres reunions societàries amb diferents especificitats. No obstant això, hi ha un seguit de funcionalitats que són necessàries per tal de poder organitzar una reunió virtual:
 
