@@ -2,7 +2,7 @@
 
 **Manual per crear una reunió societària: ordre del dia, documentació associada i paràmetres de votació de cada un dels punts de l'ordre del dia**
 
-Per utilitzar la plataforma de votació Cercles.Coop s’ha d’haver sol·licitat la creació d’una [instància pròpia](https://cercles.coop). Així doncs, per implantar les passes del manual, assumim que ja teniu disponible una instància i un [sistema de emissió de vídeo](necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md#1-emissio-de-video-en-directe) escollit.
+Per utilitzar la plataforma de votació Cercles.Coop s’ha d’haver sol·licitat la creació d’una [instància pròpia](https://cercles.coop). Així doncs, per implantar les passes del manual, assumim que ja teniu disponible una instància i un [sistema de emissió de vídeo](technical.md#1-emissio-de-video-en-directe) escollit.
 
 {% hint style="info" %}
 Per configurar la instància a nivell d’administrador, podeu consultar documentació més amplia a [https://docs.decidim.org](https://docs.decidim.org). No obstant això, si voleu fer servir les funcionalitats específiques per preparar la reunió societària que des de CoopCat s’ha validat, us recomanem seguir únicament aquesta guia.
