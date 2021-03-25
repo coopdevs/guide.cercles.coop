@@ -1,4 +1,4 @@
-# Mode broadcasting
+# Broadcasting mode
 
 ## Emetre la videoconferència en directe a través de youtube
 
