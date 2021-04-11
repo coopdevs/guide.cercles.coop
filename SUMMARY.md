@@ -15,8 +15,8 @@
 
 ## Referència codi desenvolupat
 
-* [Importació de sòcies i resultats de votació](referencia-codi-desenvolupat/importacio-de-socies-i-resultats-de-votacio.md)
-* [Mòdul de delegació de vots](referencia-codi-desenvolupat/modul-de-delegacio-de-vots.md)
+* [Import of votes and voting results](referencia-codi-desenvolupat/importacio-de-socies-i-resultats-de-votacio.md)
+* [Proxy voting module](referencia-codi-desenvolupat/modul-de-delegacio-de-vots.md)
 
 ## Altres recursos
 
