@@ -5,7 +5,7 @@
 ## Índex de continguts de Cercles.Coop
 
 * [Technical requirements for organising and holding virtual meetings](index-de-continguts-de-cercles.coop/technical.md)
-* [Manual to create a virtual company meeting](index-de-continguts-de-cercles.coop/create-virtual-meeting.md)
+* [Guide: Set up a virtual meeting](index-de-continguts-de-cercles.coop/create-virtual-meeting.md)
 
 ## Emissió de vídeo en directe <a id="video-de-la-assemblea"></a>
 
